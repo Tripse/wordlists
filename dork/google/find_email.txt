@@ -1,0 +1,1 @@
+site:example.com intext:@<email_ext> intext:password

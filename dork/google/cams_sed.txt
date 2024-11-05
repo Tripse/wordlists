@@ -1,0 +1,37 @@
+site:example[.]com inurl:"view/index.shtml"
+site:example[.]com inurl:"MultiCameraFrame?Mode=Motion"
+site:example[.]com VB Viewer inurl:/viewer/live/ja/live.html
+site:example[.]com intitle:"IP CAMERA Viewer" intext:"setting | Client setting"
+site:example[.]com intitle:"Device(" AND intext:"Network Camera" AND "language:" AND "Password"
+site:example[.]com intitle:"webcam 7" inurl:'/gallery.html'
+site:example[.]com intitle:"Yawcam" inurl:8081
+site:example[.]com inurl:control/camerainfo
+site:example[.]com intitle:"webcamXP 5" -download
+site:example[.]com inurl:"/view/view.shtml?id="
+site:example[.]com inurl:/view/viewer_index.shtml
+site:example[.]com intext:"powered by webcamXP 5"
+site:example[.]com intitle:webcam 7 inurl:8080 - intext:8080
+site:example[.]com intitle:"Live View / - AXIS" | inurl:view/view.shtml OR inurl:view/indexFrame.shtml | intitle:"MJPG Live Demo" | "intext:Select preset position"
+site:example[.]com allintitle: Axis 2.10 OR 2.12 OR 2.30 OR 2.31 OR 2.32 OR 2.33 OR 2.34 OR 2.40 OR 2.42 OR 2.43 "Network Camera "
+site:example[.]com allintitle:Edr1680 remote viewer
+site:example[.]com allintitle: EverFocus | EDSR | EDSR400 Applet
+site:example[.]com allintitle: EDR1600 login | Welcome
+site:example[.]com intitle:"BlueNet Video Viewer"
+site:example[.]com intitle:"SNC-RZ30" -demo
+site:example[.]com inurl:cgi-bin/guestimage.html
+site:example[.]com (intitle:(EyeSpyFX| OptiCamFX) "go to camera") | (inurl:servlet/DetectBrowser)
+site:example[.]com intitle:"Veo Observer XT" -
+site:example[.]com inurl:shtml | pl | php| htm | asp | aspx| pdf | cfm - intext:observer
+site:example[.]com intitle:"iGuard Fingerprint Security System" (intitle:MOBOTIX intitle:PDAS) | (intitle:MOBOTIX intitle:Seiten) | (inurl:/pda/index.html +camera)
+site:example[.]com intitle:"Edr1680 remote viewer"
+site:example[.]com intitle:"NetCam Live Image" -. edu -. gov - johnny.ihackstuff.com
+site:example[.]com intitle:"INTELLINET" intitle:"IP Camera Homepage"
+site:example[.]com intitle:"WEBDVR" -inurl:product -inurl:demo
+site:example[.]com intitle:"Middle frame of Videoconference Management System" ext:htm
+site:example[.]com intitle:"Live View / - AXIS" | inurl:view/view.shtml
+site:example[.]com intitle: "AXIS 240 Camera Server" intext:"server push" -help
+site:example[.]com intitle:" --- VIDEO WEB SERVER --- " intext:"Video Web Server" "Any time & Any where" username password
+site:example[.]com intitle: HomeSeer.Web.Control | Home.Status.Events.Log
+site:example[.]com inurl:camctrl.cgi
+site:example[.]com intitle:"supervisioncam protocol"
+site:example[.]com intitle:"active webcam page"

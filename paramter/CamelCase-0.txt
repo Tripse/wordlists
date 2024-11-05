@@ -1,0 +1,23 @@
+# https://www.gjk.cn/daxiaoxie
+GetRolesByUserId
+GetUserByUserId
+GetUser
+GetList
+GetPass
+GetInfo
+GetUserList
+GetUserInfo
+FogetPass
+FogetPassword
+FogetPasswords
+Reset
+ResetPass
+ResetPassword
+ResetPasswords
+SetUser
+SetPass
+SetUsername
+SetUserinfo
+SetPassword
+AddUser
+AddUserinfo
