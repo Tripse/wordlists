@@ -1,0 +1,17 @@
+site:*.example.com inurl:?RedirectUrl=
+site:*.example.com inurl:?page=
+site:*.example.com inurl:?url=
+site:*.example.com inurl:?uri=
+site:*.example.com inurl:?u=
+site:*.example.com inurl:?return=
+site:*.example.com inurl:?redirectBack=
+site:*.example.com inurl:?redir=
+site:*.example.com inurl:?returnurl=
+site:*.example.com inurl:?return_url=
+site:*.example.com inurl:?link=
+site:*.example.com inurl:?location=
+site:*.example.com inurl:?referrer=
+site:*.example.com inurl:?back=
+site:*.example.com inurl:?home=
+site:*.example.com inurl:?return_to=
+site:*.example.com inurl:?startUrl=
