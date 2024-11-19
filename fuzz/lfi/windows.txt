@@ -5766,3 +5766,24 @@ C:/xampp/mercurymail/LOGS/error.log
 C:/xampp/phpMyAdmin/config.inc
 C:/xampp/phpMyAdmin/config.inc.php
 C:/xampp/phpMyAdmin/phpinfo.php
+C:\nginx-1.7.4\conf\nginx.conf
+C:\nginx-1.7.4\nginx.conf
+C:/program files/apachegroup/apache2/conf/httpd.conf
+C:/programfiles/apachegroup/apache2/conf/httpd.conf
+C:/program files/apachegroup/apache/conf/httpd.conf
+C:/programfiles/apachegroup/apache/conf/httpd.conf
+C:\Program Files\Apache Software Foundation\Apache2.2\conf\httpd.conf
+C:\Program Files\Apache Software Foundation\Apache2.2\logs\access.log
+C:\Program Files\Apache Software Foundation\Apache2.2\logs\error.log
+C:/programfiles/xampp/apache/conf/httpd.conf
+C:/program files/xampp/apache/conf/httpd.confetc/passwd
+C:\wamp\apache2\logs\access.log
+C:\wamp\apache2\logs\access_log
+C:\wamp\apache2\logs\error.log
+C:\wamp\apache2\logs\error_log
+C:\wamp\logs\access_log
+C:\wamp\logs\error.log
+C:\wamp\logs\error_log
+C:/windows/iis6.log (5,6 or 7)
+C:\xampp\apache\logs\access_log
+C:\xampp\apache\logs\error_log

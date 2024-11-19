@@ -20,3 +20,4 @@ default
 webadmin
 AppProdUser
 auditor
+jeecg
