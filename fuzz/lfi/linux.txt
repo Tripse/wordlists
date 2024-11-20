@@ -98165,3 +98165,32 @@ php://filter/convert.base64-encode/resource=config
 ~/.xinitrc
 ~/.Xresources
 ~/.xsession
+etc/mongodb.conf
+etc/php/7.4/apache2/php.ini
+etc/php/7.4/cli/php.ini
+etc/php/7.4/fpm/php.ini
+etc/redis/redis.conf
+etc/ssh/id_dsa
+etc/ssh/id_ecdsa
+etc/ssh/id_ed25519
+etc/ssh/id_rsa
+etc/ssh/known_hosts
+root/.my.cnf
+var/log/cron
+var/log/xorg.log
+var/log/audit/audit.log
+var/log/clamav/clamav.log
+var/log/sshd.log
+var/log/ntp.log
+var/log/acpid
+home/$USER/.config/google-chrome-beta/Default/Login\ Data
+home/$USER/.config/google-chrome/Default/Login\ Data
+home/$USER/.config/google-chrome/Default/Session\ Storage/LOG
+home/$USER/.config/Code/Cookies
+home/$USER/.config/Code/databases/Databases.db
+home/$USER/.config/google-chrome/Default/databases/Databases.db
+home/$USER/.config/google-chrome-beta/Default/databases/Databases.db
+home/$USER/.config/Code/CachedProfilesData/__default__profile__/extensions.user.cache
+home/$USER/.config/google-chrome/Default/Web\ Data
+home/$USER/.config/google-chrome/Default/Session Storage/LOG
+home/$USER/.config/google-chrome/Default/Preferences

