@@ -128,6 +128,5 @@ qwer
 AppProdUser
 ykssvcdevus
 hongbinbin
-AppProdUser
 other_0501
 kz_0501

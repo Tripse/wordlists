@@ -183,3 +183,11 @@ onwebkittransitionend
 onwebkitwillrevealbottom
 onwheel
 onzoom
+onbeforeonload
+onhaschange
+onredo
+onundo
+onformchange
+onforminput
+onloadedstart
+style

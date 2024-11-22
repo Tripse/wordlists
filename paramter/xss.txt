@@ -37,3 +37,4 @@ item
 page_id
 immagine
 l
+goto

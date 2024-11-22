@@ -150,3 +150,13 @@ formeditor.js
 flot.js
 click.js
 ajaxfileupload.js
+AccessPlatform/auth/clientscripts/cookies.js
+AccessPlatform/auth/clientscripts/login.js
+Citrix//AccessPlatform/auth/clientscripts/cookies.js
+Citrix/AccessPlatform/auth/clientscripts/login.js
+js/envConfig.js
+js/prod.js
+js/prepod.js
+js/qa.js
+v1/test/js/console_ajax.js
+ajaxfileupload/ajaxfileupload.js

@@ -50,6 +50,7 @@ bzgrep
 bzip2
 bzless
 bzmore
+c++
 cal
 cardctl
 cardmgr
@@ -567,4 +568,3 @@ zic
 zless
 zmore
 znew
-c++
