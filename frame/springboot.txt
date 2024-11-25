@@ -4,6 +4,7 @@ artemis
 env
 admin
 spring
+eureka
 trace
 health
 loggers
