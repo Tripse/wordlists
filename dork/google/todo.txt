@@ -1,0 +1,5 @@
+https://github.com/Proviesec/google-dorks   
+https://github.com/aleedhillon/7000-Google-Dork-List/tree/master
+https://github.com/Ishanoshada/GDorks
+https://github.com/Proviesec/google-dorks
+https://github.com/TakSec/google-dorks-bug-bounty

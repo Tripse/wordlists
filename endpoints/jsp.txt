@@ -32805,3 +32805,7 @@ xml/_common.xml
 xml/common.xml
 xsql/lib/XSQLConfig.xml
 XSQLConfig.xml
+accountList.jsp
+meta.jsp
+Password.jsp
+UploadFile.jsp
