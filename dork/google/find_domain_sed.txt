@@ -1,4 +1,0 @@
-intext:浙ICP备09002987号 intext:33010002000070 -www
-intext:"company_name" -inurl:https
-intext:"© copyright intigriti 2022"
-site:example.com -www -shop -share -ir -mfa

@@ -3643,3 +3643,6 @@ httpclient.js
 remoteobject.js
 on_load_main.js
 jscript_textarea_counter.js
+dev.js
+mqtt.js
+env.js

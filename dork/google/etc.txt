@@ -1,0 +1,3 @@
+site:*.example.com ext:txt | ext:key | ext:pem | ext:ovpn | ext:log | ext:yml | ext:yaml | ext:json | ext:xml | ext:env | ext:conf | ext:ini | ext:cfg | ext:cgi | ext:sh | ext:htpasswd
+site:*.example.com ext:bak | ext:dat | ext:zip | ext:backup | ext:swp | ext:old | ext:~ | ext:git | ext:svn | ext:sql | ext:admin | ext:root | ext:db
+site:*.example.com ext:pdf | ext:xls | ext:xlsx | ext:ppt | ext:pptx | ext:doc | ext:docx | ext:md | ext:xlsm | ext:csv

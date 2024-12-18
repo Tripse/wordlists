@@ -1,4 +1,4 @@
-./email_index.asp
+email_index.asp
 00/index_admin_01.asp
 01/vote02/design/py.asp
 01/vote02/login.asp

@@ -150,6 +150,7 @@ App_Code
 archive
 video
 App_Data
+WPMS
 downloader
 xml
 javascript

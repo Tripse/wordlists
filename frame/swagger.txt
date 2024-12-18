@@ -245,6 +245,11 @@ v2/rest/swagger.json
 apis/swagger
 apidocs/swagger-ui.html
 v3/api-docs/swagger.json
+api.html
+sw/swagger-ui.html
+template/swagger-ui.html
+spring-security-rest/api/swagger-ui.html
+spring-security-oauth-resource/swagger-ui.html
 documentation/version
 apidoc/v1/swagger.json
 swagger/index.yaml
