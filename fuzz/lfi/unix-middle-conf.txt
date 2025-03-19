@@ -1,0 +1,10 @@
+etc/apache/apache.conf
+etc/apache/httpd.conf
+etc/apache2/apache2.conf
+etc/apache2/httpd.conf
+etc/httpd/conf/httpd.conf
+etc/nginx.conf
+etc/nginx/nginx.conf
+usr/local/etc/apache/httpd.conf
+usr/local/etc/apache2/httpd.conf
+usr/local/etc/nginx/nginx.conf

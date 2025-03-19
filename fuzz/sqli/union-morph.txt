@@ -1,0 +1,83 @@
+/*--*/union/*--*/select/*--*/
+/*!%55NiOn*/ /*!%53eLEct*/
+/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/
+/*!50000%55nIoN*/ /*!50000%53eLeCt*/
+/*!50000UniON SeLeCt*/
+/*!blobblobblob%0d%0aunion*/+/*!blobblobblob%0d%0aSelEct*/
+/*!f****U%0d%0aunion*/+/*!f****U%0d%0aSelEct*/
+/*!u%6eion*/ /*!se%6cect*/
+/*!uNIOn*/ /*!SelECt*/
+/*!union*//*--*//*!all*//*--*//*!select*/
+/*!union*/+/*!select*/
+/*!UnIoN*/SeLeCT
+/*!UnIoN*/SeLecT+
+/**//*!12345UNION SELECT*//**/
+/**//*!50000UNION SELECT*//**/
+/**//*!union*//**//*!select*//**/
+/**//*U*//*n*//*I*//*o*//*N*//*S*//*e*//*L*//*e*//*c*//*T*/
+/**/union/*!50000select*/
+/**/union/*!50000select*//**/
+/**/UNION/**//*!50000SELECT*//**/
+/**/union/**/select/**/
+/**/uNIon/**/sEleCt/**/
+/*uni X on*/union/*sel X ect*/
+/*union*/union/*select*/select+
+/%2A%2A/union/%2A%2A/select/%2A%2A/
+/^.*union.*$/ /^.*select.*$/
+/union\s+select/i
+/union\sselect/g
+%0A/**//*!50000%55nIOn*//*yoyu*/all/**/%0A/*!%53eLEct*/%0A/*nnaa*/
+%0A%09UNION%0CSELECT%10NULL%
+%0Aunion%0Aselect%0A
+%23xyz%0A%55nIOn%23xyz%0A%53eLecT+
+%23xyz%0AUnIOn%23xyz%0ASeLecT+
+%252f%252a*/union%252f%252a /select%252f%252a*/
+%252f%252a*/UNION%252f%252a /SELECT%252f%252a*/
+%2f**%2funion%2f**%2fselect
+%2f**%2funion%2f**%2fselect%2f**%2f
+%55nion(%53elect 1,2,3)-- -
+%55nion/**/%53elect
++ #?1q %0AuNiOn all#qa%0A#%0AsEleCt
++ #?uNiOn + #?sEleCt
++’UnI”On’+'SeL”ECT’
++(UnI)(oN)+(SeL)(EcT)
++(UnIoN)+(SelECT)+
++/*!UnIoN*/+/*!SeLeCt*/+
++#1q%0Aunion all#qa%0A#%0Aselect
++#1q%0AuNiOn all#qa%0A#%0AsEleCt
++%23blobblobblob%0aUnIOn%23blobblobblob%0aSeLe cT+
++%23sexsexsex%0AUnIOn%23sexsexs ex%0ASeLecT+
++%2F**/+Union/*!select*/
++un/**/ion+se/**/lect
++un/**/ion+sel/**/ect+
++uni on+sel ect+
++uni*on+sel*ect+
++uni%0bon+se%0blect+
++uni>on+sel>ect+
++UnIoN/*&a=*/SeLeCT/*&a=*/
++UnIOn%0d%0aSeleCt%0d%0a
++union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A1% 2C2%2C
++union+distinct+select+
++union+distinctROW+select+
++UNunionION+SEselectLECT+
+0%a0union%a0select%09
+REVERSE(noinu)+REVERSE(tceles)
+un?<ion sel="">+un/**/ion+se/**/lect+
+uni%0bon+se%0blect
+uni%20union%20/*!select*/%20
+uni<on all="" sel="">/*!20000%0d%0aunion*/+/*!20000%0d%0aSelEct*/
+union (/*!/**/ SeleCT */ 1,2,3)
+uNioN (/*!/**/ SeleCT */ 11)
+union (select 1111,2222,3333)
+union /*!50000%53elect*/
+uNiOn aLl sElEcT
+union(select (1),(2),(3),(4),(5))
+union(select(1),2,3)
+UNION(SELECT(column)FROM(table))
+UNION/*&test=1*/SELECT/*&pwn=2*/
+union%23aa%0Aselect
+union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A
+union%23foo*%2F*bar%0D%0Aselect%23foo%0D%0A1% 2C2%2C
+union+/*!select*/
+union+sel%0bect
+UNIunionON+SELselectECT

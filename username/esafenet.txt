@@ -1,0 +1,11 @@
+systemadmin
+configadmin
+test
+debug
+secadmin
+admin
+docadmin
+DocAdmin
+LogAdmin
+druid
+guest

@@ -1,0 +1,10 @@
+application/atom+xml
+application/json
+application/octet-stream
+application/svg+xml
+application/x-www-form-urlencoded
+application/xml
+multipart/form-data
+text/html
+text/plain
+text/xml

@@ -1,0 +1,117 @@
+&#60;h1&#62;HTML&#60;/h1&#62;
+&amp;lt;h1&amp;gt;HTML&amp;lt;/h1&amp;gt;
+&lt;h1&gt;HTML&lt;/h1&gt;
+%253Ch1%253EHTML%253C%252Fh1%253E
+%253Ch1%253EHTML%253C%252Fh1%253E<h1>Html</h1>
+%253Ci%253Ehtml%253C%252Fi%253E
+%3Ch1%3EHTML%3C%2Fh1%3E
+%3Ci%3Ehtml%3C%2Fi%3E
+<<h1>HTML</h1>
+<<h1>html</h1>>
+<<h1>HTML</h1>>
+<a href="https://www.google.com">HTML</a>
+<abbr title="HTML">HTML</abbr>
+<acronym title="Armour Infosec">AI</acronym>
+<address>address,address</address>
+<article><h2>Armour Infosec</h2></article>
+<audio controls><source src="demo.ogg" type="audio/ogg"><source src="demo.mp3" type="audio/mpeg"></audio>
+<b>HTML</b>
+<bdi>Html</bdi>injection
+<bdo dir="rtl">HTML html</bdo>
+<blockquote cite="http://google.com">HTML Injection</blockquote>
+<body style="background-color:red">
+<body><h1>HTML html</h1></body>
+<button type="button">Click Me!</button> 
+<canvas id="myCanvas">draw htmli</canvas>
+<caption>Html</caption>
+<cite>Html Html</cite> 
+<code>Html</code>
+<colgroup><col span="2" style="background-color:red"></colgroup>
+<data value="21053">test html</data>
+<datalist id="html"><option value="html"></datalist>
+<dd>Html</dd>
+<del>Html</del>
+<details><summary>HTML</summary><p>html html</p></details>
+<dfn>HTML</dfn>
+<dialog close></dialog>
+<dialog open>Html</dialog> 
+<div>HTML</div>
+<dl><dt>Html</dt></dl>
+<dt>Html</dt>
+<em>Html</em>
+<embed type="text/html" src="index.html" width="500" height="200"> 
+<fieldset><legend>hello:</legend><label for="fname">First name:</label><input type="text"id="fname"name="fname"><br><br><inputtype="submit" value="Submit"></fieldset>
+<figcaption>Html Html</figcaption>
+<figure>Html</figure>
+<footer>HTML html</footer>
+<form method="GET">Username: <input type="text" name="username" value="" /> <br />Password: <input type="password" name="passwd" value="" /> <br /><input type="submit" name="submit" value="login" /></form>
+<form method="POST">Username: <input type="text" name="username" value="" /> <br />Password: <input type="password" name="passwd" value="" /> <br /><input type="submit" name="submit" value="login" /></form>
+<h1>html</h1>
+<h1>HTML</h1>
+<h1>HTML</h1><!--
+<h1>HTML</h1>123
+<h2>HTML</h2>
+<h3>HTML</h3>
+<h4>HTML</h4>
+<h5>HTML</h5>
+<h6>HTML</h6>
+<head><base href="https://www.google.com" target="_blank"></head>
+<head><title>html</title></head>
+<header>HTML html</header>
+<hr>html<hr>
+<i>HTML</i>
+<iframe id="if1" src="https://www.google.com"></iframe>
+<iframe id="if2" src="https://www.google.com"></iframe>
+<iframe src="https://www.google.com" title="test"></iframe>
+<img src="index.jpg" alt="Girl in a jacket" width="500" height="600">
+<input type="text" id="name" name="name">
+<ins>Html</ins>
+<ins>red</ins>
+<kbd>Ctrl</kbd>
+<legend>Html</legend>
+<li>Html</li>
+<main>Html</main>
+<map name="workmap">Html</map>
+<mark>Html</mark>
+<meter id="html" value="2" min="0" max="10">2 out of 10</meter>
+<nav>Html</nav>
+<noscript>Sorry, your browser does not support Html</noscript>
+<ol>Html</ol>
+<optgroup label="Html"></optgroup>
+<option value="Html>Html</option>
+<p>HTML</p>
+<p>HTMLinjection here</p>
+<pre>Html</pre>
+<pre>HTML</pre>
+<progress id="html" value="32" max="100"> 32% </progress>
+<q>Html Html</q>
+<s>Only 50 tickets left</s>
+<samp>File not found</samp>
+<section>HTML</section>
+<select name="cars" id="cars"></select>
+<small>HTML rocks</small>
+<span style="color:blue;font-weight:bold">html</span>
+<strong>Html</strong>
+<style>h1 {color:red;}</style><h1>This is a heading</h1>
+<sub>Html</sub>
+<summary>Html</summary>
+<sup>Html</sup>
+<svg width="100" height="100"><circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" /></svg>
+<table><th>HTML</th><th>HTML</th></table>
+<textarea id="HTML" name="HTML" rows="4" cols="50">Html injected</textarea>
+<time datetime="2008-02-14 20:00">HTML</time>
+<time>10:10</time>
+<u>Html</u>
+<ul>html</ul>
+<var>Html</var>
+<video width="320" height="240" controls></video>
+<wbr>HTML html<wbr>
+$$\<u>HTML</u>{}$$
+123<h1>HTML</h1>
+123<h1>HTML</h1>123
+Html<br>line breaks<br>injection
+label for="html">HTML</label><br>
+PGgxPkhUTUw8L2gxPg==
+qq<h1>HTML</h1>
+qq<h1>HTML</h1>qq
+UEdneFBraFVUVXc4TDJneFBnPT0=
