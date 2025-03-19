@@ -1,8 +1,6 @@
 # README
 
-欢迎 pr 补充
-
-todo：
+Todo:
 
 - [ ] Dork list
 
