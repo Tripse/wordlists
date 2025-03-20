@@ -88,3 +88,4 @@ webdav
 webdav/index.html
 webdav/servlet/org.apache.catalina.servlets.WebdavServlet/
 webdav/servlet/webdav/
+webdav/servlet/webdav/examples/%2e%2e/manager/html
