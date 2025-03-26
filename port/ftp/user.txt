@@ -1,0 +1,15 @@
+000
+111
+123
+aaa
+admin
+administrator
+anonymous
+dev
+devweb
+ftp
+ftpuser
+root
+test
+user
+web

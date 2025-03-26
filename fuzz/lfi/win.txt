@@ -57,6 +57,7 @@
 \Program Files\Apache Group\Apache\logs\access.log
 \Program Files\Apache Group\Apache\logs\error.log
 \Program Files\Apache Group\Apache2\conf\httpd.conf
+\Program Files\xampp\apache\conf\httpd.conf
 \Program Files\xampp\apache\conf\httpd.confetc/passwd
 \xampp\apache\conf\httpd.conf
 \xampp\apache\logs\access.log
@@ -5894,6 +5895,7 @@ C:\xampp\webdav\webdav.txt
 C:\xampp\xampp-control.log
 d:/boot.ini
 D:/boot.ini
+D:/inetpub/wwwroot/global.asa
 d:/wamp/logs/access.log
 D:/wamp/logs/access.log
 D:/WAMP/logs/access.log
@@ -5903,6 +5905,7 @@ D:/xampp/logs/access.log
 D:/XAMPP/logs/access.log
 d:\boot.ini
 D:\boot.ini
+D:\inetpub\wwwroot\global.asa
 d:\wamp\logs\access.log
 D:\wamp\logs\access.log
 d:\XAMPP\logs\access.log

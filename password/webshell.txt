@@ -1,5 +1,4 @@
-hehe
-__huachuantingyu
+ __huachuantingyu
 _james_
 -
 -11
@@ -95,6 +94,7 @@ _james_
 .yang527
 'Rose
 "
+"5556661221"'123456
 )(*&^%$#@!
 )(*&6543
 ))
@@ -3519,18 +3519,32 @@ $yoshiki$
 0xSec.Com
 1
 1 1=2?
+1 and 1=1
+1 and 1=2
+1 and 1=4
+1 and exists(select * from [backurl])
+1 and exists(select * from [backurl1])
+1 and exists(select * from [maurl])
 1-Apr
 1-Mar
 1-Oct
 1!2@3#4$
 1..2..3..
 1.1415926
+1.19251E+11
 1.2.3.4.
 1.2.3.4.5.
 1.2.3.4.5.6.
 1.20914E+12
 1.21121E+12
+1.23457E+11
+1.50512E+11
+1.5316E+11
+1.957539091713807
+1.98625E+12
 1.com
+1'and'1'='12
+1'and'1'='2
 1+1=2?yes
 1+1=love
 1+1=waNG
@@ -16571,6 +16585,7 @@ $yoshiki$
 9wj9xa
 暗黑制作！2011.11.7版本
 冰鱼
+草你妈B
 超强版admin
 绠€鍗?96
 绝色神偷
@@ -16632,6 +16647,7 @@ aa6288560
 aaa
 aaa and
 aaa and 1銆?
+aaa and 1�?
 aaa and user
 aaa and user>0
 aaa having 1=1
@@ -16647,6 +16663,7 @@ aaaaaa
 aaaaas
 aaaand 1=2
 aaaassss
+aaa�
 aabbcc
 aac72sa
 aacc112233
@@ -26324,6 +26341,7 @@ qqqq2222
 qqqq5
 qqqqqq
 qqsy
+QQ��913720787
 qrmhat
 qsc
 qtbaby12

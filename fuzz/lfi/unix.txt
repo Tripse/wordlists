@@ -97388,6 +97388,7 @@ var/log/exim_paniclog%00
 var/log/exim_rejectlog
 var/log/exim_rejectlog/etc/issue
 var/log/exim_rejectlog/etc/passwd
+var/log/exim_rejectlog%00
 var/log/exim_rejectlog%00/etc/issue
 var/log/exim.paniclog
 var/log/exim/mainlog

