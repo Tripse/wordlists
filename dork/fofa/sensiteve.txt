@@ -1,9 +1,0 @@
-# index of /
-title="Index of /"
-title="Index of /" && ".sql"
-title="Index of /" && ".bak"
-title="Index of /" && ".db"
-title="Index of /" && ".txt"
-
-# key urls 
-domain=example.com && app="swagger"

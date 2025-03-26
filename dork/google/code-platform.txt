@@ -1,4 +1,0 @@
-site:github.com "example.com"
-site:gitee.com "exmaple.com"
-site:gitlab.com "example.com"
-site:gitea.com "example.com"

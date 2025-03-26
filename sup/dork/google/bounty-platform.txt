@@ -1,0 +1,2 @@
+"提交漏洞" || "漏洞提交"
+"submit vulnerability report" | "powered by bugcrowd" | "powered by hackerone"
