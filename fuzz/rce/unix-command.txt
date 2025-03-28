@@ -1,3 +1,4 @@
+
 accept
 access
 aclocal
@@ -51,6 +52,7 @@ bzip2
 bzless
 bzmore
 c++
+c++filt
 cal
 cardctl
 cardmgr
@@ -61,7 +63,6 @@ cdparanoia
 cdrdao
 cdrecord
 cfdisk
-c++filt
 chage
 chattr
 chfn
@@ -134,8 +135,8 @@ enable
 env
 envsubst
 esd
-esdcat
 esd-config
+esdcat
 esdctl
 esddsp
 esdmon
@@ -341,6 +342,7 @@ nsupdate
 objcopy
 objdump
 od
+openvt
 openvt 	
 passwd
 paste
@@ -454,9 +456,9 @@ split
 ssh
 ssh-add
 ssh-agent
-sshd
 ssh-keygen
 ssh-keyscan
+sshd
 stat
 statd
 strace

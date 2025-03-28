@@ -9,8 +9,18 @@ api-enterprise-spec.json
 api-merged.json
 api-spec.json
 api/cask/graphql-playground
+api/graphiql
 api/graphql
 api/graphql/v1
+api/v1/graphiql
+api/v1/graphql
+api/v1/playground
+api/v2/graphiql
+api/v2/graphql
+api/v2/playground
+api/v3/graphiql
+api/v3/graphql
+api/v3/playground
 app
 app/angular
 app/angular/angular_wrappers.ts
@@ -10144,6 +10154,7 @@ app/viz/Graph.tsx
 app/viz/state
 app/viz/state/timeSeries.ts
 CHANGELOG.md
+console
 CONTRIBUTING.md
 css
 css/bootstrap-responsive.min.css

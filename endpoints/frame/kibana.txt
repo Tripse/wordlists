@@ -5,6 +5,7 @@ _cat/count
 _cat/fielddata
 _cat/health
 _cat/indices
+_cat/indices?v
 _cat/master
 _cat/ml/anomaly_detectors
 _cat/ml/data_frame/analytics
@@ -22,6 +23,7 @@ _cat/tasks
 _cat/templates
 _cat/thread_pool
 _cat/transforms/_all
+_cluster
 _cluster/allocation/explain
 _cluster/health
 _cluster/pending_tasks
@@ -35,6 +37,7 @@ _nodes/stats
 _nodes/usage
 _remote
 _remote/info
+_search?pretty=true
 _security
 _security/api_key
 _security/privilege
@@ -42,6 +45,7 @@ _security/role
 _security/role_mapping
 _security/user
 _tasks
+_xpack/security/user
 above
 access
 accessCount

@@ -95,6 +95,7 @@ $SysReset/Logs/setuperr.log
 $SysReset/Logs/Timestamp.xml
 $SysReset/ResetSession.xml
 all.txt
+apache/conf/httpd.conf
 apache/log/access_log
 apache/log/access.log
 apache/log/error_log
@@ -112,7 +113,10 @@ apache2/logs/access_log
 apache2/logs/access.log
 apache2/logs/error_log
 apache2/logs/error.log
+bin/php.ini
 boot.ini
+boot/grub/grub.cfg
+boot/grub/menu.lst
 c:/$recycle.bin/s-1-5-18/desktop.ini
 C:/$recycle.bin/s-1-5-18/desktop.ini
 c:/$sysreset/appxlogs/restoredownlevelalluserstore.log
@@ -6299,12 +6303,36 @@ Program Files (x86)/WindowsPowerShell/Modules/Pester/3.4.0/Functions/TestsRunnin
 Program Files (x86)/WindowsPowerShell/Modules/Pester/3.4.0/Pester.Tests.ps1
 Program Files (x86)/WindowsPowerShell/Modules/PowerShellGet/1.0.0.1/PSGet.Format.ps1xml
 program files (x86)/xampp/apache/conf/httpd.conf
+Program Files/[JBOSS]/server/default/conf/jboss-minimal.xml
+Program Files/[JBOSS]/server/default/conf/jboss-service.xml
+Program Files/[JBOSS]/server/default/conf/jndi.properties
+Program Files/[JBOSS]/server/default/conf/log4j.xml
+Program Files/[JBOSS]/server/default/conf/login-config.xml
+Program Files/[JBOSS]/server/default/conf/server.log.properties
+Program Files/[JBOSS]/server/default/conf/standardjaws.xml
+Program Files/[JBOSS]/server/default/conf/standardjboss.xml
+Program Files/[JBOSS]/server/default/deploy/jboss-logging.xml
+Program Files/[JBOSS]/server/default/log/boot.log
+Program Files/[JBOSS]/server/default/log/server.log
+Program Files/Apache Group/Apache/apache.conf
+Program Files/Apache Group/Apache/apache2.conf
 program files/apache group/apache/conf/access.log
+Program Files/Apache Group/Apache/conf/apache.conf
+Program Files/Apache Group/Apache/conf/apache2.conf
 program files/apache group/apache/conf/error.log
 program files/apache group/apache/conf/httpd.conf
+Program Files/Apache Group/Apache/conf/httpd.conf
 program files/apache group/apache/logs/access.log
+Program Files/Apache Group/Apache/logs/access.log
 program files/apache group/apache/logs/error.log
+Program Files/Apache Group/Apache/logs/error.log
+Program Files/Apache Group/Apache2/conf/apache.conf
+Program Files/Apache Group/Apache2/conf/apache2.conf
 program files/apache group/apache2/conf/httpd.conf
+Program Files/Apache Group/Apache2/conf/httpd.conf
+Program Files/Apache Software Foundation/Apache2.2/conf/httpd.conf
+Program Files/Apache Software Foundation/Apache2.2/logs/access.log
+Program Files/Apache Software Foundation/Apache2.2/logs/error.log
 Program Files/Apache Software Foundation/Tomcat 8.0/LICENSE
 Program Files/Apache Software Foundation/Tomcat 8.0/RELEASE-NOTES
 Program Files/Apache Software Foundation/Tomcat 8.5/LICENSE
@@ -7860,19 +7888,45 @@ Program Files/Microsoft SQL Server/130/LocalDB/Binn/sqlservr.exe.config
 Program Files/Microsoft SQL Server/90/License Terms/1033/license_SQLWriter.txt
 Program Files/Microsoft SQL Server/Client SDK/ODBC/170/License Terms/License_msodbcsql_ENU.txt
 Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/Resources/1033/license_SQLCMD.txt
+Program Files/MySQL/data/{HOST}.err
 program files/mysql/data/hostname.err
+Program Files/MySQL/data/mysql-bin.index
 program files/mysql/data/mysql-bin.log
+Program Files/MySQL/data/mysql-bin.log
 program files/mysql/data/mysql.err
+Program Files/MySQL/data/mysql.err
 program files/mysql/data/mysql.log
+Program Files/MySQL/data/mysql.log
 program files/mysql/my.cnf
+Program Files/MySQL/my.cnf
 program files/mysql/my.ini
+Program Files/MySQL/my.ini
+Program Files/MySQL/MySQL Server 5.0/data/{HOST}.err
 program files/mysql/mysql server 5.0/data/hostname.err
+Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.index
 program files/mysql/mysql server 5.0/data/mysql-bin.log
+Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log
 program files/mysql/mysql server 5.0/data/mysql.err
+Program Files/MySQL/MySQL Server 5.0/data/mysql.err
 program files/mysql/mysql server 5.0/data/mysql.log
+Program Files/MySQL/MySQL Server 5.0/data/mysql.log
 program files/mysql/mysql server 5.0/my.cnf
+Program Files/MySQL/MySQL Server 5.0/my.cnf
 program files/mysql/mysql server 5.0/my.ini
+Program Files/MySQL/MySQL Server 5.0/my.ini
 program files/mysql/mysql server 5.1/my.ini
+Program Files/PostgreSQL/8.3/data/pg_hba.conf
+Program Files/PostgreSQL/8.3/data/pg_ident.conf
+Program Files/PostgreSQL/8.3/data/postgresql.conf
+Program Files/PostgreSQL/8.4/data/pg_hba.conf
+Program Files/PostgreSQL/8.4/data/pg_ident.conf
+Program Files/PostgreSQL/8.4/data/postgresql.conf
+Program Files/PostgreSQL/9.0/data/pg_hba.conf
+Program Files/PostgreSQL/9.0/data/pg_ident.conf
+Program Files/PostgreSQL/9.0/data/postgresql.conf
+Program Files/PostgreSQL/9.1/data/pg_hba.conf
+Program Files/PostgreSQL/9.1/data/pg_ident.conf
+Program Files/PostgreSQL/9.1/data/postgresql.conf
 Program Files/Python38/Lib/idlelib/CREDITS.txt
 Program Files/Python38/Lib/idlelib/extend.txt
 Program Files/Python38/Lib/idlelib/HISTORY.txt
@@ -8064,6 +8118,7 @@ Program Files/Reference Assemblies/Microsoft/Framework/v3.0/WinFXList.xml
 Program Files/Reference Assemblies/Microsoft/Framework/v3.5/RedistList/FrameworkList.xml
 Program Files/Tomcat/LICENSE
 Program Files/Tomcat/RELEASE-NOTES
+Program Files/Vidalia Bundle/Polipo/polipo.conf
 Program Files/VS2010Schemas/ClientConfigCatalog.xml
 Program Files/VS2012Schemas/ClientConfigCatalog.xml
 Program Files/Windows Defender/ThirdPartyNotices.txt
@@ -8642,7 +8697,10 @@ Program Files/WindowsPowerShell/Modules/Pester/3.4.0/Functions/TestsRunningInCle
 Program Files/WindowsPowerShell/Modules/Pester/3.4.0/Pester.Tests.ps1
 Program Files/WindowsPowerShell/Modules/PowerShellGet/1.0.0.1/PSGet.Format.ps1xml
 Program Files/WindowsPowerShell/Modules/PSReadline/2.0.0/PSReadLine.format.ps1xml
+Program Files/xampp/apache/conf/apache.conf
+Program Files/xampp/apache/conf/apache2.conf
 program files/xampp/apache/conf/httpd.conf
+Program Files/xampp/apache/conf/httpd.conf
 program+files/apache+group/apache/conf/access.log
 program+files/apache+group/apache/conf/error.log
 program+files/apache+group/apache/conf/httpd.conf
@@ -11480,6 +11538,7 @@ sysprep.xml
 sysprep/sysprep.inf
 sysprep/sysprep.xml
 system volume information/wpsettings.dat
+System/Library/WebObjects/Adaptors/Apache2.2/apache.conf
 system+volume+information/wpsettings.dat
 system32/inetsrv/metabase.xml
 Tomcat/LICENSE
@@ -13425,6 +13484,16 @@ Users/All+Users/Windows+App+Certification+Kit/zh-tw/wslk_strings.xml
 Users/Default/AppData/Local/Microsoft/Windows Sidebar/settings.ini
 Users/Default/AppData/Local/Microsoft/Windows/Shell/DefaultLayouts.xml
 Users/Default/AppData/Local/Microsoft/Windows+Sidebar/settings.ini
+Volumes/Macintosh_HD1/opt/apache/conf/httpd.conf
+Volumes/Macintosh_HD1/opt/apache2/conf/httpd.conf
+Volumes/Macintosh_HD1/opt/httpd/conf/httpd.conf
+Volumes/Macintosh_HD1/usr/local/php/httpd.conf.php
+Volumes/Macintosh_HD1/usr/local/php/lib/php.ini
+Volumes/Macintosh_HD1/usr/local/php4/httpd.conf.php
+Volumes/Macintosh_HD1/usr/local/php5/httpd.conf.php
+Volumes/webBackup/opt/apache2/conf/httpd.conf
+Volumes/webBackup/private/etc/httpd/httpd.conf
+Volumes/webBackup/private/etc/httpd/httpd.conf.default
 WEB-INF/password.xml
 WEB-INF/web.xml
 Windows/assembly/GAC_32/MSBuild/3.5.0.0__b03f5f7f11d50a3a/msbuild.exe.config
@@ -13439,10 +13508,12 @@ Windows/assembly/NativeImages_v2.0.50727_64/System.Xml
 Windows/assembly/NativeImages_v4.0.30319_32/System.Xml
 Windows/assembly/NativeImages_v4.0.30319_64/System.Xml
 Windows/Boot/BootDebuggerFiles.ini
+WINDOWS/comsetup.log
 windows/csc/v2.0.6/pq
 windows/csc/v2.0.6/sm
 Windows/debug/mrt.log
 windows/debug/netsetup.log
+WINDOWS/Debug/NetSetup.LOG
 Windows/debug/PASSWD.LOG
 Windows/debug/sammui.log
 Windows/diagnostics/index/AppsDiagnostic.xml
@@ -14072,6 +14143,7 @@ Windows/Microsoft.NET/Framework64/v4.0.30319/SMSvcHost.exe.config
 Windows/Microsoft.NET/Framework64/v4.0.30319/ThirdPartyNotices.txt
 Windows/Microsoft.NET/Framework64/v4.0.30319/vbc.exe.config
 windows/notepad.exe
+WINDOWS/ODBC.INI
 Windows/Panther/diagerr.xml
 Windows/Panther/diagwrn.xml
 Windows/Panther/Rollback/LogRestore.TXT
@@ -14102,6 +14174,7 @@ Windows/Panther/UnattendGC/setuperr.log
 Windows/Performance/WinSAT/winsat.log
 Windows/PFRO.log
 windows/php.ini
+WINDOWS/php.ini
 WINDOWS/php.ini /WINDOWS/Repair/SAM
 WINDOWS/php.ini+/WINDOWS/Repair/SAM
 Windows/PLA/Reports/en-US/Report.System.Common.xml
@@ -14169,6 +14242,7 @@ Windows/Provisioning/CountryTable.xml
 Windows/Provisioning/IccidToRegion.xml
 windows/repair/sam
 windows/repair/security
+WINDOWS/repair/setup.log
 windows/repair/software
 windows/repair/system
 Windows/repair/system /Windows/repair/software
@@ -14229,6 +14303,9 @@ Windows/servicing/Sessions/30838819_844939957.xml
 Windows/servicing/Sessions/Sessions.back.xml
 Windows/servicing/Sessions/Sessions.xml
 Windows/Setup/State/State.ini
+WINDOWS/setupact.log
+WINDOWS/setupapi.log
+WINDOWS/setuperr.log
 Windows/SoftwareDistribution/DataStore/Logs/edb.log
 Windows/SoftwareDistribution/DataStore/Logs/edb0002B.log
 Windows/SoftwareDistribution/DataStore/Logs/edb0002C.log
@@ -14287,6 +14364,11 @@ Windows/System32/DDFs/NGCProDDF_v1.2_final.xml
 Windows/System32/DDFs/Win32CompatibilityAppraiser_DDF.xml
 Windows/System32/DetailedReading-Default.xml
 windows/system32/drivers/etc/hosts
+WINDOWS/system32/drivers/etc/hosts
+WINDOWS/system32/drivers/etc/lmhosts.sam
+WINDOWS/system32/drivers/etc/networks
+WINDOWS/system32/drivers/etc/protocol
+WINDOWS/system32/drivers/etc/services
 Windows/System32/drivers/gmreadme.txt
 Windows/System32/DriverStore/FileRepository/ntprint4.inf_amd64_eb8489edd97eed31/Amd64/V3HostingFilter-pipelineconfig.xml
 Windows/System32/DriverStore/FileRepository/prnge001.inf_amd64_6faf86933fb62206/Amd64/TTY.INI
@@ -14342,11 +14424,28 @@ windows/system32/inetsrv/config/applicationhost.config
 windows/system32/inetsrv/config/Redirection.config
 windows/system32/inetsrv/config/schema/aspnet_schema.xml
 windows/system32/license.rtf
+WINDOWS/system32/logfiles/Firewall/pfirewall.log
+WINDOWS/system32/logfiles/Firewall/pfirewall.log.old
 windows/system32/logfiles/httperr/httperr1.log
+WINDOWS/system32/logfiles/MSFTPSVC
+WINDOWS/system32/logfiles/MSFTPSVC1
+WINDOWS/system32/logfiles/MSFTPSVC2
 Windows/System32/LogFiles/setupcln/diagerr.xml
 Windows/System32/LogFiles/setupcln/diagwrn.xml
 Windows/System32/LogFiles/setupcln/setupact.log
 Windows/System32/LogFiles/setupcln/setuperr.log
+WINDOWS/system32/logfiles/SMTPSVC
+WINDOWS/system32/logfiles/SMTPSVC1
+WINDOWS/system32/logfiles/SMTPSVC2
+WINDOWS/system32/logfiles/SMTPSVC3
+WINDOWS/system32/logfiles/SMTPSVC4
+WINDOWS/system32/logfiles/SMTPSVC5
+WINDOWS/system32/logfiles/W3SVC/inetsvn1.log
+WINDOWS/system32/logfiles/W3SVC1/inetsvn1.log
+WINDOWS/system32/logfiles/W3SVC2/inetsvn1.log
+WINDOWS/system32/logfiles/W3SVC3/inetsvn1.log
+WINDOWS/system32/Macromed/Flash/FlashInstall.log
+WINDOWS/system32/Macromed/Flash/install.log
 Windows/System32/MailContactsCalendarSync/LiveDomainList.txt
 Windows/System32/mmc.exe.config
 Windows/System32/MsDtc/MSDTC.LOG
@@ -14487,6 +14586,7 @@ Windows/Temp/mat-debug-7108.log
 Windows/Temp/MpCmdRun.log
 Windows/Temp/MpSigStub.log
 Windows/Temp/msedge_installer.log
+WINDOWS/updspapi.log
 Windows/Vss/Writers/System/0bada1de-01a9-4625-8278-69e735f39dd2.xml
 Windows/Vss/Writers/System/75DFB225-E2E4-4d39-9AC9-FFAFF65DDF06.xml
 Windows/Vss/Writers/System/D61D61C8-D73A-4EEE-8CDD-F6F9786B7124.xml
@@ -14500,7 +14600,25 @@ Windows/WaaS/tasks/17499b8d805e9480903b0df0326a3d231841049e.xml
 Windows/WaaS/tasks/5ffea6126f02e78b9099eb4614d2d339f03ca5a8.xml
 windows/win.ini
 windows/windowsupdate.log
+WINDOWS/WindowsUpdate.log
+WINDOWS/wmsetup.log
 winnt/php.ini
+WINNT/php.ini
+WINNT/system32/logfiles/Firewall/pfirewall.log
+WINNT/system32/logfiles/Firewall/pfirewall.log.old
+WINNT/system32/logfiles/MSFTPSVC
+WINNT/system32/logfiles/MSFTPSVC1
+WINNT/system32/logfiles/MSFTPSVC2
+WINNT/system32/logfiles/SMTPSVC
+WINNT/system32/logfiles/SMTPSVC1
+WINNT/system32/logfiles/SMTPSVC2
+WINNT/system32/logfiles/SMTPSVC3
+WINNT/system32/logfiles/SMTPSVC4
+WINNT/system32/logfiles/SMTPSVC5
+WINNT/system32/logfiles/W3SVC/inetsvn1.log
+WINNT/system32/logfiles/W3SVC1/inetsvn1.log
+WINNT/system32/logfiles/W3SVC2/inetsvn1.log
+WINNT/system32/logfiles/W3SVC3/inetsvn1.log
 winnt/win.ini
 xampp/apache/bin/php.ini
 xampp/apache/conf/httpd.conf
