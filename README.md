@@ -1,9 +1,5 @@
 # README
 
-Todo:
-
-- [ ] Dork list
-
 这里是我常用的密码字典，结合新老开源 lists 以及实战积累而成，希望能够帮到你，如若出洞，开心之际可给予某一点烟钱(赞赏码 end)，同时感谢如下 lists repo 作者 (以下排名不分先后)：
 
 - https://github.com/0xPugal/fuzz4bounty

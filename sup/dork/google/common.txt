@@ -1,1 +1,0 @@
-site:exmaple.com intitle:"login" "admin"

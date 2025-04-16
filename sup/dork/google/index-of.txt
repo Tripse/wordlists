@@ -1,7 +1,0 @@
-intitle:"index of /" Parent Directory site:target.com
-intitle:"index of /admin" site:target.com
-intitle:"index of /password" site:target.com
-intitle:"index of /mail" site:target.com
-intitle:"index of /" (passwd | password.txt) site:target.com
-intitle:"index of /" .htaccess site:target.com  
-inurl:passwd filetype:txt site:target.com

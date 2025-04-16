@@ -1,3 +1,4 @@
+
 _async
 _async/*
 _async/AsyncResponseService
@@ -8,6 +9,7 @@ _async/AsyncResponseServiceSoap12Https
 _async/AsyncResponseServiceSoap12Jms
 _tmp_war
 _tmp_war_DefaultWebApp
+*
 *.gif
 *.gif/
 *.html
@@ -60,6 +62,7 @@ bea_wls_internal/
 bea_wls_internal/*
 bea_wls_internal/a2e2gp2r2/x.jsp
 bea_wls_internal/classes/
+bea_wls_internal/classes/ 
 bea_wls_internal/classes/*
 bea_wls_internal/classes/META-INF/MANIFEST.MF
 bea_wls_internal/com/*

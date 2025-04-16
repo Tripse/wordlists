@@ -1,3 +1,4 @@
+
 ;/%20/swagger-ui.html
 ;/actuator
 ;/actuator/auditevents
@@ -134,6 +135,14 @@
 ;/v2/swagger.json
 ;/v3/api-docs
 ;/webpage/system/druid/index.html
+/actuator/autoconfig
+/actuator/beans
+/actuator/env
+/actuator/health
+/actuator/info
+/actuator/mappings            
+/actuator/metrics            
+/actuator/trace
 #/wallboard
 %20/swagger-ui.html
 acl/article?id=66

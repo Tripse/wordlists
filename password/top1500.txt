@@ -417,6 +417,7 @@ ANONYMOUS
 anonymous@
 ansible
 ap
+apc
 api-admin@123
 applmgr
 applsys
@@ -460,6 +461,7 @@ biv
 bix
 blewis
 bom
+both
 brio_admin
 bsc
 bug_reports
@@ -487,6 +489,7 @@ chinayixun
 cids
 cis
 Cis#BigData123
+cisco
 cisinfo
 clave
 clerk
@@ -811,6 +814,7 @@ ipd
 iplanet
 isc
 itg
+j2deployer
 ja
 je
 jenkins
@@ -825,6 +829,7 @@ jtf
 jtm
 jts
 kali
+kdsxc
 kibana
 kwalker
 l2ldemo
@@ -915,6 +920,7 @@ neotix_sys
 nexus
 nihao123
 nneulpass
+none
 OAOidc
 OAOidc123
 OAOidc123!@#
@@ -976,8 +982,10 @@ osp22
 ota
 outln
 OUTLN
+ovwebusr
 owa
 owa_public
+owaspbwa
 owf_mgr
 owner
 ozf
@@ -1150,6 +1158,7 @@ rla
 rlm
 rmail
 rman
+role1
 root
 Root
 root_123
@@ -1239,6 +1248,7 @@ sdos_icsap
 sdwer
 sdwer123
 secdemo
+security
 senha
 senlinyan
 senlinyan$
@@ -1335,6 +1345,7 @@ tigger
 tip37
 tkggja850518`1
 TnHoo15862380404
+tomcat
 toor
 TOUCHLON
 trace
