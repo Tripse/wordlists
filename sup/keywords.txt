@@ -2,11 +2,13 @@ access_key
 access_token
 access_token_secret
 access-token
+accesskey
 accessKey
 accesstoken
 accessToken
 admin
 ak
+AK
 akid
 AKID
 api_key
@@ -36,6 +38,8 @@ aws_secret_key
 aws_token
 bearer
 bosak
+BOSAK
+BOSSk
 bot_access_token
 bucket
 bucket_password
@@ -120,8 +124,11 @@ secret_bearer
 secret_key
 secret_token
 secret-key
+secretid
+SecretID
 secretkey
 secretKey
+SecretKey
 security_credentials
 send_keys
 session_key
@@ -130,6 +137,7 @@ SESSION_TOKEN
 sf_username
 SF_USERNAME
 sk
+SK
 slack_api_token
 SLACK_BOT_TOKEN
 slack_channel
