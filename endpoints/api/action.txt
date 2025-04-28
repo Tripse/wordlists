@@ -434,6 +434,8 @@ AccountTest
 accounttype
 accountz
 achitecture
+acknowledge
+acknowledging
 acos()
 acquire
 Acquire
@@ -459,6 +461,7 @@ actions
 Actions
 activate
 Activate
+activating
 active
 activities
 ad
@@ -2129,6 +2132,7 @@ album
 albums
 alert
 Alert
+alerting
 alerts
 alias
 aliases
@@ -2146,6 +2150,8 @@ Amount
 analog
 analyse
 analysis
+analyze
+analyzing
 annotate
 Annotate
 announce
@@ -2189,6 +2195,8 @@ apply_filters
 apply_filters_ref_array
 applyMatrix()
 ApplyMilling
+approve
+approving
 apps
 ar
 arc()
@@ -2240,6 +2248,8 @@ aspnet_client
 asps
 assert
 assets
+assign
+assigning
 AssignOnLoot
 AssistUnit
 AssociateScriptWithObject
@@ -2345,15 +2355,19 @@ AuctionSellMode_SetTab
 AuctionSellMoneyModeFrame_Update
 audio
 audit
+auditing
 auth
 auth_redirect
 auth-user-info
 auth/guest
 auth/login
 auth/logout
+authenticate
+authenticating
 author
 author_can
 authorize
+authorizing
 authors
 auto
 AutoAnchorManager_CalculateDeltaXY
@@ -2385,6 +2399,7 @@ backdoor
 backend
 background
 background()
+backing up
 backoffice
 BackOffice
 backslashit
@@ -2628,6 +2643,8 @@ beginContour()
 beginRaw()
 beginRecord()
 beginShape()
+benchmark
+benchmarking
 benefits
 beta
 bezier()
@@ -2941,9 +2958,11 @@ CameraFitToView
 campaign
 can
 canada
+cancel
 CancelChangeParallelID
 CancelDuel
 CancelEnterWorld
+canceling
 CancelLogout
 CancelPendingItem
 CancelPlayerBuff
@@ -3349,9 +3368,11 @@ classes
 classic
 classified
 classifieds
+clean
 clean_blog_cache
 clean_pre
 clean_url
+cleaning
 clear
 Clear_BattleGroundQueue_List_Info
 clear()
@@ -3384,6 +3405,7 @@ clientticket_archive.edit
 clientticket.archive
 clientticket.edit
 ClientWS
+close
 Close_All_BattleGroundFrames
 Close_All_GuildHouseFrames
 CloseAccountBag
@@ -3413,6 +3435,7 @@ CloseThisQuestTrack_OnClick
 CloseThisQuestTrack_OnUpdate
 CloseTrade
 CloseWindows
+closing
 CloudUtilityBillingTaskMgmt
 cluster
 cm
@@ -3511,6 +3534,7 @@ comment_text
 comment_text_rss
 comment_time
 commentary
+commenting
 comments
 comments_number
 comments_open
@@ -3569,6 +3593,7 @@ compat
 complete
 Complete
 CompleteQuest
+completing
 compliance
 component
 components
@@ -3759,6 +3784,8 @@ CraftSkillButtonIDToCraftType
 CraftTypeDropDown_Click
 CraftTypeDropDown_OnLoad
 CraftTypeDropDown_Show
+crawl
+crawling
 create
 Create
 create_empty_blog
@@ -3800,6 +3827,7 @@ CreateUIButtonArray
 CreateUIComponent
 CreateVisionSensor
 createWriter()
+creating
 creation
 Creatives
 credentials
@@ -3984,6 +4012,8 @@ dbms
 dc
 de
 de_DE
+deactivate
+deactivating
 DebaseTextureCheckButton_IsChecked
 DebaseTextureCheckButton_SetChecked
 debian
@@ -3993,6 +4023,7 @@ DebugGetButton
 DebugGetFont
 DebugGetNumber
 DebugGetString
+debugging
 dec
 DeclareGuildWar
 DeclineBattleGroup
@@ -4044,6 +4075,7 @@ DeleteQuest
 DeleteQuestByID
 DeleteReg
 DeleteUIButtonArray
+deleting
 deletion
 DelFriend
 delicious
@@ -4105,6 +4137,8 @@ Devise
 devs
 devtools
 diag
+diagnose
+diagnosing
 dial
 DiamondActivationButton_OnClick
 DiamondActivationButton_OnLoad
@@ -4128,6 +4162,7 @@ DisableAllEditBox
 disabled
 DisableKeys
 DisableMouse
+disabling
 DisagreeTrade
 disclaimer
 disclosure
@@ -4135,6 +4170,7 @@ DisconnectFromServer
 discount
 discover
 discover_pingback_server_uri
+discovering
 discovery
 discuss
 discussion
@@ -4250,6 +4286,7 @@ doWhile
 down
 download
 Download
+downloading
 downloads
 Downloads
 draft
@@ -4281,6 +4318,7 @@ ecommerce
 edgy
 edit
 edit source
+editing
 EditMacro
 editor
 editorial
@@ -4315,6 +4353,8 @@ employee.suspend
 employees
 employment
 empty
+emulate
+emulating
 en
 en_US
 enable
@@ -4322,6 +4362,7 @@ Enable
 EnableAllEditBox
 EnableEventCallback
 EnableWorkThreads
+enabling
 encryption
 EncryptText
 endCamera()
@@ -4422,7 +4463,9 @@ exe
 exec
 executable
 executables
+execute
 ExecuteMacroLine
+executing
 exiar
 exit()
 ExitMountButton_OnClick
@@ -4449,11 +4492,14 @@ ExperienceFrame_OnLoad
 ExperienceStatusBar_Update
 expert
 experts
+expire
+expiring
 explode
 Explode
 exploits
 explorer
 export
+exporting
 ExportMesh
 ExportWebService
 extends
@@ -4524,6 +4570,7 @@ feeds
 fetch
 fetch_feed
 fetch_rss
+fetching
 field
 FigureSlider_OnLoad
 FigureSlider_OnValueChanged
@@ -4539,6 +4586,7 @@ film
 filter
 filter_SSL
 filter()
+filtering
 Filters
 final
 finance
@@ -4548,6 +4596,7 @@ FindApp
 FindBuildingInfoByDBID
 FindFirstFile
 FindIkPath
+finding
 FindMpPath
 firefox
 firewall
@@ -4556,6 +4605,8 @@ first
 fix_import_form_size
 fix_phpmailer_messageid
 fk
+flag
+flagging
 flags
 flash
 flex
@@ -4958,6 +5009,7 @@ genders
 general
 generate
 Generate
+generating
 generic
 generic_ping
 GENF_Clean_OnClick
@@ -9122,6 +9174,8 @@ identity
 identity/envelope
 ie
 if
+ignore
+ignoring
 iis
 iisadmin
 iisadmpwd
@@ -9234,6 +9288,7 @@ ImplementActionFrame_OnShow
 ImplementActionFrame_Update
 implements
 import
+importing
 ImportMesh
 ImportShape
 ImportWebService
@@ -9267,6 +9322,7 @@ index1
 index2
 index3
 indexes
+indexing
 industries
 industry
 info
@@ -9353,6 +9409,8 @@ intracorp
 intranet
 intro
 introduction
+invalidate
+invalidating
 inventory
 InvertMatrix
 InvertMatrix (see simGetInvertedMatrix for the Lua-equivalent)
@@ -9743,11 +9801,14 @@ LightMapResSlider_GetValue
 LightMapResSlider_SetValue
 lights()
 lightSpecular()
+like
+liking
 line
 line()
 link
 Link
 LinkActivateWeb
+linking
 links
 Links
 linktous
@@ -11235,7 +11296,9 @@ modelX()
 modelY()
 modelZ()
 modem
+modify
 ModifyGhost
+modifying
 ModifyPointCloud
 ModifySocalGroupName
 ModifySocalGroupSort
@@ -11270,6 +11333,7 @@ MoneyModeFrame_SetOnValueChangeFunc
 MoneyModeFrame_SetSelected
 MoneyNormalization
 monitor
+monitoring
 month()
 more
 moto-news
@@ -11418,8 +11482,10 @@ notificationlist.send
 notificationlist.suspend
 notificationlist.users
 notifications
+notify
 notify.template
 NotifyBulletinBoard
+notifying
 NotifyInspect
 notifytask
 notifytask.delete
@@ -11712,6 +11778,8 @@ operator
 opinion
 opinions
 opml
+optimize
+optimizing
 option
 Option
 options
@@ -11868,7 +11936,9 @@ PasteText
 patches
 patents
 path
+pause
 PauseSimulation
+pausing
 payment
 payment.add
 payment.add.redirect
@@ -12254,6 +12324,7 @@ policies
 policy
 politics
 poll
+polling
 polls
 pop
 popMatrix()
@@ -12544,10 +12615,17 @@ PublicEncounterFrame_OnUpdate
 PublicEncounterFrame_RetainTime
 publish
 publisher
+publishing
 pubs
+pull
+pulling
 purchase
 PurchaseOrderUtils
 purchases
+purge
+purging
+push
+pushing
 pushMatrix()
 pushStyle()
 put
@@ -12712,7 +12790,9 @@ RandomCharacterCreateHair
 randomGaussian()
 randomSeed()
 rank
+rate
 rates
+rating
 rating0
 rawequal
 rawget
@@ -12729,6 +12809,7 @@ ReadCustomDataBlock
 ReadDistance
 readfolder
 ReadForceSensor
+reading
 ReadIni
 readme
 README
@@ -12762,6 +12843,10 @@ RecipeListFrameShowHideAll_Reset
 RecipientTradeItem_OnUpdate
 recite
 Recite
+recommend
+recommending
+reconcile
+reconciling
 record
 Record
 RecoverDeleteCharacter
@@ -12778,11 +12863,14 @@ redirect
 redirect_mu_dashboard
 redirect_this_site
 redirect_user_to_blog
+redo
+redoing
 redraw()
 ref
 reference
 Reference
 references
+refresh
 refresh_blog_details
 refresh_user_details
 RefreshBag
@@ -12790,6 +12878,7 @@ RefreshBank
 RefreshDesktop
 RefreshDialogs
 RefreshFiles
+refreshing
 RefreshServerList
 refund
 refundrule
@@ -12827,6 +12916,8 @@ registration
 Registration
 RegKeyList
 RegValueList
+reject
+rejecting
 reklama
 release
 ReleaseBuffer
@@ -12838,6 +12929,7 @@ religion
 ReloadUI
 remind
 reminder
+reminding
 remote
 remove
 Remove
@@ -12876,7 +12968,10 @@ RemoveParticleObject
 RemoveScript
 RemoveUI
 RemoveUndesirable
+removing
 Rendering
+reopen
+reopening
 ReorientShapeBoundingBox
 reply
 report
@@ -12923,6 +13018,7 @@ rest
 restore
 Restore
 restore_current_blog
+restoring
 restrict
 Restrict
 RestrictCursor
@@ -12930,6 +13026,7 @@ restricted
 results
 resume
 ResumeThreads
+resuming
 retail
 retrieve
 Retrieve
@@ -12940,6 +13037,8 @@ retrievePass
 retrievePassword
 retrieveUser
 retrieveUsername
+retry
+retrying
 return
 ReturnBattleGroundType
 ReturnInboxItem
@@ -13057,6 +13156,7 @@ SaveVariables
 SaveVariablesAnchor
 SaveVariablesPerCharacter
 saveXML()
+saving
 sc
 SC_ChannelListFrame_CallbackFunc_GetCount
 SC_ChannelListFrame_CallbackFunc_UpdateItme
@@ -13119,6 +13219,7 @@ SearchGroupFrame_DropDownMenu_Click
 SearchGroupFrame_DropDownMenu_OnLoad
 SearchGroupFrame_DropDownMenu_Show
 SearchGroupPeople
+searching
 SearchPath
 second()
 SecondsToTimeAbbrev
@@ -13484,6 +13585,7 @@ shape()
 shapeMode()
 share
 shared
+sharing
 shearX()
 shearY()
 shell
@@ -13922,6 +14024,8 @@ simTubeOpen
 simTubeRead
 simTubeStatus
 simTubeWrite
+simulate
+simulating
 simUngroupShape
 simUnloadModule
 simUnlockResources
@@ -14056,6 +14160,7 @@ sort
 sort()
 SortByAttributeButton_OnClick
 SortByQueueButton_OnClick
+sorting
 SortServerList
 SoundCard
 SoundFXVolumeSlider_GetValue
@@ -14180,12 +14285,14 @@ sso
 sso-settings
 st
 staff
+staging
 standard
 standards
 star
 start
 Start
 StartDuelUnit
+starting
 startpage
 StartSimulation
 stat
@@ -14221,6 +14328,7 @@ STime
 stop
 Stop
 StopCreateCraftItem
+stopping
 StopSimulation
 storage
 storage.delete
@@ -14287,9 +14395,11 @@ SubJobLimit
 submit
 submit_button
 submitter
+submitting
 subscribe
 subscribe.resume
 subscribe.suspend
+subscribing
 subscription
 subscriptions
 subset()
@@ -14335,6 +14445,8 @@ SwithRaidAssistant
 SwithRaidMainAttacker
 SwithRaidMainTank
 sync_category_tag_slugs
+synchronize
+synchronizing
 syndication
 sys
 SYS_AudioSettings_Initialize
@@ -14405,6 +14517,7 @@ TableRow
 tabs
 tag
 tag_description
+tagging
 tagline
 tags
 Tags
@@ -14953,12 +15066,15 @@ UIScaleCheckButton_SetChecked
 UIScaleSlider_GetValue
 UIScaleSlider_SetValue
 uk
+unassign
+unassigning
 unbinary()
 uncategorized
 understand
 Understand
 undo
 Undo
+undoing
 UngroupShape
 unhex()
 uninstall
@@ -15032,6 +15148,10 @@ UnitSkillType
 UnitTitle
 UnitWorld
 unix
+unlike
+unliking
+unlink
+unlinking
 UnloadModule
 UnlockPendingItem
 UnlockResources
@@ -15042,12 +15162,18 @@ UnpackFloats
 UnpackInts
 UnpackUInts
 UnpackWords
+unpublish
+unpublishing
 unqueue
 Unqueue
 unregister_nav_menu
 unregister_setting
 unregister_sidebar
 unregister_widget
+unshare
+unsharing
+unsubscribe
+unsubscribing
 until
 untrailingslashit
 unzip_file
@@ -15088,6 +15214,7 @@ UpdateSendMailGroup
 UpdateTitleInfo
 UpdateWorldMapFrameAlpha
 UpdateWorldMapFrameSize
+updating
 upgrade
 upload
 Upload
@@ -15097,6 +15224,7 @@ upload_is_user_over_quote
 upload_size_limit_filter
 upload_space_setting
 uploader
+uploading
 uploads
 upset
 Upset
@@ -17249,6 +17377,7 @@ validate_current_theme
 validate_file
 validate_file_to_edit
 validate_username
+validating
 validation
 validatior
 vap
@@ -17362,6 +17491,7 @@ vendors
 Vendors
 verify
 Verify
+verifying
 version
 Version
 Vertex
@@ -17445,6 +17575,8 @@ warez
 WarningBarFrame_OnEvent
 WarningBarFrame_OnLoad
 WarningBarFrame_OnUpdate
+watch
+watching
 WaterQualitySlider_GetValue
 WaterQualitySlider_SetValue
 WaterReflectionCheckButton_IsChecked
