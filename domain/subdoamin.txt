@@ -1632,6 +1632,7 @@ aso
 asp
 aspen
 aspire
+aspx
 asq
 asr
 ass
@@ -4570,6 +4571,7 @@ deb
 debbugs
 debian
 debug
+debugweb
 dec
 deck
 deck-01
@@ -4687,6 +4689,7 @@ devops
 devserver
 devsql
 devtest
+devweb
 dew
 dex
 dexter
@@ -20726,12 +20729,15 @@ testcase
 testcf
 testcomplete
 testdata
+testdev
 testdirector
 testdrive
 teste
 tester
 testes
 testforum
+testhtml
+testhtml5
 testing
 testing1
 testitools
@@ -20765,8 +20771,11 @@ testuff
 testup
 testvb
 testweb
+testwechat
+testweixin
 testworks
 testwww
+testwx
 testxp
 testy
 teszt
@@ -24728,6 +24737,7 @@ wwwi
 wwwl
 wwwm
 wwwmail
+wwwnet
 wwwnew
 wwwold
 wwws
