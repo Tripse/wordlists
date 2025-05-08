@@ -201,6 +201,9 @@ kcdb/swagger-ui/index.html
 metrics
 metrics/
 metrics/swagger-resources
+node/v1/swagger.json
+node/v2/swagger.json
+node/v3/swagger.json
 nonswagger
 openapi.json
 openapi.yaml
@@ -329,6 +332,7 @@ static/swagger-ui
 static/swagger-ui/index.html
 sw
 sw/
+sw/swagger-resources 
 sw/swagger-ui.html
 swagger
 swagger_doc.json
