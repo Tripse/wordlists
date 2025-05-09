@@ -1,0 +1,6 @@
+language:python username
+language:php username
+language:sql username
+language:html password
+language:perl password
+language:shell username

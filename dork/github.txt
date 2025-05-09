@@ -14,6 +14,7 @@ api_key
 api_key_secret
 api_key_sid
 api_secret
+api_token:
 api.googlemaps+AIza
 apidocs
 apikey
@@ -28,7 +29,10 @@ appkeysecret
 application_key
 appsecret
 appspot
+auth
 auth_token
+authentication
+authorization_bearer:
 authorizationToken
 authsecret
 aws_access
@@ -59,6 +63,7 @@ cattle_access_key
 cattle_secret_key
 certificate_password
 ci_deploy_password
+client_id
 client_secret
 client_zpk_secret_key
 clojars_password
@@ -73,6 +78,7 @@ codecov_token
 config
 conn.login
 connectionstring
+connetionstring
 consumer_key
 consumer_secret
 credentials
@@ -271,6 +277,7 @@ htaccess_user
 incident_channel_name
 internal
 irc_pass
+JDBC
 JEKYLL_GITHUB_TOKEN
 jsforce+extension:js+conn.login
 jwt_client_secret_key
@@ -284,7 +291,6 @@ jwt_web_secert_key
 jwt_xmpp_secert_key
 key
 keyPassword
-language:yaml+-filename:travis
 ldap_password
 ldap_username
 linux_signing_key
@@ -339,6 +345,7 @@ npmrc+_auth
 nuget_api_key
 nuget_apikey
 nuget_key
+oauth
 oauth_token
 object_storage_password
 octest_app_password
@@ -354,11 +361,14 @@ os_password
 ossrh_jira_password
 ossrh_pass
 ossrh_password
+otp
 pagerduty_apikey
 parse_js_key
 pass
+passcode
 passwd
 password
+password_hash
 password+travis
 passwords
 path:sites+databases+password
@@ -427,7 +437,6 @@ sendgrid_password
 sendkeys
 ses_access_key
 ses_secret_key
-connetionstring
 setdstaccesskey
 setsecretkey
 sf_username
@@ -499,9 +508,11 @@ twiliosecret
 twine_password
 twitter_secret
 twitterKey
+user_auth
+user_pass
+user_password
 x-api-key
 xoxb+
-JDBC
 xoxp
 zen_key
 zen_tkn
