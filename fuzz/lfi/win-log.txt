@@ -78,3 +78,9 @@ D:\wamp\logs\access.log
 d:\XAMPP\logs\access.log
 D:\xampp\logs\access.log
 D:\XAMPP\logs\access.log
+\Program Files\Apache Group\Apache\logs\access.log
+\Program Files\Apache Group\Apache\logs\error.log
+\Program Files\Apache Group\Apache\conf\httpd.conf
+\Program Files\Apache Group\Apache2\conf\httpd.conf
+\Program Files (x86)\Apache Group\Apache\logs\access.log
+\Program Files (x86)\Apache Group\Apache\logs\error.log

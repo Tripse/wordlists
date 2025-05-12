@@ -1,4 +1,6 @@
 <invalid>
+<unknown>
+06071992
 0racl3
 0racl38
 0racl38i
@@ -18,6 +20,7 @@
 123456qwerty
 123qaz
 123qwe
+199220706
 1q2w3e
 1q2w3e4r
 1qaz2wsx
@@ -223,6 +226,7 @@ imt
 instance
 inv
 invalid
+invalid password
 ipa
 ipd
 iplanet
@@ -233,6 +237,7 @@ je
 jetspeed
 jg
 jl
+jl 
 jmuser
 john
 jtf

