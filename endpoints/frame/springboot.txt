@@ -860,6 +860,8 @@ gateway/actuator/scheduledtasks
 gateway/actuator/swagger-ui.html
 gateway/actuator/threaddump
 gateway/actuator/trace
+gateway/call/
+gateway/call/signDataSynCall
 gateway/refresh
 gateway/routes
 gateway/routes/new_route

