@@ -3695,6 +3695,8 @@ CoolSuit_SetPageID
 coordinate
 Coordinate
 Coordinates
+copy
+Copy
 copy()
 CopyMatrix
 CopyMenu
@@ -4228,6 +4230,7 @@ dictionary
 dictionary-category
 did_action
 dig
+digest
 digg
 digital
 dir
@@ -4426,6 +4429,8 @@ email
 Email
 email_exists
 emailnotify
+embed
+embeddings
 emissive()
 emoticons
 employee
@@ -9459,6 +9464,7 @@ identity
 identity/envelope
 ie
 if
+ifconfig
 ignore
 ignoring
 iis
@@ -9732,6 +9738,7 @@ invoiceDetailed
 ip
 ip/info
 ipairs
+ipconfig
 ipod
 ipp
 ips
@@ -14011,6 +14018,7 @@ shorten()
 show
 Show
 show_post_thumbnail_warning
+showAdmin
 showallsites
 ShowAreaMap
 ShowBGQueueListSelect_OnEnter
@@ -14018,12 +14026,18 @@ showcode
 ShowDetailArenaInfo
 ShowEnterBattleGroundQureyDialog
 ShowHighLight_OnClick
+showlist
+showList
 ShowMacroFrame
 ShowMinimapPingerNameFrame
 ShowProductAndMeterialList
 shows
 showthread
 ShowUIPanel
+showuser
+showUser
+showuserlist
+showUserList
 shtml
 sign
 signature
