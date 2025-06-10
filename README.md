@@ -1,6 +1,6 @@
 # README
 
-这里是我常用的密码字典，结合新老开源 lists 以及实战积累而成，希望能够帮到你，如若出洞，开心之际可给予某一点烟钱(赞赏码 end)，同时感谢如下 lists repo 作者 (以下排名不分先后)：
+这里是我常用的密码字典，结合新老开源 lists 以及实战积累而成，同时感谢如下 lists repo 作者 (以下排名不分先后)：
 
 - https://github.com/fuzzdb-project/fuzzdb
 - https://github.com/thehlopster/hfuzz
@@ -51,5 +51,3 @@
 - https://github.com/gh0stkey/Web-Fuzzing-Box
 - https://github.com/danielmiessler/SecLists
 - https://github.com/trickest/resolvers
-
-![2371742349718_.pic_hd](https://security-note.oss-cn-hangzhou.aliyuncs.com/2371742349718_.pic_hd.jpg)
