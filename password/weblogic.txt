@@ -1,0 +1,11 @@
+123456
+guest
+Oracle@123
+password
+portaladmin
+security
+sipisystem
+weblogic
+weblogic123
+welcome1
+wlcsystem
