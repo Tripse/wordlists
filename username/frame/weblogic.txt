@@ -1,8 +1,0 @@
-admin
-guest
-joe
-mary
-portaladmin
-system
-weblogic
-wlcsystem

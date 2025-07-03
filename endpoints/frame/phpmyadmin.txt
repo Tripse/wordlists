@@ -4396,6 +4396,7 @@ phpmyadmin/css/
 phpmyadmin/index.php
 phpMyAdmin/phpmyadmin
 phpmyadmin/phpmyadmin/
+phpmyadmin/setup
 phpMyAdmin+++---/
 phpmyadmin0/
 phpmyadmin1/

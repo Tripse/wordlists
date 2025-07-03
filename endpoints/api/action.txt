@@ -2117,6 +2117,7 @@ allocMenu
 allocResource
 alpha
 alpha()
+alter
 alumni
 amazon
 AmbienceVolumeSlider_GetValue
@@ -2159,6 +2160,7 @@ apidocs/swagger.json
 apl
 apm
 app
+append
 append()
 apple
 applet
@@ -2937,6 +2939,7 @@ CAFrame_OnShow
 CAFrame_TitleCount_Update
 CAFrame_Update
 CAFrame_UpdateMode
+calc
 calculate
 Calculate
 calendar
@@ -3409,6 +3412,7 @@ clientticket_archive.edit
 clientticket.archive
 clientticket.edit
 ClientWS
+clone
 close
 Close_All_BattleGroundFrames
 Close_All_GuildHouseFrames
@@ -3974,6 +3978,7 @@ cron
 crs
 crush
 Crush
+crypt
 crypto
 cs
 csp_report
@@ -4074,6 +4079,7 @@ DeclineBattleGroup
 DeclineGroup
 DeclineInstanceRecord
 DeclineRideMount
+decrypt
 DecryptText
 dedic
 dedic.delete
@@ -4458,6 +4464,7 @@ EnableAllEditBox
 EnableEventCallback
 EnableWorkThreads
 enabling
+encrypt
 encryption
 EncryptText
 endCamera()
@@ -4739,6 +4746,7 @@ flow
 flush_rewrite_rules
 FlushIni
 flyspray
+focus
 focused
 FocusFrame_FocusClear
 FocusFrame_FocusUnit
@@ -4794,6 +4802,7 @@ footers
 for
 force_balance_tags
 force_ssl_content
+forceLogout
 ForecastingUtils
 forge
 Forge
@@ -9643,6 +9652,7 @@ InitializePathSearch
 InitializeQuestTrackFrame
 InitializeRaidTargetFrame
 InitializeWorldMap
+initiate
 injection
 InPartyByName
 input
@@ -9744,6 +9754,7 @@ ipp
 ips
 iraq
 irc
+is
 is_404
 is_active_sidebar
 is_active_widget
@@ -10906,6 +10917,7 @@ LoginDropDownList_SetSelectedValue
 LoginDropDownList_SetText
 LoginDropDownList_SetWidth
 LoginDropDownListButton_OnClick
+logininfo
 LoginParent_OnEvent
 LoginParent_OnLoad
 LoginRenameFrame_OnEvent
@@ -11613,6 +11625,7 @@ mkstats
 mobile
 mod
 Mod
+mode
 model
 models
 modelX()
@@ -11674,6 +11687,7 @@ mouseReleased()
 mouseWheel()
 mouseX
 mouseY
+move
 MoveBackwardStart
 MoveBackwardStop
 MoveForwardStart
@@ -11703,6 +11717,7 @@ ms_subdomain_constants
 ms_upload_constants
 ms-sql
 msadc
+msg
 MsgBox
 MsgBoxButtons
 MsgBoxEx
@@ -11796,6 +11811,7 @@ normal()
 noSmooth()
 noStroke()
 notes
+notice
 notification
 Notification
 notification.delete
@@ -13327,6 +13343,7 @@ RemoveUI
 RemoveUndesirable
 RemoveUserFromOrganizationUnit
 removing
+rename
 Rendering
 reopen
 reopening
@@ -13348,6 +13365,7 @@ research
 Research
 reseller
 resellers
+reset
 ResetActionSetting
 ResetCode
 ResetCodeByHost
@@ -14546,6 +14564,7 @@ SmoothBlendCheckButton_IsChecked
 SmoothBlendCheckButton_SetChecked
 sms
 snapshots
+snd
 snoop
 snp
 soap
@@ -15220,8 +15239,10 @@ tld.idntable.suspend
 tld.idntable.view
 tmp
 tn
+to
 toc
 today
+toggle
 ToggleAreaMap
 ToggleAutoRun
 ToggleBackpack
@@ -18060,6 +18081,7 @@ vote
 voucher
 vpg
 vpn
+vrfy
 w
 W
 w3
@@ -18145,6 +18167,7 @@ WinHelp
 wink
 WIPS
 wireless
+with
 word
 wordpress
 wordpressmu_wp_mail_from
