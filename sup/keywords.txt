@@ -4,6 +4,8 @@ access_token_secret
 access-token
 accesskey
 accessKey
+accessKeyId
+accessKeySecret
 accesstoken
 accessToken
 admin
@@ -130,6 +132,7 @@ secretkey
 secretKey
 SecretKey
 security_credentials
+securityToken
 send_keys
 session_key
 session_secret
