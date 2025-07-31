@@ -1,3 +1,5 @@
+
+!
 !@#123qwe
 !q2w3e4r
 !qaz@wsx#edc
@@ -7,12 +9,16 @@
 !QAZ3edc
 !QAZwsx
 ?v8Xiokw5jMto[
+..
+@
 @bcd1234
 @WSX3edc
+#
 #EDC4rfv
 #ng1.0ir
 #ng1.0qpy
 #ng1.0u
+$
 0
 000000
 000000000
@@ -31,7 +37,9 @@
 12
 121212
 123
+123!@
 123!@#qweQWE
+123..
 123.com
 123@123a
 123123
@@ -83,6 +91,7 @@
 1q2w3e
 1q2w3e4r
 1Q2W3E4R
+1qaz
 1qaz!@#$
 1qaz!QAZ
 1qaz@wsx
@@ -114,6 +123,8 @@
 5841314520
 5tgb^YHN
 654321
+666
+6666
 666666
 741852963
 7654321
@@ -123,6 +134,8 @@
 789456123
 7894561230
 8@M03E$f695
+888
+8888
 888888
 88888888
 9
@@ -141,9 +154,13 @@ Aa123123.
 aa123456
 Aa123456
 aa123456789
+aaa
 aaa123456
 Aaaa111!
 aaaaaa
+abc
+ABC
+abc!@
 abc.123
 abc@123
 abc123
@@ -219,6 +236,7 @@ Admin#6789
 Admin#789
 admin1
 admin123
+Admin123
 admin1234
 admin123456
 admin888
@@ -241,8 +259,10 @@ bjgc@0905&user
 callinfo
 caonima
 cde384$*
+ceshi
 chao123
 Cjnhm_780
+com
 cvbk@boss!@
 cwpass
 db2inst1
@@ -301,6 +321,7 @@ pass12#$
 passw0rd
 Passw0rd
 Passw0rd.
+passwd
 password
 Password
 PAsswOrd
@@ -314,6 +335,7 @@ q123456
 q123456789
 q1w2e3r4
 Qaknn_561
+qaz
 qaz123456
 qazwsx
 qazWSX^&*
@@ -335,6 +357,8 @@ qq5201314
 Qqpuy@012
 QT_8351
 Qwaszx12
+qwe
+QWE
 qwe123
 qwe123!@#
 qwe123456
@@ -373,6 +397,7 @@ sq898!!CXS
 sql
 system
 test
+Test
 Test@123
 test01
 test123
@@ -416,8 +441,3 @@ zaq102!)
 Zdmin#10
 Zjbfk_453
 Zldnt_861
-zxc123
-zxc123456
-zxcvbnm
-ZXCVbnm
-zxcvbnm123

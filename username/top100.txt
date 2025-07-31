@@ -6,6 +6,8 @@ abuse
 adm
 admin
 Admin
+admin001
+admin01
 admin1
 administrator
 Administrator
@@ -17,8 +19,12 @@ AppProdUser
 auditor
 azureuser
 both
+ceshi
+ceshi1
 cisco
 client
+cs
+cs1
 customer
 dbadmin
 dbuser
@@ -58,6 +64,7 @@ sa
 security
 setup
 super
+superadmin
 superuser
 support
 sys
@@ -67,6 +74,9 @@ system
 systemadmin
 tech
 test
+test001
+test01
+test1
 tiger
 tomcat
 user
@@ -74,3 +84,5 @@ User
 vagrant
 web
 webadmin
+webmaster
+www

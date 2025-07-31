@@ -2,7 +2,9 @@ _apt
 0
 0000
 0001
+001
 001guest
+01
 0admin
 0manager
 1
@@ -262,6 +264,8 @@ core
 couchdb
 cpanel
 crm
+cs
+cs1
 cups-pk-helper
 cusadmin
 customer
@@ -716,6 +720,7 @@ technician
 telnet
 temp
 test
+test001
 test01
 test02
 test03

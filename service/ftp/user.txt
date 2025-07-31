@@ -5,10 +5,12 @@ aaa
 admin
 administrator
 anonymous
+ceshi
 dev
 devweb
 ftp
 ftpuser
+guest
 root
 test
 user

@@ -1,7 +1,10 @@
-root
-test
 admin
-web
+ceshi
 dba
+dbuser
 demo
 mysql
+root
+test
+user
+web

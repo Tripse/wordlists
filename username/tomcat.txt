@@ -1,4 +1,9 @@
-tomcat
 admin
-test
+both
+ceshi
 manager
+role1
+root
+test
+tomcat
+user

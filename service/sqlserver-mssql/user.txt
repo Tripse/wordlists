@@ -1,0 +1,9 @@
+admin
+ceshi
+dbuser
+guest
+root
+sa
+test
+user
+web
