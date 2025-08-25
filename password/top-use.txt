@@ -241,6 +241,7 @@ admin1234
 admin123456
 admin888
 admin999
+administrator
 administratör
 aimdn
 Aimdn
@@ -326,9 +327,11 @@ password
 Password
 PAsswOrd
 Password@1
+password@123
 Password@123
 Password01!
 password1
+Password1
 password123
 Ptlvyq!2132
 q123456
