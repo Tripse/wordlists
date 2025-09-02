@@ -11513,6 +11513,7 @@ soa
 soap
 sobek
 soc
+soc-player
 socal
 soccer
 sochi

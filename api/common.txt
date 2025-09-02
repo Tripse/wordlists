@@ -2801,11 +2801,13 @@ auth/pin/verify
 auth/profile/
 auth/pwd/reset
 auth/queryNoMapUserBydUid?page=1&pageSize=2147483647
+auth/refresh
 auth/register
 auth/resetPassword/
 auth/selectUserPageList
 auth/unlockUser/
 auth/updateUser
+auth/user
 authenticate
 Authenticate
 authenticating

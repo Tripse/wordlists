@@ -12,6 +12,10 @@ php
 pHp
 php......
 pHp......
+php.gif
+php.jpg
+php.png
+php.txt
 php%00
 pHp%00
 php%20%20%20
