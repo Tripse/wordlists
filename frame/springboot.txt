@@ -964,6 +964,7 @@ logfile
 loggers
 loggingConfig
 login/admin/swagger-ui.html
+manage
 manage/log/view?filename=/etc/passwd&base=../../../../../../../../../../
 manage/log/view?filename=/windows/win.ini&base=../../../../../../../../../../
 management

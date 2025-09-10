@@ -41258,6 +41258,7 @@ upload_pic
 upload_temp
 upload_tmp
 upload_xsite
+upload-cover
 upload-photo
 upload-photos
 upload-pictures

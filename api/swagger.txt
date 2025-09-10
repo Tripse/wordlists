@@ -182,6 +182,7 @@ backoffice/v1/ui
 build/reference/web-api/explore
 core/latest/swagger-ui/index.html
 csp/gateway/slc/api/swagger-ui.html
+distv2/index.html
 doc
 doc.json
 doc/
@@ -206,6 +207,7 @@ documentation/swagger
 documentation/swagger.json
 documentation/swagger.yaml
 documentation/version
+dubbo-provider/distv2/index.html
 error/..;/v2/api-docs
 explorer/
 explorer/index.html
@@ -356,6 +358,7 @@ static/api/swagger.json
 static/api/swagger.yaml
 static/swagger-ui
 static/swagger-ui/index.html
+static/swagger.json
 sw
 sw/
 sw/swagger-resources 
@@ -366,6 +369,7 @@ swagger_docs/
 swagger_docs/v1
 swagger-api
 swagger-api/
+swagger-dubbo/api-docs
 swagger-resources
 swagger-resources/
 swagger-resources/configuration
@@ -387,6 +391,7 @@ swagger-ui/
 swagger-ui/#/
 swagger-ui/api-docs
 swagger-ui/api-docs/swagger.json
+swagger-ui/html
 swagger-ui/index
 swagger-ui/index.html
 swagger-ui/index.html?configUrl=https://jumpy-floor.surge.sh/test.json
@@ -411,6 +416,7 @@ swagger/api_docs
 swagger/api-docs
 swagger/api.yaml
 swagger/api/v1
+swagger/codes
 swagger/core
 swagger/doc
 swagger/doc.json
