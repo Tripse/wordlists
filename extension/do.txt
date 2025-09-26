@@ -70,6 +70,7 @@ loginAction_initSession.do
 loginAction_login.do
 loginAction_loginOpt.do
 loginAction_toRegistPersonal.do
+loginAction.do
 loginByIm.do
 loginMail.do
 logout.do

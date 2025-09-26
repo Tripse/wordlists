@@ -47,7 +47,6 @@
 ..;/dump
 ..;/entity/all
 ..;/env
-..;/env/(name)
 ..;/eureka
 ..;/flyway
 ..;/gateway/actuator

@@ -1,4 +1,3 @@
-
 _wpeprivate/
 ._wp-config.php
 .wp-config.php.swm
@@ -26,7 +25,6 @@ blog/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/phpunit.xml
 blog/wp-content/plugins/wp-phpmyadmin/phpmyadmin/scripts/setup.php
 blog/wp-login.php
 category-template.php
-catian/wp-content/uploads/2010/09/34.gif
 class-feed.php
 class-ftp-pure.php
 class-ftp-sockets.php
