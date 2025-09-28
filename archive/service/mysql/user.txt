@@ -1,0 +1,10 @@
+admin
+ceshi
+dba
+dbuser
+demo
+mysql
+root
+test
+user
+web

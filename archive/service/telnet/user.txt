@@ -1,0 +1,16 @@
+admin
+administrator
+Administrator
+api-admin
+db2admin
+defaultUsername
+ftp
+guest
+LogAdmin
+OperateAdmin
+oracle
+postgres
+root
+sa
+SystemAdmin
+www

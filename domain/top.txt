@@ -985,6 +985,7 @@ authors
 auto
 autocad
 autoconfig
+autodiscover
 automail
 automation
 automotive
@@ -2041,6 +2042,7 @@ chat
 chat1
 chat2
 chat4
+chatbot
 chatbox
 chats
 chatserver
@@ -2124,8 +2126,10 @@ chs
 chum
 church
 ci
+ci-cd
 ciao
 cic
+cicd
 cicril
 cidr
 cie
@@ -4752,6 +4756,7 @@ gis2
 gisweb
 git
 gitea
+github
 gitlab
 giving
 gizmo
@@ -5760,6 +5765,7 @@ inscription
 inside
 insider
 insight
+insights
 insite
 insomnia
 inspiration
@@ -8980,6 +8986,7 @@ ovh
 ovpn
 ovs
 owa
+owa-access
 owa01
 owa02
 owa1
@@ -11809,6 +11816,9 @@ stack
 staf
 staff
 staffs
+stag
+stag-admin
+stag-dev
 stage
 stage1
 stage2
@@ -11890,6 +11900,7 @@ sterling
 steve
 steven
 stg
+stg-api
 sti
 stick
 sting
@@ -18987,6 +18998,16 @@ www-staging
 www-stg
 www-test
 www-uat
+www.blog
+www.demo
+www.dev
+www.forum
+www.m
+www.mail
+www.new
+www.shop
+www.support
+www.test
 www0
 www001
 www003

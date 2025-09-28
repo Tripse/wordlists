@@ -251,10 +251,13 @@ admin123
 Admin123
 admin1234
 admin123456
+Admin123456
 admin888
 admin999
 administrator
+Administrator
 administratör
+AdminPass
 aimdn
 Aimdn
 aini1314
@@ -320,6 +323,7 @@ cwpass
 daniel
 danielle
 db2inst1
+debug
 december
 demo
 dexter
@@ -430,6 +434,7 @@ P@$$word123
 p@ssw0rd
 P@ssw0rd
 P@Ssw0rd
+P@ssw0rd!
 P@ssw0rd123
 P@ssword
 P@ssword_14
@@ -440,6 +445,7 @@ pass12#$
 passw0rd
 Passw0rd
 Passw0rd.
+passw0rd1
 passwd
 password
 Password
@@ -451,6 +457,7 @@ Password01!
 password1
 Password1
 password123
+PasswordAdmin
 patricia
 patrick
 pepper
@@ -498,16 +505,21 @@ QWER@1234
 qwer1234
 Qwer1234
 qwerty
+qwerty-123
 qwerty123
 QWErty123
+qwerty123456
 qwertyui
 qwertyuiop
+qwertyuiop1
+qwertyuiop123
 rabbit
 rachel
 rainbow
 ranger
 richard
 robert
+root
 Root
 root!@#12
 Root@123
@@ -555,6 +567,8 @@ success
 summer
 sunshine
 superman
+superuser
+sysadmin
 system
 taylor
 tennis
@@ -568,6 +582,7 @@ thunder
 tiger
 tigger
 Tmd2016#
+toor
 trustno1
 Usdeg_156
 user
