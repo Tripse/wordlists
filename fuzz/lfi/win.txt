@@ -3301,6 +3301,168 @@ C:/users/administrator/.aws/credentials
 c:/users/administrator/.azure/accesstokens.json
 c:/users/administrator/.elasticbeanstalk/config
 C:/users/administrator/.elasticbeanstalk/config
+c:/Users/Administrator/.ssh/id_dsa
+c:/Users/Administrator/.ssh/id_dsa (copy 1)
+c:/Users/Administrator/.ssh/id_dsa (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_dsa_cert
+c:/Users/Administrator/.ssh/id_dsa_cert (copy 1)
+c:/Users/Administrator/.ssh/id_dsa_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_dsa-cert
+c:/Users/Administrator/.ssh/id_dsa-cert (copy 1)
+c:/Users/Administrator/.ssh/id_dsa-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa
+c:/Users/Administrator/.ssh/id_ecdsa (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa_cert
+c:/Users/Administrator/.ssh/id_ecdsa_cert (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa_sk
+c:/Users/Administrator/.ssh/id_ecdsa_sk (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa_sk (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa_sk_cert
+c:/Users/Administrator/.ssh/id_ecdsa_sk_cert (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa_sk_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa_sk-cert
+c:/Users/Administrator/.ssh/id_ecdsa_sk-cert (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa_sk-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa-cert
+c:/Users/Administrator/.ssh/id_ecdsa-cert (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa-sk
+c:/Users/Administrator/.ssh/id_ecdsa-sk (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa-sk (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa-sk_cert
+c:/Users/Administrator/.ssh/id_ecdsa-sk_cert (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa-sk_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa-sk-cert
+c:/Users/Administrator/.ssh/id_ecdsa-sk-cert (copy 1)
+c:/Users/Administrator/.ssh/id_ecdsa-sk-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519
+c:/Users/Administrator/.ssh/id_ed25519 (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519 (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519_cert
+c:/Users/Administrator/.ssh/id_ed25519_cert (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519_sk
+c:/Users/Administrator/.ssh/id_ed25519_sk (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519_sk (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519_sk_cert
+c:/Users/Administrator/.ssh/id_ed25519_sk_cert (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519_sk_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519_sk-cert
+c:/Users/Administrator/.ssh/id_ed25519_sk-cert (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519_sk-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519-cert
+c:/Users/Administrator/.ssh/id_ed25519-cert (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519-sk
+c:/Users/Administrator/.ssh/id_ed25519-sk (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519-sk (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519-sk_cert
+c:/Users/Administrator/.ssh/id_ed25519-sk_cert (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519-sk_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519-sk-cert
+c:/Users/Administrator/.ssh/id_ed25519-sk-cert (copy 1)
+c:/Users/Administrator/.ssh/id_ed25519-sk-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_rsa
+c:/Users/Administrator/.ssh/id_rsa (copy 1)
+c:/Users/Administrator/.ssh/id_rsa (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_rsa_cert
+c:/Users/Administrator/.ssh/id_rsa_cert (copy 1)
+c:/Users/Administrator/.ssh/id_rsa_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_rsa-cert
+c:/Users/Administrator/.ssh/id_rsa-cert (copy 1)
+c:/Users/Administrator/.ssh/id_rsa-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_xmss
+c:/Users/Administrator/.ssh/id_xmss (copy 1)
+c:/Users/Administrator/.ssh/id_xmss (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_xmss_cert
+c:/Users/Administrator/.ssh/id_xmss_cert (copy 1)
+c:/Users/Administrator/.ssh/id_xmss_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id_xmss-cert
+c:/Users/Administrator/.ssh/id_xmss-cert (copy 1)
+c:/Users/Administrator/.ssh/id_xmss-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-dsa
+c:/Users/Administrator/.ssh/id-dsa (copy 1)
+c:/Users/Administrator/.ssh/id-dsa (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-dsa_cert
+c:/Users/Administrator/.ssh/id-dsa_cert (copy 1)
+c:/Users/Administrator/.ssh/id-dsa_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-dsa-cert
+c:/Users/Administrator/.ssh/id-dsa-cert (copy 1)
+c:/Users/Administrator/.ssh/id-dsa-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa
+c:/Users/Administrator/.ssh/id-ecdsa (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa_cert
+c:/Users/Administrator/.ssh/id-ecdsa_cert (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa_sk
+c:/Users/Administrator/.ssh/id-ecdsa_sk (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa_sk (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa_sk_cert
+c:/Users/Administrator/.ssh/id-ecdsa_sk_cert (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa_sk_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa_sk-cert
+c:/Users/Administrator/.ssh/id-ecdsa_sk-cert (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa_sk-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa-cert
+c:/Users/Administrator/.ssh/id-ecdsa-cert (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa-sk
+c:/Users/Administrator/.ssh/id-ecdsa-sk (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa-sk (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa-sk_cert
+c:/Users/Administrator/.ssh/id-ecdsa-sk_cert (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa-sk_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa-sk-cert
+c:/Users/Administrator/.ssh/id-ecdsa-sk-cert (copy 1)
+c:/Users/Administrator/.ssh/id-ecdsa-sk-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519
+c:/Users/Administrator/.ssh/id-ed25519 (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519 (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519_cert
+c:/Users/Administrator/.ssh/id-ed25519_cert (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519_sk
+c:/Users/Administrator/.ssh/id-ed25519_sk (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519_sk (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519_sk_cert
+c:/Users/Administrator/.ssh/id-ed25519_sk_cert (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519_sk_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519_sk-cert
+c:/Users/Administrator/.ssh/id-ed25519_sk-cert (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519_sk-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519-cert
+c:/Users/Administrator/.ssh/id-ed25519-cert (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519-sk
+c:/Users/Administrator/.ssh/id-ed25519-sk (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519-sk (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519-sk_cert
+c:/Users/Administrator/.ssh/id-ed25519-sk_cert (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519-sk_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519-sk-cert
+c:/Users/Administrator/.ssh/id-ed25519-sk-cert (copy 1)
+c:/Users/Administrator/.ssh/id-ed25519-sk-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-rsa
+c:/Users/Administrator/.ssh/id-rsa (copy 1)
+c:/Users/Administrator/.ssh/id-rsa (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-rsa_cert
+c:/Users/Administrator/.ssh/id-rsa_cert (copy 1)
+c:/Users/Administrator/.ssh/id-rsa_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-rsa-cert
+c:/Users/Administrator/.ssh/id-rsa-cert (copy 1)
+c:/Users/Administrator/.ssh/id-rsa-cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-xmss
+c:/Users/Administrator/.ssh/id-xmss (copy 1)
+c:/Users/Administrator/.ssh/id-xmss (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-xmss_cert
+c:/Users/Administrator/.ssh/id-xmss_cert (copy 1)
+c:/Users/Administrator/.ssh/id-xmss_cert (copy 1) (copy 1)
+c:/Users/Administrator/.ssh/id-xmss-cert
+c:/Users/Administrator/.ssh/id-xmss-cert (copy 1)
+c:/Users/Administrator/.ssh/id-xmss-cert (copy 1) (copy 1)
 c:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks
 C:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks
 c:/users/administrator/appdata/local/google/chrome/user data/default/bookmarks.bak
@@ -3321,10 +3483,19 @@ c:/users/administrator/appdata/local/google/chrome/user data/default/top sites
 C:/users/administrator/appdata/local/google/chrome/user data/default/top sites
 c:/users/administrator/appdata/roaming/microsoft/windows/powershell/psreadline/consolehost_history.txt
 C:/users/administrator/appdata/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+c:/Users/Administrator/Desktop/cred.txt
+c:/Users/Administrator/Desktop/credential.txt
+c:/Users/Administrator/Desktop/credentials.txt
+c:/Users/Administrator/Desktop/creds.txt
 c:/users/administrator/desktop/desktop.ini
 C:/users/administrator/desktop/desktop.ini
+c:/Users/Administrator/Desktop/pass.txt
+c:/Users/Administrator/Desktop/password.txt
+c:/Users/Administrator/Desktop/passwords.txt
 c:/users/administrator/desktop/proof.txt
 C:/users/administrator/desktop/proof.txt
+c:/Users/Administrator/Desktop/secret.txt
+c:/Users/Administrator/Desktop/secrets.txt
 c:/users/administrator/ntuser.dat
 C:/users/administrator/ntuser.dat
 C:/Users/Administrator/NTUser.dat
@@ -11608,6 +11779,168 @@ unattended.xml
 users/administrator/.aws/config
 users/administrator/.aws/credentials
 users/administrator/.elasticbeanstalk/config
+Users/Administrator/.ssh/id_dsa
+Users/Administrator/.ssh/id_dsa (copy 1)
+Users/Administrator/.ssh/id_dsa (copy 1) (copy 1)
+Users/Administrator/.ssh/id_dsa_cert
+Users/Administrator/.ssh/id_dsa_cert (copy 1)
+Users/Administrator/.ssh/id_dsa_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_dsa-cert
+Users/Administrator/.ssh/id_dsa-cert (copy 1)
+Users/Administrator/.ssh/id_dsa-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa
+Users/Administrator/.ssh/id_ecdsa (copy 1)
+Users/Administrator/.ssh/id_ecdsa (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa_cert
+Users/Administrator/.ssh/id_ecdsa_cert (copy 1)
+Users/Administrator/.ssh/id_ecdsa_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa_sk
+Users/Administrator/.ssh/id_ecdsa_sk (copy 1)
+Users/Administrator/.ssh/id_ecdsa_sk (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa_sk_cert
+Users/Administrator/.ssh/id_ecdsa_sk_cert (copy 1)
+Users/Administrator/.ssh/id_ecdsa_sk_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa_sk-cert
+Users/Administrator/.ssh/id_ecdsa_sk-cert (copy 1)
+Users/Administrator/.ssh/id_ecdsa_sk-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa-cert
+Users/Administrator/.ssh/id_ecdsa-cert (copy 1)
+Users/Administrator/.ssh/id_ecdsa-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa-sk
+Users/Administrator/.ssh/id_ecdsa-sk (copy 1)
+Users/Administrator/.ssh/id_ecdsa-sk (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa-sk_cert
+Users/Administrator/.ssh/id_ecdsa-sk_cert (copy 1)
+Users/Administrator/.ssh/id_ecdsa-sk_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ecdsa-sk-cert
+Users/Administrator/.ssh/id_ecdsa-sk-cert (copy 1)
+Users/Administrator/.ssh/id_ecdsa-sk-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519
+Users/Administrator/.ssh/id_ed25519 (copy 1)
+Users/Administrator/.ssh/id_ed25519 (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519_cert
+Users/Administrator/.ssh/id_ed25519_cert (copy 1)
+Users/Administrator/.ssh/id_ed25519_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519_sk
+Users/Administrator/.ssh/id_ed25519_sk (copy 1)
+Users/Administrator/.ssh/id_ed25519_sk (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519_sk_cert
+Users/Administrator/.ssh/id_ed25519_sk_cert (copy 1)
+Users/Administrator/.ssh/id_ed25519_sk_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519_sk-cert
+Users/Administrator/.ssh/id_ed25519_sk-cert (copy 1)
+Users/Administrator/.ssh/id_ed25519_sk-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519-cert
+Users/Administrator/.ssh/id_ed25519-cert (copy 1)
+Users/Administrator/.ssh/id_ed25519-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519-sk
+Users/Administrator/.ssh/id_ed25519-sk (copy 1)
+Users/Administrator/.ssh/id_ed25519-sk (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519-sk_cert
+Users/Administrator/.ssh/id_ed25519-sk_cert (copy 1)
+Users/Administrator/.ssh/id_ed25519-sk_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_ed25519-sk-cert
+Users/Administrator/.ssh/id_ed25519-sk-cert (copy 1)
+Users/Administrator/.ssh/id_ed25519-sk-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_rsa
+Users/Administrator/.ssh/id_rsa (copy 1)
+Users/Administrator/.ssh/id_rsa (copy 1) (copy 1)
+Users/Administrator/.ssh/id_rsa_cert
+Users/Administrator/.ssh/id_rsa_cert (copy 1)
+Users/Administrator/.ssh/id_rsa_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_rsa-cert
+Users/Administrator/.ssh/id_rsa-cert (copy 1)
+Users/Administrator/.ssh/id_rsa-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_xmss
+Users/Administrator/.ssh/id_xmss (copy 1)
+Users/Administrator/.ssh/id_xmss (copy 1) (copy 1)
+Users/Administrator/.ssh/id_xmss_cert
+Users/Administrator/.ssh/id_xmss_cert (copy 1)
+Users/Administrator/.ssh/id_xmss_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id_xmss-cert
+Users/Administrator/.ssh/id_xmss-cert (copy 1)
+Users/Administrator/.ssh/id_xmss-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-dsa
+Users/Administrator/.ssh/id-dsa (copy 1)
+Users/Administrator/.ssh/id-dsa (copy 1) (copy 1)
+Users/Administrator/.ssh/id-dsa_cert
+Users/Administrator/.ssh/id-dsa_cert (copy 1)
+Users/Administrator/.ssh/id-dsa_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-dsa-cert
+Users/Administrator/.ssh/id-dsa-cert (copy 1)
+Users/Administrator/.ssh/id-dsa-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa
+Users/Administrator/.ssh/id-ecdsa (copy 1)
+Users/Administrator/.ssh/id-ecdsa (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa_cert
+Users/Administrator/.ssh/id-ecdsa_cert (copy 1)
+Users/Administrator/.ssh/id-ecdsa_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa_sk
+Users/Administrator/.ssh/id-ecdsa_sk (copy 1)
+Users/Administrator/.ssh/id-ecdsa_sk (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa_sk_cert
+Users/Administrator/.ssh/id-ecdsa_sk_cert (copy 1)
+Users/Administrator/.ssh/id-ecdsa_sk_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa_sk-cert
+Users/Administrator/.ssh/id-ecdsa_sk-cert (copy 1)
+Users/Administrator/.ssh/id-ecdsa_sk-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa-cert
+Users/Administrator/.ssh/id-ecdsa-cert (copy 1)
+Users/Administrator/.ssh/id-ecdsa-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa-sk
+Users/Administrator/.ssh/id-ecdsa-sk (copy 1)
+Users/Administrator/.ssh/id-ecdsa-sk (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa-sk_cert
+Users/Administrator/.ssh/id-ecdsa-sk_cert (copy 1)
+Users/Administrator/.ssh/id-ecdsa-sk_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ecdsa-sk-cert
+Users/Administrator/.ssh/id-ecdsa-sk-cert (copy 1)
+Users/Administrator/.ssh/id-ecdsa-sk-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519
+Users/Administrator/.ssh/id-ed25519 (copy 1)
+Users/Administrator/.ssh/id-ed25519 (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519_cert
+Users/Administrator/.ssh/id-ed25519_cert (copy 1)
+Users/Administrator/.ssh/id-ed25519_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519_sk
+Users/Administrator/.ssh/id-ed25519_sk (copy 1)
+Users/Administrator/.ssh/id-ed25519_sk (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519_sk_cert
+Users/Administrator/.ssh/id-ed25519_sk_cert (copy 1)
+Users/Administrator/.ssh/id-ed25519_sk_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519_sk-cert
+Users/Administrator/.ssh/id-ed25519_sk-cert (copy 1)
+Users/Administrator/.ssh/id-ed25519_sk-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519-cert
+Users/Administrator/.ssh/id-ed25519-cert (copy 1)
+Users/Administrator/.ssh/id-ed25519-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519-sk
+Users/Administrator/.ssh/id-ed25519-sk (copy 1)
+Users/Administrator/.ssh/id-ed25519-sk (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519-sk_cert
+Users/Administrator/.ssh/id-ed25519-sk_cert (copy 1)
+Users/Administrator/.ssh/id-ed25519-sk_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-ed25519-sk-cert
+Users/Administrator/.ssh/id-ed25519-sk-cert (copy 1)
+Users/Administrator/.ssh/id-ed25519-sk-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-rsa
+Users/Administrator/.ssh/id-rsa (copy 1)
+Users/Administrator/.ssh/id-rsa (copy 1) (copy 1)
+Users/Administrator/.ssh/id-rsa_cert
+Users/Administrator/.ssh/id-rsa_cert (copy 1)
+Users/Administrator/.ssh/id-rsa_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-rsa-cert
+Users/Administrator/.ssh/id-rsa-cert (copy 1)
+Users/Administrator/.ssh/id-rsa-cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-xmss
+Users/Administrator/.ssh/id-xmss (copy 1)
+Users/Administrator/.ssh/id-xmss (copy 1) (copy 1)
+Users/Administrator/.ssh/id-xmss_cert
+Users/Administrator/.ssh/id-xmss_cert (copy 1)
+Users/Administrator/.ssh/id-xmss_cert (copy 1) (copy 1)
+Users/Administrator/.ssh/id-xmss-cert
+Users/Administrator/.ssh/id-xmss-cert (copy 1)
+Users/Administrator/.ssh/id-xmss-cert (copy 1) (copy 1)
 users/administrator/appdata/local/google/chrome/user data/default/bookmarks
 users/administrator/appdata/local/google/chrome/user data/default/bookmarks.bak
 users/administrator/appdata/local/google/chrome/user data/default/cookies
@@ -11627,8 +11960,17 @@ users/administrator/appdata/local/google/chrome/user+data/default/preferences
 users/administrator/appdata/local/google/chrome/user+data/default/secure+preferences
 users/administrator/appdata/local/google/chrome/user+data/default/top+sites
 users/administrator/appdata/Roaming/Microsoft/Windows/PowerShell/PSReadline/ConsoleHost_history.txt
+Users/Administrator/Desktop/cred.txt
+Users/Administrator/Desktop/credential.txt
+Users/Administrator/Desktop/credentials.txt
+Users/Administrator/Desktop/creds.txt
 users/administrator/desktop/desktop.ini
+Users/Administrator/Desktop/pass.txt
+Users/Administrator/Desktop/password.txt
+Users/Administrator/Desktop/passwords.txt
 users/administrator/desktop/proof.txt
+Users/Administrator/Desktop/secret.txt
+Users/Administrator/Desktop/secrets.txt
 users/administrator/ntuser.dat
 users/administrator/ntuser.ini
 Users/All Users/AppData/Local/Microsoft/CLR_v4.0_32/ngen.log

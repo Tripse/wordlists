@@ -31553,6 +31553,9 @@ phparticles
 phpauctionpro
 phpbackdoor15.php
 phpbanner
+phpbash
+phpbash.min.php
+phpbash.php
 phpbay
 phpbb
 phpBB
@@ -36432,6 +36435,7 @@ SECURE
 secure_admin
 secure_html
 secure_login
+secure_notes
 secure_omg
 secure_server
 Secure_Server
@@ -42267,6 +42271,8 @@ uploads/
 uploads/affwp-debug.log
 uploads/dump.sql
 uploads/ok.php
+uploads/phpbash.min.php
+uploads/phpbash.php
 uploads2
 uploads3
 uploadshell.php

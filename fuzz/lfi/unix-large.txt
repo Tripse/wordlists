@@ -1,3 +1,4 @@
+
 _config.php
 ../../../../../../etc/passwd%00
 ../../../../../../wp-config.php
@@ -11935,6 +11936,7 @@ etc/tomcat7/policy.d/50local.policy
 etc/tomcat7/server.xml
 etc/tomcat7/tomcat-users.xml
 etc/tomcat7/web.xml
+etc/tomcat9/tomcat-users.xml
 etc/tor/tor-tsocks.conf
 etc/tpbrc
 etc/transcriber/beep.au
@@ -72031,10 +72033,170 @@ root/.php_history
 root/.profile
 root/.ssh/authorized_keys
 root/.ssh/id_dsa
+root/.ssh/id_dsa (copy 1)
+root/.ssh/id_dsa (copy 1) (copy 1)
+root/.ssh/id_dsa_cert
+root/.ssh/id_dsa_cert (copy 1)
+root/.ssh/id_dsa_cert (copy 1) (copy 1)
+root/.ssh/id_dsa-cert
+root/.ssh/id_dsa-cert (copy 1)
+root/.ssh/id_dsa-cert (copy 1) (copy 1)
 root/.ssh/id_dsa.pub
+root/.ssh/id_ecdsa
+root/.ssh/id_ecdsa (copy 1)
+root/.ssh/id_ecdsa (copy 1) (copy 1)
+root/.ssh/id_ecdsa_cert
+root/.ssh/id_ecdsa_cert (copy 1)
+root/.ssh/id_ecdsa_cert (copy 1) (copy 1)
+root/.ssh/id_ecdsa_sk
+root/.ssh/id_ecdsa_sk (copy 1)
+root/.ssh/id_ecdsa_sk (copy 1) (copy 1)
+root/.ssh/id_ecdsa_sk_cert
+root/.ssh/id_ecdsa_sk_cert (copy 1)
+root/.ssh/id_ecdsa_sk_cert (copy 1) (copy 1)
+root/.ssh/id_ecdsa_sk-cert
+root/.ssh/id_ecdsa_sk-cert (copy 1)
+root/.ssh/id_ecdsa_sk-cert (copy 1) (copy 1)
+root/.ssh/id_ecdsa-cert
+root/.ssh/id_ecdsa-cert (copy 1)
+root/.ssh/id_ecdsa-cert (copy 1) (copy 1)
+root/.ssh/id_ecdsa-sk
+root/.ssh/id_ecdsa-sk (copy 1)
+root/.ssh/id_ecdsa-sk (copy 1) (copy 1)
+root/.ssh/id_ecdsa-sk_cert
+root/.ssh/id_ecdsa-sk_cert (copy 1)
+root/.ssh/id_ecdsa-sk_cert (copy 1) (copy 1)
+root/.ssh/id_ecdsa-sk-cert
+root/.ssh/id_ecdsa-sk-cert (copy 1)
+root/.ssh/id_ecdsa-sk-cert (copy 1) (copy 1)
+root/.ssh/id_ed25519
+root/.ssh/id_ed25519 (copy 1)
+root/.ssh/id_ed25519 (copy 1) (copy 1)
+root/.ssh/id_ed25519_cert
+root/.ssh/id_ed25519_cert (copy 1)
+root/.ssh/id_ed25519_cert (copy 1) (copy 1)
+root/.ssh/id_ed25519_sk
+root/.ssh/id_ed25519_sk (copy 1)
+root/.ssh/id_ed25519_sk (copy 1) (copy 1)
+root/.ssh/id_ed25519_sk_cert
+root/.ssh/id_ed25519_sk_cert (copy 1)
+root/.ssh/id_ed25519_sk_cert (copy 1) (copy 1)
+root/.ssh/id_ed25519_sk-cert
+root/.ssh/id_ed25519_sk-cert (copy 1)
+root/.ssh/id_ed25519_sk-cert (copy 1) (copy 1)
+root/.ssh/id_ed25519-cert
+root/.ssh/id_ed25519-cert (copy 1)
+root/.ssh/id_ed25519-cert (copy 1) (copy 1)
+root/.ssh/id_ed25519-sk
+root/.ssh/id_ed25519-sk (copy 1)
+root/.ssh/id_ed25519-sk (copy 1) (copy 1)
+root/.ssh/id_ed25519-sk_cert
+root/.ssh/id_ed25519-sk_cert (copy 1)
+root/.ssh/id_ed25519-sk_cert (copy 1) (copy 1)
+root/.ssh/id_ed25519-sk-cert
+root/.ssh/id_ed25519-sk-cert (copy 1)
+root/.ssh/id_ed25519-sk-cert (copy 1) (copy 1)
 root/.ssh/id_rsa
+root/.ssh/id_rsa (copy 1)
+root/.ssh/id_rsa (copy 1) (copy 1)
+root/.ssh/id_rsa_cert
+root/.ssh/id_rsa_cert (copy 1)
+root/.ssh/id_rsa_cert (copy 1) (copy 1)
+root/.ssh/id_rsa-cert
+root/.ssh/id_rsa-cert (copy 1)
+root/.ssh/id_rsa-cert (copy 1) (copy 1)
 root/.ssh/id_rsa.keystore
 root/.ssh/id_rsa.pub
+root/.ssh/id_xmss
+root/.ssh/id_xmss (copy 1)
+root/.ssh/id_xmss (copy 1) (copy 1)
+root/.ssh/id_xmss_cert
+root/.ssh/id_xmss_cert (copy 1)
+root/.ssh/id_xmss_cert (copy 1) (copy 1)
+root/.ssh/id_xmss-cert
+root/.ssh/id_xmss-cert (copy 1)
+root/.ssh/id_xmss-cert (copy 1) (copy 1)
+root/.ssh/id-dsa
+root/.ssh/id-dsa (copy 1)
+root/.ssh/id-dsa (copy 1) (copy 1)
+root/.ssh/id-dsa_cert
+root/.ssh/id-dsa_cert (copy 1)
+root/.ssh/id-dsa_cert (copy 1) (copy 1)
+root/.ssh/id-dsa-cert
+root/.ssh/id-dsa-cert (copy 1)
+root/.ssh/id-dsa-cert (copy 1) (copy 1)
+root/.ssh/id-ecdsa
+root/.ssh/id-ecdsa (copy 1)
+root/.ssh/id-ecdsa (copy 1) (copy 1)
+root/.ssh/id-ecdsa_cert
+root/.ssh/id-ecdsa_cert (copy 1)
+root/.ssh/id-ecdsa_cert (copy 1) (copy 1)
+root/.ssh/id-ecdsa_sk
+root/.ssh/id-ecdsa_sk (copy 1)
+root/.ssh/id-ecdsa_sk (copy 1) (copy 1)
+root/.ssh/id-ecdsa_sk_cert
+root/.ssh/id-ecdsa_sk_cert (copy 1)
+root/.ssh/id-ecdsa_sk_cert (copy 1) (copy 1)
+root/.ssh/id-ecdsa_sk-cert
+root/.ssh/id-ecdsa_sk-cert (copy 1)
+root/.ssh/id-ecdsa_sk-cert (copy 1) (copy 1)
+root/.ssh/id-ecdsa-cert
+root/.ssh/id-ecdsa-cert (copy 1)
+root/.ssh/id-ecdsa-cert (copy 1) (copy 1)
+root/.ssh/id-ecdsa-sk
+root/.ssh/id-ecdsa-sk (copy 1)
+root/.ssh/id-ecdsa-sk (copy 1) (copy 1)
+root/.ssh/id-ecdsa-sk_cert
+root/.ssh/id-ecdsa-sk_cert (copy 1)
+root/.ssh/id-ecdsa-sk_cert (copy 1) (copy 1)
+root/.ssh/id-ecdsa-sk-cert
+root/.ssh/id-ecdsa-sk-cert (copy 1)
+root/.ssh/id-ecdsa-sk-cert (copy 1) (copy 1)
+root/.ssh/id-ed25519
+root/.ssh/id-ed25519 (copy 1)
+root/.ssh/id-ed25519 (copy 1) (copy 1)
+root/.ssh/id-ed25519_cert
+root/.ssh/id-ed25519_cert (copy 1)
+root/.ssh/id-ed25519_cert (copy 1) (copy 1)
+root/.ssh/id-ed25519_sk
+root/.ssh/id-ed25519_sk (copy 1)
+root/.ssh/id-ed25519_sk (copy 1) (copy 1)
+root/.ssh/id-ed25519_sk_cert
+root/.ssh/id-ed25519_sk_cert (copy 1)
+root/.ssh/id-ed25519_sk_cert (copy 1) (copy 1)
+root/.ssh/id-ed25519_sk-cert
+root/.ssh/id-ed25519_sk-cert (copy 1)
+root/.ssh/id-ed25519_sk-cert (copy 1) (copy 1)
+root/.ssh/id-ed25519-cert
+root/.ssh/id-ed25519-cert (copy 1)
+root/.ssh/id-ed25519-cert (copy 1) (copy 1)
+root/.ssh/id-ed25519-sk
+root/.ssh/id-ed25519-sk (copy 1)
+root/.ssh/id-ed25519-sk (copy 1) (copy 1)
+root/.ssh/id-ed25519-sk_cert
+root/.ssh/id-ed25519-sk_cert (copy 1)
+root/.ssh/id-ed25519-sk_cert (copy 1) (copy 1)
+root/.ssh/id-ed25519-sk-cert
+root/.ssh/id-ed25519-sk-cert (copy 1)
+root/.ssh/id-ed25519-sk-cert (copy 1) (copy 1)
+root/.ssh/id-rsa
+root/.ssh/id-rsa (copy 1)
+root/.ssh/id-rsa (copy 1) (copy 1)
+root/.ssh/id-rsa_cert
+root/.ssh/id-rsa_cert (copy 1)
+root/.ssh/id-rsa_cert (copy 1) (copy 1)
+root/.ssh/id-rsa-cert
+root/.ssh/id-rsa-cert (copy 1)
+root/.ssh/id-rsa-cert (copy 1) (copy 1)
+root/.ssh/id-xmss
+root/.ssh/id-xmss (copy 1)
+root/.ssh/id-xmss (copy 1) (copy 1)
+root/.ssh/id-xmss_cert
+root/.ssh/id-xmss_cert (copy 1)
+root/.ssh/id-xmss_cert (copy 1) (copy 1)
+root/.ssh/id-xmss-cert
+root/.ssh/id-xmss-cert (copy 1)
+root/.ssh/id-xmss-cert (copy 1) (copy 1)
 root/.ssh/identity
 root/.ssh/identity.pub
 root/.ssh/known_hosts
@@ -87229,6 +87391,11 @@ usr/share/tomcat6/conf/server.xml
 usr/share/tomcat6/conf/workers.properties
 usr/share/tomcat6/logs/catalina.err
 usr/share/tomcat6/logs/catalina.out
+usr/share/tomcat9/etc/catalina.properties
+usr/share/tomcat9/etc/context.xml
+usr/share/tomcat9/etc/jaspic-providers.xml
+usr/share/tomcat9/etc/logging.properties
+usr/share/tomcat9/etc/server.xml
 usr/share/tomcat9/etc/tomcat-users.xml
 usr/spool/lp/log
 usr/spool/mqueue/syslog
@@ -97258,6 +97425,9 @@ var/log/alternatives.log.2.gz
 var/log/alternatives.log.3.gz
 var/log/alternatives.log.4.gz
 var/log/alternatives.log.5.gz
+var/log/anaconda/anaconda.log
+var/log/anaconda/anaconda.syslog
+var/log/anaconda/anaconda.xlog
 var/log/apache-ssl/access.log
 var/log/apache-ssl/error.log
 var/log/apache/access_log
@@ -97358,6 +97528,8 @@ var/log/btmp
 var/log/btmp.1
 var/log/chttp.log
 var/log/clamav/clamav.log
+var/log/cloud-init-output.log
+var/log/cloud-init.log
 var/log/ConsoleKit
 var/log/ConsoleKit/history
 var/log/ConsoleKit/history.1
@@ -97399,6 +97571,8 @@ var/log/dmesg.2.gz
 var/log/dmesg.3.gz
 var/log/dmesg.4.gz
 var/log/dmessage
+var/log/docker.log
+var/log/dovecot.log
 var/log/dpkg.log
 var/log/dpkg.log.1
 var/log/dpkg.log.2.gz
@@ -97428,6 +97602,8 @@ var/log/exim/paniclog
 var/log/exim/paniclog%00
 var/log/exim/rejectlog
 var/log/exim/rejectlog%00
+var/log/exim4/mainlog
+var/log/fail2ban.log
 var/log/faillog
 var/log/fontconfig.log
 var/log/fsck
@@ -97440,6 +97616,7 @@ var/log/ftp-proxy%00
 var/log/ftplog
 var/log/ftplog/var/log/httpd/access_log
 var/log/ftplog%00
+var/log/haproxy.log
 var/log/hp
 var/log/httpd-access.log
 var/log/httpd-access.log%00
@@ -97470,6 +97647,7 @@ var/log/ipfw
 var/log/ipfw.log
 var/log/ipfw.today
 var/log/ipfw/ipfw.log
+var/log/jockey.log
 var/log/kern.log
 var/log/kern.log.1
 var/log/kern.log.2.gz
@@ -97517,6 +97695,7 @@ var/log/messages.2.gz
 var/log/messages.3
 var/log/messages.3.gz
 var/log/messages.log
+var/log/mintsystem.log
 var/log/muddleftpd
 var/log/muddleftpd.conf
 var/log/mysql
@@ -97580,6 +97759,7 @@ var/log/pm-powersave.log.1
 var/log/pm-powersave.log.2.gz
 var/log/pm-powersave.log.3.gz
 var/log/pm-powersave.log.4.gz
+var/log/pm-suspend.log
 var/log/poplog
 var/log/POPlog
 var/log/postgres/pg_backup.log
@@ -97596,6 +97776,7 @@ var/log/postgresql/postgresql.log
 var/log/proftpd
 var/log/proftpd.access_log
 var/log/proftpd.xferlog
+var/log/proftpd/proftpd.log
 var/log/proftpd/var/www/logs/access.log
 var/log/proftpd/xferlog.legacy
 var/log/proftpd%00
@@ -97605,6 +97786,7 @@ var/log/pureftpd.log
 var/log/pureftpd.log%00
 var/log/qmail
 var/log/qmail/
+var/log/redis/redis-server.log
 var/log/samba
 var/log/samba-log.%m
 var/log/samba.log
@@ -97614,9 +97796,13 @@ var/log/samba/log.nmbd
 var/log/samba/log.smbd
 var/log/secure
 var/log/secure.log
+var/log/slapd.log
 var/log/smtpd
+var/log/snmpd.log
 var/log/speech-dispatcher
 var/log/spooler
+var/log/squid/access.log
+var/log/squid/cache.log
 var/log/squirrelmail.log
 var/log/sshd.log
 var/log/sso/sso.log
@@ -97669,6 +97855,7 @@ var/log/udev
 var/log/ufw.log
 var/log/unattended-upgrades
 var/log/unattended-upgrades/unattended-upgrades-shutdown.log
+var/log/unattended-upgrades/unattended-upgrades.log
 var/log/upstart
 var/log/upstart/alsa-restore.log.1.gz
 var/log/upstart/alsa-restore.log.2.gz
