@@ -615,6 +615,7 @@ scmadmin
 scott
 script
 scripts
+secrecy
 security
 server
 service

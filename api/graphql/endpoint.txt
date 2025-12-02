@@ -16,6 +16,7 @@ graphql-playground
 graphql-playground-html
 graphql.php
 graphql/api
+-/graphql
 graphql/api/v1
 graphql/console
 graphql/console/

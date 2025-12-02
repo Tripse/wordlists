@@ -16,6 +16,7 @@ ansible
 apc
 app
 AppProdUser
+audit
 auditor
 azureuser
 both
@@ -61,6 +62,7 @@ role1
 root
 Root
 sa
+secrecy
 security
 setup
 super

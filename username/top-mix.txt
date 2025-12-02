@@ -25321,6 +25321,7 @@ secadmin
 SECDEMO
 secoff
 secofr
+secrecy
 secret
 secretar
 secretariat
