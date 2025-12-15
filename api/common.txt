@@ -2885,6 +2885,7 @@ api.json
 api/graphiql
 api/graphql
 api/graphql/v1
+api/public/jssdk/config
 api/v1
 api/v1/admin/site-replication
 api/v1/cluster/allocatable-resources?num_nodes=
@@ -19305,6 +19306,7 @@ public/feeds.json
 public/index
 public/index.json
 public/index/
+public/jssdk/config
 public/logout
 public/NEditor/
 public/open

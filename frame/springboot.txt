@@ -1535,13 +1535,11 @@ swagger-resources/configuration/ui/actuator/spring-security-rest/api/swagger-ui.
 swagger-resources/restservices
 swagger-resources/restservices/v2/api-docs
 swagger-ui
-swagger-ui-bundle.js
 swagger-ui-dist/
 swagger-ui-dist/index.html
 swagger-ui.html
 swagger-ui.html/api/v2/swagger.json
 swagger-ui.html#
-swagger-ui.js
 swagger-ui.json
 swagger-ui.yaml
 swagger-ui/
@@ -1551,12 +1549,6 @@ swagger-ui/api-docs/swagger.json
 swagger-ui/html
 swagger-ui/index
 swagger-ui/index.html
-swagger-ui/springfox.js
-swagger-ui/swagger-ui-bundle.js
-swagger-ui/swagger-ui-standalone-preset.js
-swagger-ui/swagger-ui.css
-swagger-ui/swagger-ui.js
-swagger-ui/swagger-ui/swagger-ui-bundle.js
 swagger-ui/swagger.json
 swagger-ui/swagger.yaml
 swagger.json
@@ -1587,7 +1579,6 @@ swagger/static/index.html
 swagger/swagger
 swagger/swagger-ui.htm
 swagger/swagger-ui.html
-swagger/swagger-ui.js
 swagger/swagger-ui/
 swagger/swagger-ui/index.html
 swagger/ui
@@ -1595,7 +1586,6 @@ swagger/ui/
 swagger/ui/index
 Swagger/ui/index
 swagger/ui/index.html
-swagger/ui/swagger-ui.js
 swagger/v1
 swagger/v1/api-docs
 swagger/v1/swagger.json
@@ -1808,7 +1798,6 @@ version
 version/
 webjars/**/actuator/nacosconfig
 webjars/swagger-ui/index.html
-webjars/swagger-ui/swagger-ui-bundle.js
 webpage/system/druid/index.html
 webpage/system/druid/login.html
 webpage/system/druid/websession.html
